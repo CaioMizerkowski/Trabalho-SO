@@ -25,7 +25,23 @@ int     alteracoes=0;
 char    msg [ARRAY_LEN][ARRAY_LEN];
 int     ditados=0;
 
-void LeDitado()
+void LeDitado(const char *str)
+{
+    FILE *arq;
+
+    if ( (arq=fopen("Ditados.txt","r")) == NULL ) { printf("\n Erro lendo arquivo ...\n\n");exit(0);}
+    while (!feof(arq)) {
+
+       fgets(msg[ditados],ARRAY_LEN,arq);
+       // para debug
+       // printf("%d %s",ditados,msg[ditados]);
+       ditados=(ditados+1)%ARRAY_LEN;
+    }
+    printf("\n\nCarregou %d ditados",ditados);
+
+}
+
+void GravaDitado()
 {
     FILE *arq;
 
@@ -167,6 +183,7 @@ void *atendeConexao( void *sd2 )
             //Inicio RC
             remove_element(val);
             alteracoes++;
+            ditados--;
             //Fim RC
             sprintf(str,"\nOK");
             send(sd,str,strlen(str),0);
@@ -234,7 +251,6 @@ void *atendeConexao( void *sd2 )
 
         else if (!strncmp(str,"PALAVRAS-T",10)) {
             int c=0, i;
-            //memset(str, 0, STR_LEN);
             //Inicio RC
             for(i = 0; i < ARRAY_LEN - 1; i++){    
                 memset(str, 0, STR_LEN);            
@@ -248,7 +264,9 @@ void *atendeConexao( void *sd2 )
 
         else if (!strncmp(str,"ALTERACOES",10)) {
             memset(str, 0, STR_LEN); //Limpa o buffer
+            //Inicio RC
             sprintf(str,"\n%d", alteracoes);
+            //Fim RC
             send(sd,str,STR_LEN,0); //envia a mensagem
         }
 
