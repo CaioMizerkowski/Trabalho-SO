@@ -28,32 +28,34 @@ int     ditados=0;
 void LeDitado(const char *str)
 {
     FILE *arq;
-
-    if ( (arq=fopen("Ditados.txt","r")) == NULL ) { printf("\n Erro lendo arquivo ...\n\n");exit(0);}
+    ditados = 0;
+    if ( (arq=fopen(str,"r")) == NULL ) { printf("\n Erro lendo arquivo ...\n\n");exit(0);}
     while (!feof(arq)) {
 
        fgets(msg[ditados],ARRAY_LEN,arq);
        // para debug
-       // printf("%d %s",ditados,msg[ditados]);
+       //printf("%d %s",ditados,msg[ditados]);
        ditados=(ditados+1)%ARRAY_LEN;
     }
     printf("\n\nCarregou %d ditados",ditados);
+    fclose(arq);
 
 }
 
-void GravaDitado()
+void GravaDitado(const char *str)
 {
     FILE *arq;
+    int n = ditados;
+    if ( (arq=fopen(str,"w")) == NULL ) { printf("\n Erro lendo arquivo ...\n\n");exit(0);}
 
-    if ( (arq=fopen("Ditados.txt","r")) == NULL ) { printf("\n Erro lendo arquivo ...\n\n");exit(0);}
-    while (!feof(arq)) {
-
-       fgets(msg[ditados],ARRAY_LEN,arq);
-       // para debug
-       // printf("%d %s",ditados,msg[ditados]);
-       ditados=(ditados+1)%ARRAY_LEN;
+    for(int i = 0; i < ditados; i++) {
+        fputs(msg[i], arq);
+        n--;
+        // para debug
+        //printf("%d %s",i,msg[i]);
     }
-    printf("\n\nCarregou %d ditados",ditados);
+    fclose(arq);
+    printf("\n\nSalvou %d ditados",ditados-n);
 
 }
 
@@ -86,7 +88,7 @@ void busca(int sd, char *input){
     }
 }
 
-int palavras_d(char *str) {          
+int palavras_d(char *str) {
     int c = 0, sep = 0, i;
     for(i = 0; i < STR_LEN - 1; i++){
         if (isspace(str[i])) {
@@ -103,7 +105,7 @@ void *atendeConexao( void *sd2 )
 {
     int *temp=sd2;
     int sd=*temp;
-    char str[STR_LEN], *endptr;
+    char str[STR_LEN], str2[STR_LEN-100], *endptr;
 
     int i=0, b, val;
 
@@ -165,9 +167,9 @@ void *atendeConexao( void *sd2 )
             //printf("\nNovo ditado %d: %s",val,msg[val]);
             }
 
-        else if (!strncmp(str,"EXAMPLE",7)) {
+        else if (!strncmp(str,"HELP",7)) {
             memset(str, 0, STR_LEN); //Limpa o buffer
-            sprintf(str,"\nMensagem para o client");
+            sprintf(str,"\nGETR\nGETN\nREPLACE\nVER\nDEL\nROTATE\nSEARCH\nPALAVRAS-D\nPALAVRAS-T\nALTERACOES\nGRAVA\nLE\nFIM");
             send(sd,str,STR_LEN,0); //envia a mensagem
         }
 
@@ -252,8 +254,8 @@ void *atendeConexao( void *sd2 )
         else if (!strncmp(str,"PALAVRAS-T",10)) {
             int c=0, i;
             //Inicio RC
-            for(i = 0; i < ARRAY_LEN - 1; i++){    
-                memset(str, 0, STR_LEN);            
+            for(i = 0; i < ARRAY_LEN - 1; i++){
+                memset(str, 0, STR_LEN);
                 strcpy(str, msg[i]);
                 c += palavras_d(str);
             }
@@ -272,13 +274,24 @@ void *atendeConexao( void *sd2 )
 
         else if (!strncmp(str,"GRAVA",5)) {
             memset(str, 0, STR_LEN); //Limpa o buffer
-            sprintf(str,"\nMensagem para o client");
+            memset(str2, 0, STR_LEN-100); //Limpa o buffer
+            recv(sd, str2, STR_LEN-100, 0);
+            //Inicio RC
+            GravaDitado(str2);
+            //Fim RC
+            sprintf(str,"\nMensagem gravada em %s", str2);
             send(sd,str,STR_LEN,0); //envia a mensagem
         }
 
         else if (!strncmp(str,"LE",2)) {
             memset(str, 0, STR_LEN); //Limpa o buffer
-            sprintf(str,"\nMensagem para o client");
+            memset(str2, 0, STR_LEN-100); //Limpa o buffer
+            recv(sd, str2, STR_LEN-100, 0);
+            //Inicio RC
+            LeDitado(str2);
+            alteracoes = 0;
+            //Fim RC
+            sprintf(str,"\nMensagem lida de %s", str2);
             send(sd,str,STR_LEN,0); //envia a mensagem
         }
 
@@ -298,6 +311,7 @@ void *atendeConexao( void *sd2 )
             sprintf(str,"\n");
         }
         else{
+            send(sd,str,strlen(str),0);
             memset(str, 0, STR_LEN);
             sprintf(str,"\nErro de Protocolo");
             send(sd,str,strlen(str),0);
@@ -338,7 +352,7 @@ int main(int argc, char **argv)
         exit(1);
     }
 
-        LeDitado();
+        LeDitado("Ditados.txt");
 
     /* Map TCP transport protocol name to protocol number */
 

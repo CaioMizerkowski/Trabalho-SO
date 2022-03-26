@@ -48,8 +48,8 @@ void GravaDitado(const char *str)
 
 int main(int argc, char **argv)
 {
-    char *str = "Ditados.txt"; 
-    char *str2 = "Ditados2.txt"; 
+    char str[1000] = "Ditados33.txt"; 
+    char str2[1000] = "Ditados33.txt"; 
         LeDitado(str);
         GravaDitado(str2);
     exit(0);
