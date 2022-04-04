@@ -14,6 +14,7 @@
 #include <ctype.h>
 #include <unistd.h>
 #include <time.h>
+#include <semaphore.h>
 
 #define PROTOPORT       5193            /* default protocol port number */
 #define QLEN            6               /* size of request queue        */
@@ -24,6 +25,7 @@ int     visits=0;                       /* counts client connections    */
 int     alteracoes=0;
 char    msg [ARRAY_LEN][ARRAY_LEN];
 int     ditados=0;
+sem_t m;
 
 void LeDitado(const char *str)
 {
@@ -117,10 +119,10 @@ void *atendeConexao( void *sd2 )
 
         while (1) {
         fflush(stdout);
-        //Inicio RC
+        sem_wait(&m);
         visits++;
         sprintf(str,"\nRequisição %d \n", visits);
-        //Fim RC
+        sem_post(&m);
         rc = send(sd,str,strlen(str),MSG_NOSIGNAL);
         if (rc == -1){
             printf("\nSocket fechado\n");
@@ -135,9 +137,9 @@ void *atendeConexao( void *sd2 )
 
         if (!strncmp(str,"GETR",4)) {
             memset(str, 0, STR_LEN);
-            //Inicio RC
+            sem_wait(&m);
             sprintf(str,"\nDitado %d: %s ", visits%ditados, msg[visits%ditados]);
-            //Fim RC
+            sem_post(&m);
             send(sd,str,STR_LEN,0);
         }
         else if (!strncmp(str,"GETN",4)) {
@@ -150,9 +152,9 @@ void *atendeConexao( void *sd2 )
                 continue;
                 }
             else{
-                //Inicio RC
+                sem_wait(&m);
                 send(sd,msg[val],strlen(msg[val]),0);
-                //Fim RC
+                sem_post(&m);
             }
         }
         else if (!strncmp(str,"REPLACE",7)) {
@@ -167,10 +169,10 @@ void *atendeConexao( void *sd2 )
             send(sd,str,strlen(str),0);
             b=recv(sd, str, STR_LEN, 0);
             str[b]=0;
-            //Inicio RC
+            sem_wait(&m);
             strcpy(msg[val],str);
             alteracoes++;
-            //Fim RC
+            sem_post(&m);
 
             sprintf(str,"\nOK");
             send(sd,str,strlen(str),0);
@@ -192,12 +194,15 @@ void *atendeConexao( void *sd2 )
                 sprintf(str,"\nFALHA");
                 continue;
             }
-            //Inicio RC
+            sem_wait(&m);
             printf("\nRecebido %i", val);
             remove_element(val);
+            printf("\nRemovido %i", val);
             alteracoes++;
+            printf("\nAlteracao++");
             ditados--;
-            //Fim RC
+            printf("\nDitados--");
+            sem_post(&m);
             sprintf(str,"\nOK");
             send(sd,str,strlen(str),0);
         }
@@ -223,12 +228,12 @@ void *atendeConexao( void *sd2 )
                 continue;
             }
 
-            //Inicio RC
+            sem_wait(&m);
             strcpy(str,msg[val1]);
             strcpy(msg[val1],msg[val2]);
             strcpy(msg[val2],str);
             alteracoes++;
-            //Fim RC
+            sem_post(&m);
 
             sprintf(str,"\nOK");
             send(sd,str,strlen(str),0);
@@ -238,9 +243,9 @@ void *atendeConexao( void *sd2 )
         else if (!strncmp(str,"SEARCH",6)) {
             memset(str, 0, STR_LEN);
             recv(sd, str, STR_LEN, 0); //str com o termo de busca
-            //Inicio RC
+            sem_wait(&m);
             busca(sd, str);
-            //Fim RC
+            sem_post(&m);
         }
 
         else if (!strncmp(str,"PALAVRAS-D",10)) {
@@ -253,10 +258,10 @@ void *atendeConexao( void *sd2 )
                 sprintf(str,"\nFALHA");
                 continue;
             }
-            //Inicio RC
+            sem_wait(&m);
             strcpy(str, msg[val]);
             c = palavras_d(str);
-            //Fim RC
+            sem_post(&m);
 
             sprintf(str, "%d", c);
             send(sd,str,strlen(str),0);
@@ -264,22 +269,22 @@ void *atendeConexao( void *sd2 )
 
         else if (!strncmp(str,"PALAVRAS-T",10)) {
             int c=0, i;
-            //Inicio RC
+            sem_wait(&m);
             for(i = 0; i < ARRAY_LEN - 1; i++){
                 memset(str, 0, STR_LEN);
                 strcpy(str, msg[i]);
                 c += palavras_d(str);
             }
-            //Fim RC
+            sem_post(&m);
             sprintf(str, "%d", c);
             send(sd,str,strlen(str),0);
         }
 
         else if (!strncmp(str,"ALTERACOES",10)) {
             memset(str, 0, STR_LEN); //Limpa o buffer
-            //Inicio RC
+            sem_wait(&m);
             sprintf(str,"\n%d", alteracoes);
-            //Fim RC
+            sem_post(&m);
             send(sd,str,STR_LEN,0); //envia a mensagem
         }
 
@@ -287,9 +292,9 @@ void *atendeConexao( void *sd2 )
             memset(str, 0, STR_LEN); //Limpa o buffer
             memset(str2, 0, STR_LEN-100); //Limpa o buffer
             recv(sd, str2, STR_LEN-100, 0);
-            //Inicio RC
+            sem_wait(&m);
             GravaDitado(str2);
-            //Fim RC
+            sem_post(&m);
             sprintf(str,"\nMensagem gravada em %s", str2);
             send(sd,str,STR_LEN,0); //envia a mensagem
         }
@@ -298,10 +303,10 @@ void *atendeConexao( void *sd2 )
             memset(str, 0, STR_LEN); //Limpa o buffer
             memset(str2, 0, STR_LEN-100); //Limpa o buffer
             recv(sd, str2, STR_LEN-100, 0);
-            //Inicio RC
+            sem_wait(&m);
             LeDitado(str2);
             alteracoes = 0;
-            //Fim RC
+            sem_post(&m);
             sprintf(str,"\nMensagem lida de %s", str2);
             send(sd,str,STR_LEN,0); //envia a mensagem
         }
@@ -343,6 +348,7 @@ int main(int argc, char **argv)
     int     port;            /* protocol port number                */
     int     alen;            /* length of address                   */
     pthread_t t;
+    sem_init(&m, 0, 1);
 
     fflush(stdout);srandom(time(NULL)); /* inicializa a semente do gerador de números aleatórios */
 
