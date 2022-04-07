@@ -139,7 +139,7 @@ int main(int argc, char **argv)
 
     printf("#ESTOU PRONTO\n");
     sem_init(&m, 0, 1);
-    
+
     printf("Iniciando primeira thread\n");
     pthread_create(&t[0], NULL, recebeDados, &sd );
 

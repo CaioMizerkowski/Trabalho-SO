@@ -10,7 +10,8 @@
 			"semaphore.h": "c",
 			"stdio.h": "c",
 			"pthread.h": "c",
-			"netdb.h": "c"
+			"netdb.h": "c",
+			"types.h": "c"
 		}
 	}
 }

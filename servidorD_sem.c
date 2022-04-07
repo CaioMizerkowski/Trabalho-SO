@@ -355,7 +355,7 @@ void *atendeConexao( void *sd2 )
             printf("Erro de Protocolo, recebido '%s'\n", str2);
             send(sd,str1,strlen(str1),0);
            }
-        
+
         memset(str1, 0, STR_LEN);
         sprintf(str1,"ACK");
         rc = send(sd,str1,strlen(str1),MSG_NOSIGNAL);

@@ -76,7 +76,7 @@ void *enviaDados( void *sd2 ){
         memset(buf, 0, sizeof(buf));
         scanf("%s", buf);
         send(sd, buf, sizeof(buf), 0);
- 
+
        if(!strncmp(buf,"FIM",3)){
             break;
         }
@@ -180,7 +180,7 @@ int main(int argc, char **argv)
         fprintf(stderr,"connect failed\n");
         exit(1);
     }
-    
+
     sem_init(&m, 0, 1);
     printf("#ESTOU PRONTO\n");
 
