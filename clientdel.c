@@ -14,7 +14,7 @@
 #include <semaphore.h>
 #define PROTOPORT       5193            /* default protocol port number */
 #define N_THREADS       2
-#define QLEN            6               /* size of request queue        */
+#define QLEN            2000               /* size of request queue        */
 #define ARRAY_LEN 1000
 #define STR_LEN 1024
 
@@ -42,51 +42,79 @@ char    localhost[] =   "localhost";    /* default host name            */
  *------------------------------------------------------------------------
  */
 
-void *deltadorrecebeDados( void *sd2 ){
+void *recebeDados( void *sd2 ){
     int *temp=sd2;
     int sd=*temp;
-    int n=0;
+    int n=1;
     char buf[1024];
-
-    memset(buf, 0, sizeof(buf));
-    n = recv(sd, buf, sizeof(buf), 0);
-    printf("%s",buf);
 
     while (n > 0) {
         memset(buf, 0, sizeof(buf));
         n = recv(sd, buf, sizeof(buf), 0);
-        printf("%s\n",buf);
-        fflush(NULL);
-        //sem_wait(&m);
+
+        if(!strncmp(buf,"ACK",3)){
+            printf("ACK\n");
+        } else{
+            sem_post(&m);
+            //printf("%s",buf);
+        }
+
+        if (!strncmp(buf,"Adeus",5)) {
+            printf("Parando de receber dados\n");
+            break;
+        }
     }
 }
 
-void *deletadorenviaDados( void *sd2 ){
+void *enviaDados( void *sd2 ){
     int *temp=sd2;
     int sd=*temp;
     int n;
     char buf[1024];
-	int contador=0;
-    while (contador<10){
-        memset(buf, 0, sizeof(buf));
-        strcpy(buf ,"DEL");
-        send(sd, buf, sizeof(buf), 0);
 
+    while (1){
         memset(buf, 0, sizeof(buf));
-        strcpy(buf ,"1");
+        scanf("%s", buf);
         send(sd, buf, sizeof(buf), 0);
-        //sleep(1);
-
-//        fflush(NULL);
-		//sem_post(&m);
-        contador++;
+ 
+       if(!strncmp(buf,"FIM",3)){
+            break;
+        }
     }
-//    while(1);
-    sleep(1);
+}
+
+void *deletadorEnviaDados( void *sd2 ){
+    int *temp=sd2;
+    int sd=*temp;
+    int n;
+    char buf[1024];
+
+	int contador=0;
+    while (contador<100){
+        sem_wait(&m);
+        memset(buf, 0, sizeof(buf));
+        strcpy(buf, "DEL\n");
+        printf("%li",strlen(buf));
+        send(sd, buf, sizeof(buf), 0);
+
+        memset(buf, 0, sizeof(buf));
+        strcpy(buf, "1\n");
+        printf("%li",strlen(buf));
+        send(sd, buf, sizeof(buf), 0);
+
+        contador++;
+        usleep(100);
+    }
+/*    sleep(1);
     memset(buf, 0, sizeof(buf));
     strcpy(buf ,"ALTERACOES");
     send(sd, buf, sizeof(buf), 0);
-    sleep(10);
+*/
+
+    sleep(1);
+    memset(buf, 0, sizeof(buf));
+    strcpy(buf ,"FIM");
+    send(sd, buf, sizeof(buf), 0);
 }
 
 int main(int argc, char **argv)
@@ -105,6 +133,7 @@ int main(int argc, char **argv)
     WSADATA wsaData;
     WSAStartup(0x0101, &wsaData);
 #endif
+    printf("#OLA\n");
 
     memset((char *)&sad,0,sizeof(sad)); /* clear sockaddr structure */
     sad.sin_family = AF_INET;         /* set family to Internet     */
@@ -137,7 +166,7 @@ int main(int argc, char **argv)
     memcpy(&sad.sin_addr, ptrh->h_addr, ptrh->h_length);
     /* Map TCP transport protocol name to protocol number. */
     if ( ((long long)(ptrp = getprotobyname("tcp"))) == 0) {
-        fprintf(stderr, "cannot map \"tcp\" to protocol number");
+        fprintf(stderr, "cannot map \"tcp\" to protocol number\n");
         exit(1);
     }
     /* Create a socket. */
@@ -152,20 +181,22 @@ int main(int argc, char **argv)
         exit(1);
     }
 
-    //sem_init(&m, 0, 0);
+    printf("#ESTOU PRONTO\n");
 
 	printf("Iniciando primeira thread\n");
-    pthread_create(&t[0], NULL, deltadorrecebeDados, &sd );
+    pthread_create(&t[0], NULL, recebeDados, &sd );
 
     printf("Iniciando segunda thread\n");
-    pthread_create(&t[1], NULL,  deletadorenviaDados, &sd );
+    pthread_create(&t[1], NULL,  deletadorEnviaDados, &sd );
 
-	//pthread_join(t[0], NULL);
+    pthread_join(t[0], NULL);
     pthread_join(t[1], NULL);
 
+    fflush(NULL);
     /* Close the socket. */
     closesocket(sd);
+
+    printf("#Terminando programa\n");
     /* Terminate the client program gracefully. */
     exit(0);
 }
-

@@ -34,17 +34,17 @@ char    localhost[] =   "localhost";    /* default host name            */
 void *recebeDados( void *sd2 ){
     int *temp=sd2;
     int sd=*temp;
-    int n=0;
+    int n=1;
     char buf[1024];
-
-    memset(buf, 0, sizeof(buf));
-    n = recv(sd, buf, sizeof(buf), 0);
-    printf("%s",buf);
 
     while (n > 0) {
         memset(buf, 0, sizeof(buf));
         n = recv(sd, buf, sizeof(buf), 0);
         printf("%s",buf);
+        if (!strncmp(buf,"Adeus",5)) {
+            printf("Parando de receber dados\n");
+            break;
+        }
     }
 }
 
@@ -80,6 +80,7 @@ int main(int argc, char **argv)
     WSADATA wsaData;
     WSAStartup(0x0101, &wsaData);
 #endif
+    printf("#OLA\n");
 
     memset((char *)&sad,0,sizeof(sad)); /* clear sockaddr structure */
     sad.sin_family = AF_INET;         /* set family to Internet     */
@@ -112,7 +113,7 @@ int main(int argc, char **argv)
     memcpy(&sad.sin_addr, ptrh->h_addr, ptrh->h_length);
     /* Map TCP transport protocol name to protocol number. */
     if ( ((long long)(ptrp = getprotobyname("tcp"))) == 0) {
-        fprintf(stderr, "cannot map \"tcp\" to protocol number");
+        fprintf(stderr, "cannot map \"tcp\" to protocol number\n");
         exit(1);
     }
     /* Create a socket. */
@@ -127,40 +128,22 @@ int main(int argc, char **argv)
         exit(1);
     }
 
-    /* Repeatedly read data from socket and write to user's screen. */
-    /*memset(buf,0, sizeof(buf));
-    n = recv(sd, buf, sizeof(buf), 0);
-    printf("%s",buf);
+    printf("#ESTOU PRONTO\n");
 
-    while (buf!="\nAté Logo"){
-        memset(buf, 0, sizeof(buf));
-        printf("Proximo comando: ");
-        scanf("%s", buf);
-        send(sd, buf, sizeof(buf), 0);
-
-        while (n > 0) {
-            printf("\nlimpando a memoria");
-            memset(buf, 0, sizeof(buf));
-            printf("\nrecebendo dados");
-            fflush(stdout);
-            n = recv(sd, buf, sizeof(buf), 0);
-            printf("\nmostrando dados:");
-            printf("%s",buf);
-        }
-    }*/
-
-    printf("Iniciando primeira thread\n");
-    pthread_create(&t[0], NULL,  recebeDados, &sd );
+	printf("Iniciando primeira thread\n");
+    pthread_create(&t[0], NULL, recebeDados, &sd );
 
     printf("Iniciando segunda thread\n");
     pthread_create(&t[1], NULL,  enviaDados, &sd );
- 
+
+    pthread_join(t[0], NULL);
     pthread_join(t[1], NULL);
-    pthread_join(t[1], NULL); 
-    
+
+    fflush(NULL);
     /* Close the socket. */
     closesocket(sd);
+
+    printf("#Terminando programa\n");
     /* Terminate the client program gracefully. */
     exit(0);
 }
-
