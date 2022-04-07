@@ -11,7 +11,8 @@
 			"stdio.h": "c",
 			"pthread.h": "c",
 			"netdb.h": "c",
-			"types.h": "c"
+			"types.h": "c",
+			"unistd.h": "c"
 		}
 	}
 }
