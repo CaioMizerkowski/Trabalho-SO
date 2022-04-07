@@ -10,10 +10,12 @@
 #include <netinet/in.h>
 #include <arpa/inet.h>
 #include <netdb.h>
+#include <semaphore.h>
 
 #define PROTOPORT       5193            /* default protocol port number */
 #define N_THREADS       2
 extern  int             errno;
+sem_t m;
 char    localhost[] =   "localhost";    /* default host name            */
 /*------------------------------------------------------------------------
  * Program:   client
@@ -40,7 +42,14 @@ void *recebeDados( void *sd2 ){
     while (n > 0) {
         memset(buf, 0, sizeof(buf));
         n = recv(sd, buf, sizeof(buf), 0);
-        printf("%s",buf);
+
+        if(!strncmp(buf,"ACK",3)){
+            printf("ACK\n");
+        } else{
+            sem_post(&m);
+            printf("%s",buf);
+        }
+
         if (!strncmp(buf,"Adeus",5)) {
             printf("Parando de receber dados\n");
             break;
