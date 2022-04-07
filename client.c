@@ -43,15 +43,17 @@ void *recebeDados( void *sd2 ){
         memset(buf, 0, sizeof(buf));
         n = recv(sd, buf, sizeof(buf), 0);
 
+        sem_post(&m);
+
         if(!strncmp(buf,"ACK",3)){
             printf("ACK\n");
         } else{
-            sem_post(&m);
-            printf("%s",buf);
+            //printf("%s",buf);
         }
 
         if (!strncmp(buf,"Adeus",5)) {
             printf("Parando de receber dados\n");
+            sem_post(&m);
             break;
         }
     }
@@ -64,6 +66,7 @@ void *enviaDados( void *sd2 ){
     char buf[1024];
 
     while (1){
+        sem_wait(&m);
         memset(buf, 0, sizeof(buf));
         scanf("%s", buf);
         send(sd, buf, sizeof(buf), 0);

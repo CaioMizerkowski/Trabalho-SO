@@ -52,15 +52,17 @@ void *recebeDados( void *sd2 ){
         memset(buf, 0, sizeof(buf));
         n = recv(sd, buf, sizeof(buf), 0);
 
+        sem_post(&m);
+
         if(!strncmp(buf,"ACK",3)){
             printf("ACK\n");
         } else{
-            sem_post(&m);
             //printf("%s",buf);
         }
 
         if (!strncmp(buf,"Adeus",5)) {
             printf("Parando de receber dados\n");
+            sem_post(&m);
             break;
         }
     }
@@ -73,6 +75,7 @@ void *enviaDados( void *sd2 ){
     char buf[1024];
 
     while (1){
+        sem_wait(&m);
         memset(buf, 0, sizeof(buf));
         scanf("%s", buf);
         send(sd, buf, sizeof(buf), 0);
@@ -94,16 +97,13 @@ void *deletadorEnviaDados( void *sd2 ){
         sem_wait(&m);
         memset(buf, 0, sizeof(buf));
         strcpy(buf, "DEL\n");
-        printf("%li",strlen(buf));
         send(sd, buf, sizeof(buf), 0);
 
         memset(buf, 0, sizeof(buf));
         strcpy(buf, "1\n");
-        printf("%li",strlen(buf));
         send(sd, buf, sizeof(buf), 0);
 
         contador++;
-        usleep(100);
     }
 /*    sleep(1);
     memset(buf, 0, sizeof(buf));
@@ -190,8 +190,10 @@ int main(int argc, char **argv)
     printf("Iniciando segunda thread\n");
     pthread_create(&t[1], NULL,  deletadorEnviaDados, &sd );
 
-    pthread_join(t[0], NULL);
     pthread_join(t[1], NULL);
+    printf("#Enviou tudo\n");
+    pthread_join(t[0], NULL);
+    printf("#Recebeu tudo\n");
 
     fflush(NULL);
     /* Close the socket. */

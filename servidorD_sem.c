@@ -364,12 +364,12 @@ void *atendeConexao( void *sd2 )
             break;
         }
 
-       }
+    }
 
-        printf("Fechando a conexão com %i deletes\n", del_values);
-        close(sd);
-        printf("Fechado Socket: %i\n", sd);
-        fflush(stdout);
+    printf("Fechando a conexão com %i deletes\n", del_values);
+    close(sd);
+    printf("Fechado Socket: %i\n", sd);
+    fflush(stdout);
 }
 
 int main(int argc, char **argv)
