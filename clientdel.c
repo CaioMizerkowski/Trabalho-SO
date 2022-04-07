@@ -89,7 +89,7 @@ void *deletadorEnviaDados( void *sd2 ){
     int n;
     char buf[1024];
 
-	int contador=0;
+    int contador=0;
     while (contador<100){
         sem_wait(&m);
         memset(buf, 0, sizeof(buf));
@@ -180,10 +180,11 @@ int main(int argc, char **argv)
         fprintf(stderr,"connect failed\n");
         exit(1);
     }
-
+    
+    sem_init(&m, 0, 1);
     printf("#ESTOU PRONTO\n");
 
-	printf("Iniciando primeira thread\n");
+    printf("Iniciando primeira thread\n");
     pthread_create(&t[0], NULL, recebeDados, &sd );
 
     printf("Iniciando segunda thread\n");
