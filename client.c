@@ -54,9 +54,9 @@ void *recebeDados( void *sd2 ){
         memset(buf, 0, sizeof(buf));
         n = recv(sd, buf, sizeof(buf), 0);
 
-        if(lock && ){
+        if(lock && !strncmp(buf,"ACK",3)){
             sem_post(&m);
-        }else{
+        }else if(!lock){
             printf("%s",buf);
         }
 
