@@ -114,11 +114,11 @@ void *atendeConexao( void *sd2 )
 {
     int *temp=sd2;
     int sd=*temp;
-    // fim do mutex para impedir a criação simultanea de threads
+    // fim do mutex para impedir a criação simultânea de threads
     sem_post(&m2);
 
     char str1[STR_LEN], str2[STR_LEN-100], *endptr;
-    int i=0, b=0, val=0, rc=0, del_values=0;
+    int i=0, b=0, val=0, rc=0, alt_values=0;
     printf("Aberto Socket: %i\n", sd);
 
     while (1) {
@@ -181,6 +181,7 @@ void *atendeConexao( void *sd2 )
             sem_wait(&m);
             strcpy(msg[val],str1);
             alteracoes++;
+            alt_values++;
             sem_post(&m);
 
             memset(str1, 0, STR_LEN);
@@ -208,8 +209,8 @@ void *atendeConexao( void *sd2 )
             sem_wait(&m);
             remove_element(val);
             alteracoes++;
+            alt_values++;
             ditados--;
-            del_values++;
             sem_post(&m);
             memset(str1, 0, STR_LEN);
             sprintf(str1,"OK\n");
@@ -245,6 +246,7 @@ void *atendeConexao( void *sd2 )
             strcpy(msg[val1],msg[val2]);
             strcpy(msg[val2],str1);
             alteracoes++;
+            alt_values++;
             sem_post(&m);
 
             memset(str1, 0, STR_LEN);
@@ -322,6 +324,7 @@ void *atendeConexao( void *sd2 )
             sem_wait(&m);
             LeDitado(str2);
             alteracoes = 0;
+            alt_values = 0;
             sem_post(&m);
 
             memset(str1, 0, STR_LEN);
@@ -366,7 +369,7 @@ void *atendeConexao( void *sd2 )
 
     }
 
-    printf("Fechando a conexão com %i deletes\n", del_values);
+    printf("Fechando a conexão com %i alteracoes pela thread\n", alt_values);
     close(sd);
     printf("Fechado Socket: %i\n", sd);
     fflush(stdout);
@@ -444,7 +447,7 @@ int main(int argc, char **argv)
     while (1) {
         sem_wait(&m2);
         alen = sizeof(cad);
-        // inicio do mutex para impedir a criação simultanea de threads
+        // inicio do mutex para impedir a criação simultânea de threads
         sd2=accept(sd, (struct sockaddr *)&cad, &alen);
         printf("Socket: %i\n", sd2);
         if ( sd2 < 0) {

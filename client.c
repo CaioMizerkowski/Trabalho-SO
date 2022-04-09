@@ -10,12 +10,22 @@
 #include <netinet/in.h>
 #include <arpa/inet.h>
 #include <netdb.h>
+#include <time.h>
 #include <semaphore.h>
-
+#include <stdbool.h>
 #define PROTOPORT       5193            /* default protocol port number */
 #define N_THREADS       2
-extern  int             errno;
+#define QLEN            2000               /* size of request queue        */
+#define ARRAY_LEN 1000
+#define STR_LEN 1024
+
+int     visits=0;                       /* counts client connections    */
+int     alteracoes=0;
+char    msg [ARRAY_LEN][ARRAY_LEN];
+int     ditados=0;
 sem_t m;
+bool lock = true;
+extern  int             errno;
 char    localhost[] =   "localhost";    /* default host name            */
 /*------------------------------------------------------------------------
  * Program:   client
@@ -33,6 +43,7 @@ char    localhost[] =   "localhost";    /* default host name            */
  *
  *------------------------------------------------------------------------
  */
+
 void *recebeDados( void *sd2 ){
     int *temp=sd2;
     int sd=*temp;
@@ -43,12 +54,10 @@ void *recebeDados( void *sd2 ){
         memset(buf, 0, sizeof(buf));
         n = recv(sd, buf, sizeof(buf), 0);
 
-        sem_post(&m);
-
-        if(!strncmp(buf,"ACK",3)){
-            printf("ACK\n");
-        } else{
-            //printf("%s",buf);
+        if(lock){
+            sem_post(&m);
+        }else{
+            printf("%s",buf);
         }
 
         if (!strncmp(buf,"Adeus",5)) {
@@ -66,14 +75,98 @@ void *enviaDados( void *sd2 ){
     char buf[1024];
 
     while (1){
-        sem_wait(&m);
         memset(buf, 0, sizeof(buf));
         scanf("%s", buf);
         send(sd, buf, sizeof(buf), 0);
-        if(!strncmp(buf,"FIM",3)){
+
+       if(!strncmp(buf,"FIM",3)){
             break;
         }
     }
+}
+
+void *delEnviaDados( void *sd2 ){
+    int *temp=sd2;
+    int sd=*temp;
+    int n;
+    char buf[1024];
+
+    int contador=0;
+    while (contador<100){
+        sem_wait(&m);
+        memset(buf, 0, sizeof(buf));
+        strcpy(buf, "DEL\n");
+        send(sd, buf, sizeof(buf), 0);
+
+        memset(buf, 0, sizeof(buf));
+        strcpy(buf, "1\n");
+        send(sd, buf, sizeof(buf), 0);
+
+        contador++;
+    }
+
+    sleep(1);
+    memset(buf, 0, sizeof(buf));
+    strcpy(buf ,"FIM");
+    send(sd, buf, sizeof(buf), 0);
+}
+
+void *rotateEnviaDados( void *sd2 ){
+    int *temp=sd2;
+    int sd=*temp;
+    int n;
+    char buf[1024];
+
+    int contador=0;
+    while (contador<100){
+        sem_wait(&m);
+        memset(buf, 0, sizeof(buf));
+        strcpy(buf, "ROTATE\n");
+        send(sd, buf, sizeof(buf), 0);
+
+        memset(buf, 0, sizeof(buf));
+        strcpy(buf, "1\n");
+        send(sd, buf, sizeof(buf), 0);
+
+        memset(buf, 0, sizeof(buf));
+        strcpy(buf, "10\n");
+        send(sd, buf, sizeof(buf), 0);
+
+        contador++;
+    }
+    sleep(1);
+    memset(buf, 0, sizeof(buf));
+    strcpy(buf ,"FIM");
+    send(sd, buf, sizeof(buf), 0);
+}
+
+void *replaceEnviaDados( void *sd2 ){
+    int *temp=sd2;
+    int sd=*temp;
+    int n;
+    char buf[1024];
+
+    int contador=0;
+    while (contador<100){
+        sem_wait(&m);
+        memset(buf, 0, sizeof(buf));
+        strcpy(buf, "REPLACE\n");
+        send(sd, buf, sizeof(buf), 0);
+
+        memset(buf, 0, sizeof(buf));
+        strcpy(buf, "10\n");
+        send(sd, buf, sizeof(buf), 0);
+
+        memset(buf, 0, sizeof(buf));
+        strcpy(buf, "stringAleatóriaAqui\n");
+        send(sd, buf, sizeof(buf), 0);
+
+        contador++;
+    }
+    sleep(1);
+    memset(buf, 0, sizeof(buf));
+    strcpy(buf ,"FIM");
+    send(sd, buf, sizeof(buf), 0);
 }
 
 int main(int argc, char **argv)
@@ -87,6 +180,7 @@ int main(int argc, char **argv)
     int     n;               /* number of characters read           */
     char    buf[1024];       /* buffer for data from the server     */
     pthread_t t[N_THREADS];
+    int tipo_client = 0;
 
 #ifdef WIN32
     WSADATA wsaData;
@@ -116,6 +210,7 @@ int main(int argc, char **argv)
     } else {
         host = localhost;
     }
+
     /* Convert host name to equivalent IP address and copy to sad. */
     ptrh = gethostbyname(host);
     if ( ((char *)ptrh) == NULL ) {
@@ -140,17 +235,38 @@ int main(int argc, char **argv)
         exit(1);
     }
 
-    printf("#ESTOU PRONTO\n");
     sem_init(&m, 0, 1);
+    printf("#ESTOU PRONTO\n");
 
     printf("Iniciando primeira thread\n");
     pthread_create(&t[0], NULL, recebeDados, &sd );
 
-    printf("Iniciando segunda thread\n");
-    pthread_create(&t[1], NULL,  enviaDados, &sd );
+    /* Check função do cliente */
+    if (argc > 3) {
+        tipo_client = atoi(argv[3]);
+    }
 
-    pthread_join(t[0], NULL);
+    printf("Iniciando segunda thread\n");
+    if(tipo_client==0){
+        printf("Tipo padrão\n");
+        lock = false;
+        pthread_create(&t[1], NULL,  enviaDados, &sd );
+    }else if(tipo_client==1){
+        printf("Tipo delete\n");
+        pthread_create(&t[1], NULL,  delEnviaDados, &sd );
+    }else if (tipo_client==2){
+        printf("Tipo rotate\n");
+        pthread_create(&t[1], NULL,  rotateEnviaDados, &sd );
+    }else{
+        printf("Tipo padrão\n");
+        lock = false;
+        pthread_create(&t[1], NULL,  enviaDados, &sd );
+    }
+
     pthread_join(t[1], NULL);
+    printf("#Enviou tudo\n");
+    pthread_join(t[0], NULL);
+    printf("#Recebeu tudo\n");
 
     fflush(NULL);
     /* Close the socket. */
