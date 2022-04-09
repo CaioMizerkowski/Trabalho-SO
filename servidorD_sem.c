@@ -2,7 +2,10 @@
 // TE355 - Sistemas Operacionais Embarcados
 // Base para o Trabalho 1 - 2022
 // Prof. Pedroso
-
+// Alunos:
+// Caio
+// Sara
+// Luigi 
 #include <pthread.h>
 #include <sys/types.h>
 #include <sys/socket.h>

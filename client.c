@@ -1,4 +1,8 @@
 /* client.c - code for example client program that uses TCP */
+// Alunos:
+// Caio
+// Sara
+// Luigi 
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
