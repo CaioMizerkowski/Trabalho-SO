@@ -54,7 +54,7 @@ void *recebeDados( void *sd2 ){
         memset(buf, 0, sizeof(buf));
         n = recv(sd, buf, sizeof(buf), 0);
 
-        if(lock){
+        if(lock && ){
             sem_post(&m);
         }else{
             printf("%s",buf);
@@ -257,6 +257,9 @@ int main(int argc, char **argv)
     }else if (tipo_client==2){
         printf("Tipo rotate\n");
         pthread_create(&t[1], NULL,  rotateEnviaDados, &sd );
+    }else if (tipo_client==3){
+        printf("Tipo replace\n");
+        pthread_create(&t[1], NULL,  replaceEnviaDados, &sd );
     }else{
         printf("Tipo padrão\n");
         lock = false;

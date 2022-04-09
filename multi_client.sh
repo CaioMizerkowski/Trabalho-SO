@@ -1,11 +1,30 @@
-./clientrotate&
-./clientrotate&
-./clientrotate&
-./clientrotate&
-./clientrotate&
-./clientrotate&
-./clientrotate&
-./clientrotate&
-./clientrotate&
-./clientrotate&
-
+./client localhost 5193 1&
+./client localhost 5193 1&
+./client localhost 5193 1&
+./client localhost 5193 1&
+./client localhost 5193 1&
+./client localhost 5193 1&
+./client localhost 5193 1&
+./client localhost 5193 1&
+./client localhost 5193 1&
+./client localhost 5193 1&
+./client localhost 5193 1&
+./client localhost 5193 1&
+./client localhost 5193 1&
+./client localhost 5193 1&
+./client localhost 5193 1&
+./client localhost 5193 1&
+./client localhost 5193 1&
+./client localhost 5193 1&
+./client localhost 5193 1&
+./client localhost 5193 1&
+./client localhost 5193 1&
+./client localhost 5193 1&
+./client localhost 5193 1&
+./client localhost 5193 1&
+./client localhost 5193 1&
+./client localhost 5193 1&
+./client localhost 5193 1&
+./client localhost 5193 1&
+./client localhost 5193 1&
+./client localhost 5193 1&

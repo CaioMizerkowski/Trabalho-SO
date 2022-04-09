@@ -92,7 +92,7 @@ void busca(int sd, char *input){
         if(strstr(msg[i], input) != NULL){
             memset(str1, 0, STR_LEN);
             sprintf(str1,"Ditado %d: %s\n", i, msg[i]);
-            send(sd,str1,strlen(str1),0);
+            send(sd,str1,sizeof(str1),0);
         }
     }
 }
@@ -128,7 +128,7 @@ void *atendeConexao( void *sd2 )
         sprintf(str1,"\nRequisição %d\n", visits);
         sem_post(&m);
 
-        rc = send(sd,str1,strlen(str1),MSG_NOSIGNAL);
+        rc = send(sd,str1,sizeof(str1),MSG_NOSIGNAL);
         if (rc == -1){
             printf("Socket fechado\n");
             break;
@@ -145,7 +145,7 @@ void *atendeConexao( void *sd2 )
             memset(str1, 0, STR_LEN);
             sprintf(str1,"Ditado %d: %s\n", visits%ditados, msg[visits%ditados]);
             sem_post(&m);
-            send(sd,str1,strlen(str1),0);
+            send(sd,str1,sizeof(str1),0);
         }
         else if (!strncmp(str1,"GETN",4)) {
             memset(str1, 0, STR_LEN);
@@ -155,12 +155,13 @@ void *atendeConexao( void *sd2 )
             if (endptr==str1){
                 memset(str1, 0, STR_LEN);
                 sprintf(str1,"FALHA\n");
-                send(sd,str1,strlen(str1),0);
+                send(sd,str1,sizeof(str1),0);
                 continue;
                 }
             else{
                 sem_wait(&m);
-                send(sd,msg[val],strlen(msg[val]),0);
+                sprintf(str1,"%s\n",msg[val]);
+                send(sd,str1,sizeof(str1),0);
                 sem_post(&m);
             }
         }
@@ -172,13 +173,14 @@ void *atendeConexao( void *sd2 )
             if (endptr==str1){
                 memset(str1, 0, STR_LEN);
                 sprintf(str1,"FALHA\n");
-                send(sd,str1,strlen(str1),0);
+                send(sd,str1,sizeof(str1),0);
                 continue;
             }
-            send(sd,str1,strlen(str1),0);
+            send(sd,str1,sizeof(str1),0);
             b=recv(sd, str1, STR_LEN, 0);
             str1[b]=0;
             sem_wait(&m);
+            memset(msg[val], 0, ARRAY_LEN);
             strcpy(msg[val],str1);
             alteracoes++;
             alt_values++;
@@ -186,13 +188,13 @@ void *atendeConexao( void *sd2 )
 
             memset(str1, 0, STR_LEN);
             sprintf(str1,"OK\n");
-            send(sd,str1,strlen(str1),0);
+            send(sd,str1,sizeof(str1),0);
             //printf("Novo ditado %d: %s\n",val,msg[val]);
             }
         else if (!strncmp(str1,"HELP",7)) {
             memset(str1, 0, STR_LEN); //Limpa o buffer
             sprintf(str1,"GETR\nGETN\nREPLACE\nVER\nDEL\nROTATE\nSEARCH\nPALAVRAS-D\nPALAVRAS-T\nALTERACOES\nGRAVA\nLE\nFIM\n");
-            send(sd,str1,strlen(str1),0); //envia a mensagem
+            send(sd,str1,sizeof(str1),0); //envia a mensagem
         }
         else if (!strncmp(str1,"DEL",3)) {
             memset(str1, 0, STR_LEN);
@@ -203,7 +205,7 @@ void *atendeConexao( void *sd2 )
             if (endptr==str1){
                 memset(str1, 0, STR_LEN);
                 sprintf(str1,"FALHA\n");
-                send(sd,str1,strlen(str1),0);
+                send(sd,str1,sizeof(str1),0);
                 continue;
             }
             sem_wait(&m);
@@ -214,7 +216,7 @@ void *atendeConexao( void *sd2 )
             sem_post(&m);
             memset(str1, 0, STR_LEN);
             sprintf(str1,"OK\n");
-            send(sd,str1,strlen(str1),0);
+            send(sd,str1,sizeof(str1),0);
         }
         else if (!strncmp(str1,"ROTATE",6)) {
             int val1, val2;
@@ -226,7 +228,7 @@ void *atendeConexao( void *sd2 )
             if (endptr==str1){
                 memset(str1, 0, STR_LEN);
                 sprintf(str1,"FALHA\n");
-                send(sd,str1,strlen(str1),0);
+                send(sd,str1,sizeof(str1),0);
                 continue;
             }
 
@@ -237,7 +239,7 @@ void *atendeConexao( void *sd2 )
             if (endptr==str1){
                 memset(str1, 0, STR_LEN);
                 sprintf(str1,"FALHA\n");
-                send(sd,str1,strlen(str1),0);
+                send(sd,str1,sizeof(str1),0);
                 continue;
             }
 
@@ -251,7 +253,7 @@ void *atendeConexao( void *sd2 )
 
             memset(str1, 0, STR_LEN);
             sprintf(str1,"OK\n");
-            send(sd,str1,strlen(str1),0);
+            send(sd,str1,sizeof(str1),0);
             //printf("Novo ditado %d: %s\n",val,msg[val]);
         }
         else if (!strncmp(str1,"SEARCH",6)) {
@@ -270,7 +272,7 @@ void *atendeConexao( void *sd2 )
             if (endptr==str1){
                 memset(str1, 0, STR_LEN);
                 sprintf(str1,"FALHA\n");
-                send(sd,str1,strlen(str1),0);
+                send(sd,str1,sizeof(str1),0);
                 continue;
             }
             sem_wait(&m);
@@ -280,7 +282,7 @@ void *atendeConexao( void *sd2 )
 
             memset(str1, 0, STR_LEN);
             sprintf(str1, "%d\n", c);
-            send(sd,str1,strlen(str1),0);
+            send(sd,str1,sizeof(str1),0);
         }
         else if (!strncmp(str1,"PALAVRAS-T",10)) {
             int c=0, i;
@@ -294,7 +296,7 @@ void *atendeConexao( void *sd2 )
 
             memset(str1, 0, STR_LEN);
             sprintf(str1, "%d\n", c);
-            send(sd,str1,strlen(str1),0);
+            send(sd,str1,sizeof(str1),0);
         }
         else if (!strncmp(str1,"ALTERACOES",10)) {
             memset(str1, 0, STR_LEN); //Limpa o buffer
@@ -303,7 +305,7 @@ void *atendeConexao( void *sd2 )
             memset(str1, 0, STR_LEN);
             sprintf(str1,"%d\n", alteracoes);
             sem_post(&m);
-            send(sd,str1,strlen(str1),0); //envia a mensagem
+            send(sd,str1,sizeof(str1),0); //envia a mensagem
         }
         else if (!strncmp(str1,"GRAVA",5)) {
             memset(str1, 0, STR_LEN); //Limpa o buffer
@@ -315,7 +317,7 @@ void *atendeConexao( void *sd2 )
 
             memset(str1, 0, STR_LEN);
             sprintf(str1,"Mensagem gravada em %s\n", str2);
-            send(sd,str1,strlen(str1),0); //envia a mensagem
+            send(sd,str1,sizeof(str1),0); //envia a mensagem
         }
         else if (!strncmp(str1,"LE",2)) {
             memset(str1, 0, STR_LEN); //Limpa o buffer
@@ -334,19 +336,19 @@ void *atendeConexao( void *sd2 )
         else if (!strncmp(str1,"FIM",3)) {
             memset(str1, 0, STR_LEN);
             sprintf(str1,"Adeus\n");
-            send(sd,str1,strlen(str1),0);
+            send(sd,str1,sizeof(str1),0);
             break;
             }
         else if (!strncmp(str1,"VER",3)) {
             memset(str1, 0, STR_LEN);
             sprintf(str1,"Servidor de Ditados 2.0 Beta.\nTE355 2022 Primeiro Trabalho\n");
-            send(sd,str1,strlen(str1),0);
+            send(sd,str1,sizeof(str1),0);
            }
         else if (!strncmp(str1,"\n",1)) {
             memset(str1, 0, STR_LEN);
         }
         else{
-            rc = send(sd,str1,strlen(str1),MSG_NOSIGNAL);
+            rc = send(sd,str1,sizeof(str1),MSG_NOSIGNAL);
             if(rc == -1){
                 printf("Não enviado:%s\n", str1);
                 continue;
@@ -356,12 +358,12 @@ void *atendeConexao( void *sd2 )
             memset(str1, 0, STR_LEN);
             sprintf(str1,"Erro de Protocolo, recebido '%s'\n", str2);
             printf("Erro de Protocolo, recebido '%s'\n", str2);
-            send(sd,str1,strlen(str1),0);
+            send(sd,str1,sizeof(str1),0);
            }
 
         memset(str1, 0, STR_LEN);
         sprintf(str1,"ACK");
-        rc = send(sd,str1,strlen(str1),MSG_NOSIGNAL);
+        rc = send(sd,str1,sizeof(str1),MSG_NOSIGNAL);
         if (rc == -1){
             printf("Socket fechado\n");
             break;
