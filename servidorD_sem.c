@@ -81,9 +81,12 @@ char uppercase(char *input) {
 void remove_element(int index)
 {
     int i;
+    if(msg[index][0] == '\0')
+        return;
     for(i = index; i < ARRAY_LEN - 1; i++){
         strcpy(msg[i], msg[i + 1]);
     }
+    ditados--;
 }
 
 void busca(int sd, char *input){
@@ -215,7 +218,7 @@ void *atendeConexao( void *sd2 )
             remove_element(val);
             alteracoes++;
             alt_values++;
-            ditados--;
+            //ditados--;
             sem_post(&m);
             memset(str1, 0, STR_LEN);
             sprintf(str1,"OK\n");
@@ -362,7 +365,7 @@ void *atendeConexao( void *sd2 )
             sprintf(str1,"Erro de Protocolo, recebido '%s'\n", str2);
             printf("Erro de Protocolo, recebido '%s'\n", str2);
             send(sd,str1,sizeof(str1),0);
-           }
+        }
 
         memset(str1, 0, STR_LEN);
         sprintf(str1,"ACK");
@@ -371,9 +374,7 @@ void *atendeConexao( void *sd2 )
             printf("Socket fechado\n");
             break;
         }
-
     }
-
     printf("Fechando a conexão com %i alteracoes pela thread\n", alt_values);
     close(sd);
     printf("Fechado Socket: %i\n", sd);

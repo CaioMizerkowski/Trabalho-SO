@@ -103,7 +103,7 @@ void *delEnviaDados( void *sd2 ){
         send(sd, buf, sizeof(buf), 0);
 
         memset(buf, 0, sizeof(buf));
-        strcpy(buf, "1\n");
+        strcpy(buf, "30\n");
         send(sd, buf, sizeof(buf), 0);
 
         contador++;
