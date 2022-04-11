@@ -151,7 +151,7 @@ void *rotateEnviaDados( void *sd2 ){
         send(sd, buf, sizeof(buf), 0);
 
         memset(buf, 0, sizeof(buf));
-        sprintf(buf, "%i\n", contador+10);
+        sprintf(buf, "%i\n", contador+1);
         send(sd, buf, sizeof(buf), 0);
 
         contador++;

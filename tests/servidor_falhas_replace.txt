@@ -1,0 +1,2140 @@
+Carregou 768 ditados
+Socket: 4
+Servidor atendendo conexão 0
+Socket: 5
+Servidor atendendo conexão 0
+Aberto Socket: 5
+Aberto Socket: 5
+Socket: 6
+Servidor atendendo conexão 3
+Socket: 7
+Servidor atendendo conexão 5
+Aberto Socket: 7
+Aberto Socket: 7
+Socket: 8
+Servidor atendendo conexão 7
+Aberto Socket: 8
+Socket: 9
+Servidor atendendo conexão 8
+Aberto Socket: 9
+Socket: 10
+Servidor atendendo conexão 13
+Aberto Socket: 10
+Socket: 11
+Servidor atendendo conexão 16
+Socket: 12
+Servidor atendendo conexão 17
+Socket: 13
+Servidor atendendo conexão 17
+Erro de Protocolo, recebido '1
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 1 DO SOCKET 3
+'
+Aberto Socket: 13
+Aberto Socket: 13
+Aberto Socket: 13
+Erro de Protocolo, recebido '0
+'
+Erro de Protocolo, recebido '4
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 4 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 1 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 5 DO SOCKET 3
+'
+Erro de Protocolo, recebido '6
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 6 DO SOCKET 3
+'
+Erro de Protocolo, recebido '14
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 14 DO SOCKET 3
+'
+Erro de Protocolo, recebido '24
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 24 DO SOCKET 3
+'
+Erro de Protocolo, recebido '25
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 25 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 30 DO SOCKET 3
+'
+Erro de Protocolo, recebido '30
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 33 DO SOCKET 3
+'
+Erro de Protocolo, recebido '34
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 34 DO SOCKET 3
+'
+Erro de Protocolo, recebido '35
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 36 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 37 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 42 DO SOCKET 3
+'
+Erro de Protocolo, recebido '43
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 43 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 46 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 47 DO SOCKET 3
+'
+Erro de Protocolo, recebido '47
+'
+Erro de Protocolo, recebido '49
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 48 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 49 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 50 DO SOCKET 3
+'
+Erro de Protocolo, recebido '52
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 52 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 57 DO SOCKET 3
+'
+Erro de Protocolo, recebido '58
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 58 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 60 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 61 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 66 DO SOCKET 3
+'
+Erro de Protocolo, recebido '70
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 70 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 71 DO SOCKET 3
+'
+Erro de Protocolo, recebido '72
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 72 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 73 DO SOCKET 3
+'
+Erro de Protocolo, recebido '81
+'
+Erro de Protocolo, recebido '82
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 82 DO SOCKET 3
+'
+Erro de Protocolo, recebido '85
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 85 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 86 DO SOCKET 3
+'
+Erro de Protocolo, recebido '87
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 87 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 89 DO SOCKET 3
+'
+Erro de Protocolo, recebido '93
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 93 DO SOCKET 3
+'
+Erro de Protocolo, recebido '96
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 97 DO SOCKET 3
+'
+Erro de Protocolo, recebido '99
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 99 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 98 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 101 DO SOCKET 3
+'
+Erro de Protocolo, recebido '104
+'
+Erro de Protocolo, recebido '105
+'
+Erro de Protocolo, recebido '108
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 109 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 110 DO SOCKET 3
+'
+Erro de Protocolo, recebido '110
+'
+Erro de Protocolo, recebido '112
+'
+Erro de Protocolo, recebido '114
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 128 DO SOCKET 3
+'
+Erro de Protocolo, recebido '130
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 130 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 131 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 132 DO SOCKET 3
+'
+Erro de Protocolo, recebido '132
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 133 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 134 DO SOCKET 3
+'
+Erro de Protocolo, recebido '134
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 135 DO SOCKET 3
+'
+Erro de Protocolo, recebido '136
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 136 DO SOCKET 3
+'
+Erro de Protocolo, recebido '137
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 137 DO SOCKET 3
+'
+Erro de Protocolo, recebido '138
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 138 DO SOCKET 3
+'
+Erro de Protocolo, recebido '139
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 139 DO SOCKET 3
+'
+Erro de Protocolo, recebido '141
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 141 DO SOCKET 3
+'
+Erro de Protocolo, recebido '142
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 142 DO SOCKET 3
+'
+Erro de Protocolo, recebido '144
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 144 DO SOCKET 3
+'
+Erro de Protocolo, recebido '145
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 145 DO SOCKET 3
+'
+Erro de Protocolo, recebido '147
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 147 DO SOCKET 3
+'
+Erro de Protocolo, recebido '148
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 148 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 150 DO SOCKET 3
+'
+Erro de Protocolo, recebido '152
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 152 DO SOCKET 3
+'
+Erro de Protocolo, recebido '153
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 153 DO SOCKET 3
+'
+Erro de Protocolo, recebido '155
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 155 DO SOCKET 3
+'
+Erro de Protocolo, recebido '156
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 156 DO SOCKET 3
+'
+Erro de Protocolo, recebido '158
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 158 DO SOCKET 3
+'
+Erro de Protocolo, recebido '159
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 159 DO SOCKET 3
+'
+Erro de Protocolo, recebido '161
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 161 DO SOCKET 3
+'
+Erro de Protocolo, recebido '162
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 162 DO SOCKET 3
+'
+Erro de Protocolo, recebido '163
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 163 DO SOCKET 3
+'
+Erro de Protocolo, recebido '164
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 164 DO SOCKET 3
+'
+Erro de Protocolo, recebido '166
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 166 DO SOCKET 3
+'
+Erro de Protocolo, recebido '167
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 167 DO SOCKET 3
+'
+Erro de Protocolo, recebido '169
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 169 DO SOCKET 3
+'
+Erro de Protocolo, recebido '170
+'
+Erro de Protocolo, recebido '171
+'
+Erro de Protocolo, recebido '172
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 172 DO SOCKET 3
+'
+Erro de Protocolo, recebido '174
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 174 DO SOCKET 3
+'
+Erro de Protocolo, recebido '175
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 175 DO SOCKET 3
+'
+Erro de Protocolo, recebido '177
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 177 DO SOCKET 3
+'
+Erro de Protocolo, recebido '178
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 178 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 180 DO SOCKET 3
+'
+Erro de Protocolo, recebido '182
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 182 DO SOCKET 3
+'
+Erro de Protocolo, recebido '183
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 183 DO SOCKET 3
+'
+Erro de Protocolo, recebido '185
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 185 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 190 DO SOCKET 3
+'
+Erro de Protocolo, recebido '191
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 191 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 197 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 198 DO SOCKET 3
+'
+Erro de Protocolo, recebido '198
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 199 DO SOCKET 3
+'
+Erro de Protocolo, recebido '200
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 200 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 202 DO SOCKET 3
+'
+Erro de Protocolo, recebido '203
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 203 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 211 DO SOCKET 3
+'
+Erro de Protocolo, recebido '220
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 220 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 221 DO SOCKET 3
+'
+Erro de Protocolo, recebido '222
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 222 DO SOCKET 3
+'
+Erro de Protocolo, recebido '223
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 223 DO SOCKET 3
+'
+Erro de Protocolo, recebido '237
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 237 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 239 DO SOCKET 3
+'
+Erro de Protocolo, recebido '240
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 240 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 250 DO SOCKET 3
+'
+Erro de Protocolo, recebido '251
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 251 DO SOCKET 3
+'
+Erro de Protocolo, recebido '252
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 252 DO SOCKET 3
+'
+Erro de Protocolo, recebido '268
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 268 DO SOCKET 3
+'
+Erro de Protocolo, recebido '277
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 276 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 277 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 278 DO SOCKET 3
+'
+Erro de Protocolo, recebido '279
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 279 DO SOCKET 3
+'
+Erro de Protocolo, recebido '281
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 283 DO SOCKET 3
+'
+Erro de Protocolo, recebido '286
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 286 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 295 DO SOCKET 3
+'
+Erro de Protocolo, recebido '296
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 296 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 298 DO SOCKET 3
+'
+Erro de Protocolo, recebido '300
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 300 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 308 DO SOCKET 3
+'
+Erro de Protocolo, recebido '309
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 309 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 312 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 313 DO SOCKET 3
+'
+Erro de Protocolo, recebido '313
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 316 DO SOCKET 3
+'
+Erro de Protocolo, recebido '318
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 318 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 320 DO SOCKET 3
+'
+Erro de Protocolo, recebido '321
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 321 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 322 DO SOCKET 3
+'
+Erro de Protocolo, recebido '323
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 323 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 333 DO SOCKET 3
+'
+Erro de Protocolo, recebido '334
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 334 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 336 DO SOCKET 3
+'
+Erro de Protocolo, recebido '337
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 337 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 338 DO SOCKET 3
+'
+Erro de Protocolo, recebido '339
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 339 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 341 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 342 DO SOCKET 3
+'
+Erro de Protocolo, recebido '342
+'
+Erro de Protocolo, recebido '348
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 348 DO SOCKET 3
+'
+Erro de Protocolo, recebido '356
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 356 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 364 DO SOCKET 3
+'
+Erro de Protocolo, recebido '366
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 366 DO SOCKET 3
+'
+Erro de Protocolo, recebido '371
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 375 DO SOCKET 3
+'
+Erro de Protocolo, recebido '377
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 377 DO SOCKET 3
+'
+Erro de Protocolo, recebido '378
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 379 DO SOCKET 3
+'
+Erro de Protocolo, recebido '380
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 380 DO SOCKET 3
+'
+Erro de Protocolo, recebido '391
+'
+Erro de Protocolo, recebido '402
+'
+Erro de Protocolo, recebido '409
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 412 DO SOCKET 3
+'
+Erro de Protocolo, recebido '415
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 415 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 427 DO SOCKET 3
+'
+Erro de Protocolo, recebido '428
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 428 DO SOCKET 3
+'
+Erro de Protocolo, recebido '436
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 439 DO SOCKET 3
+'
+Erro de Protocolo, recebido '440
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 440 DO SOCKET 3
+'
+Erro de Protocolo, recebido '442
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 442 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 441 DO SOCKET 3
+'
+Erro de Protocolo, recebido '444
+'
+Erro de Protocolo, recebido '445
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 445 DO SOCKET 3
+'
+Erro de Protocolo, recebido '447
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 447 DO SOCKET 3
+'
+Erro de Protocolo, recebido '449
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 450 DO SOCKET 3
+'
+Erro de Protocolo, recebido '452
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 452 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 454 DO SOCKET 3
+'
+Erro de Protocolo, recebido '456
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 456 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 467 DO SOCKET 3
+'
+Erro de Protocolo, recebido '468
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 468 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 469 DO SOCKET 3
+'
+Erro de Protocolo, recebido '470
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 470 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 475 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 477 DO SOCKET 3
+'
+Erro de Protocolo, recebido '478
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 478 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 482 DO SOCKET 3
+'
+Erro de Protocolo, recebido '483
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 483 DO SOCKET 3
+'
+Erro de Protocolo, recebido '486
+'
+Erro de Protocolo, recebido '487
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 487 DO SOCKET 3
+'
+Erro de Protocolo, recebido '488
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 488 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 489 DO SOCKET 3
+'
+Erro de Protocolo, recebido '490
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 490 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 492 DO SOCKET 3
+'
+Erro de Protocolo, recebido '493
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 493 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 496 DO SOCKET 3
+'
+Erro de Protocolo, recebido '498
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 498 DO SOCKET 3
+'
+Erro de Protocolo, recebido '3
+'
+Erro de Protocolo, recebido '4
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 4 DO SOCKET 3
+'
+Erro de Protocolo, recebido '4
+'
+Erro de Protocolo, recebido '5
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 5 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 8 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 9 DO SOCKET 3
+'
+Erro de Protocolo, recebido '15
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 15 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 16 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 17 DO SOCKET 3
+'
+Erro de Protocolo, recebido '24
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 24 DO SOCKET 3
+'
+Erro de Protocolo, recebido '25
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 25 DO SOCKET 3
+'
+Erro de Protocolo, recebido '26
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 26 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 30 DO SOCKET 3
+'
+Erro de Protocolo, recebido '32
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 32 DO SOCKET 3
+'
+Erro de Protocolo, recebido '35
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 35 DO SOCKET 3
+'
+Erro de Protocolo, recebido '36
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 36 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 37 DO SOCKET 3
+'
+Erro de Protocolo, recebido '38
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 38 DO SOCKET 3
+'
+Erro de Protocolo, recebido '39
+'
+Erro de Protocolo, recebido '40
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 40 DO SOCKET 3
+'
+Erro de Protocolo, recebido '42
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 42 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 48 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 51 DO SOCKET 3
+'
+Erro de Protocolo, recebido '57
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 57 DO SOCKET 3
+'
+Erro de Protocolo, recebido '60
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 60 DO SOCKET 3
+'
+Erro de Protocolo, recebido '64
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 64 DO SOCKET 3
+'
+Erro de Protocolo, recebido '65
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 65 DO SOCKET 3
+'
+Erro de Protocolo, recebido '68
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 68 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 69 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 70 DO SOCKET 3
+'
+Erro de Protocolo, recebido '79
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 79 DO SOCKET 3
+'
+Erro de Protocolo, recebido '80
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 80 DO SOCKET 3
+'
+Erro de Protocolo, recebido '81
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 81 DO SOCKET 3
+'
+Erro de Protocolo, recebido '82
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 82 DO SOCKET 3
+'
+Erro de Protocolo, recebido '83
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 83 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 88 DO SOCKET 3
+'
+Erro de Protocolo, recebido '93
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 93 DO SOCKET 3
+'
+Erro de Protocolo, recebido '97
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 97 DO SOCKET 3
+'
+Erro de Protocolo, recebido '98
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 98 DO SOCKET 3
+'
+Erro de Protocolo, recebido '100
+'
+Erro de Protocolo, recebido '101
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 106 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 107 DO SOCKET 3
+'
+Erro de Protocolo, recebido '107
+'
+Erro de Protocolo, recebido '108
+'
+Erro de Protocolo, recebido '109
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 109 DO SOCKET 3
+'
+Erro de Protocolo, recebido '110
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 110 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 115 DO SOCKET 3
+'
+Erro de Protocolo, recebido '116
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 116 DO SOCKET 3
+'
+Erro de Protocolo, recebido '117
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 118 DO SOCKET 3
+'
+Erro de Protocolo, recebido '119
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 119 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 120 DO SOCKET 3
+'
+Erro de Protocolo, recebido '121
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 121 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 122 DO SOCKET 3
+'
+Erro de Protocolo, recebido '123
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 123 DO SOCKET 3
+'
+Erro de Protocolo, recebido '124
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 124 DO SOCKET 3
+'
+Erro de Protocolo, recebido '126
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 126 DO SOCKET 3
+'
+Erro de Protocolo, recebido '127
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 127 DO SOCKET 3
+'
+Erro de Protocolo, recebido '128
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 128 DO SOCKET 3
+'
+Erro de Protocolo, recebido '129
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 129 DO SOCKET 3
+'
+Erro de Protocolo, recebido '131
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 131 DO SOCKET 3
+'
+Erro de Protocolo, recebido '132
+'
+Erro de Protocolo, recebido '133
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 133 DO SOCKET 3
+'
+Erro de Protocolo, recebido '135
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 135 DO SOCKET 3
+'
+Erro de Protocolo, recebido '136
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 136 DO SOCKET 3
+'
+Erro de Protocolo, recebido '138
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 138 DO SOCKET 3
+'
+Erro de Protocolo, recebido '139
+'
+Erro de Protocolo, recebido '140
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 140 DO SOCKET 3
+'
+Erro de Protocolo, recebido '142
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 142 DO SOCKET 3
+'
+Erro de Protocolo, recebido '143
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 143 DO SOCKET 3
+'
+Erro de Protocolo, recebido '145
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 145 DO SOCKET 3
+'
+Erro de Protocolo, recebido '146
+'
+Erro de Protocolo, recebido '147
+'
+Erro de Protocolo, recebido '148
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 148 DO SOCKET 3
+'
+Erro de Protocolo, recebido '150
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 150 DO SOCKET 3
+'
+Erro de Protocolo, recebido '151
+'
+Erro de Protocolo, recebido '152
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 152 DO SOCKET 3
+'
+Erro de Protocolo, recebido '153
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 153 DO SOCKET 3
+'
+Erro de Protocolo, recebido '154
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 154 DO SOCKET 3
+'
+Erro de Protocolo, recebido '156
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 156 DO SOCKET 3
+'
+Erro de Protocolo, recebido '157
+'
+Erro de Protocolo, recebido '158
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 158 DO SOCKET 3
+'
+Erro de Protocolo, recebido '186
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 186 DO SOCKET 3
+'
+Erro de Protocolo, recebido '189
+'
+Erro de Protocolo, recebido '194
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 194 DO SOCKET 3
+'
+Erro de Protocolo, recebido '202
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 202 DO SOCKET 3
+'
+Erro de Protocolo, recebido '210
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 211 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 212 DO SOCKET 3
+'
+Erro de Protocolo, recebido '212
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 215 DO SOCKET 3
+'
+Erro de Protocolo, recebido '216
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 216 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 217 DO SOCKET 3
+'
+Erro de Protocolo, recebido '218
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 218 DO SOCKET 3
+'
+Erro de Protocolo, recebido '219
+'
+Erro de Protocolo, recebido '222
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 222 DO SOCKET 3
+'
+Erro de Protocolo, recebido '224
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 224 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 225 DO SOCKET 3
+'
+Erro de Protocolo, recebido '226
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 226 DO SOCKET 3
+'
+Erro de Protocolo, recebido '227
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 227 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 231 DO SOCKET 3
+'
+Erro de Protocolo, recebido '231
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 237 DO SOCKET 3
+'
+Erro de Protocolo, recebido '252
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 252 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 259 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 261 DO SOCKET 3
+'
+Erro de Protocolo, recebido '262
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 262 DO SOCKET 3
+'
+Erro de Protocolo, recebido '263
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 263 DO SOCKET 3
+'
+Erro de Protocolo, recebido '264
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 264 DO SOCKET 3
+'
+Erro de Protocolo, recebido '265
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 265 DO SOCKET 3
+'
+Erro de Protocolo, recebido '275
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 275 DO SOCKET 3
+'
+Erro de Protocolo, recebido '277
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 277 DO SOCKET 3
+'
+Erro de Protocolo, recebido '293
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 293 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 296 DO SOCKET 3
+'
+Erro de Protocolo, recebido '297
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 297 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 306 DO SOCKET 3
+'
+Erro de Protocolo, recebido '307
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 307 DO SOCKET 3
+'
+Erro de Protocolo, recebido '309
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 309 DO SOCKET 3
+'
+Erro de Protocolo, recebido '311
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 311 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 317 DO SOCKET 3
+'
+Erro de Protocolo, recebido '318
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 318 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 319 DO SOCKET 3
+'
+Erro de Protocolo, recebido '320
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 320 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 358 DO SOCKET 3
+'
+Erro de Protocolo, recebido '359
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 359 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 363 DO SOCKET 3
+'
+Erro de Protocolo, recebido '364
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 364 DO SOCKET 3
+'
+Erro de Protocolo, recebido '366
+'
+Erro de Protocolo, recebido '368
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 368 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 367 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 369 DO SOCKET 3
+'
+Erro de Protocolo, recebido '373
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 373 DO SOCKET 3
+'
+Erro de Protocolo, recebido '375
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 375 DO SOCKET 3
+'
+Erro de Protocolo, recebido '400
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 400 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 402 DO SOCKET 3
+'
+Erro de Protocolo, recebido '405
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 405 DO SOCKET 3
+'
+Erro de Protocolo, recebido '406
+'
+Erro de Protocolo, recebido '411
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 411 DO SOCKET 3
+'
+Erro de Protocolo, recebido '427
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 427 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 434 DO SOCKET 3
+'
+Erro de Protocolo, recebido '435
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 435 DO SOCKET 3
+'
+Erro de Protocolo, recebido '437
+'
+Erro de Protocolo, recebido '445
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 445 DO SOCKET 3
+'
+Erro de Protocolo, recebido '446
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 446 DO SOCKET 3
+'
+Erro de Protocolo, recebido '447
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 447 DO SOCKET 3
+'
+Erro de Protocolo, recebido '448
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 448 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 450 DO SOCKET 3
+'
+Erro de Protocolo, recebido '451
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 451 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 456 DO SOCKET 3
+'
+Erro de Protocolo, recebido '464
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 464 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 465 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 468 DO SOCKET 3
+'
+Erro de Protocolo, recebido '475
+'
+Erro de Protocolo, recebido '479
+'
+Erro de Protocolo, recebido '482
+'
+Erro de Protocolo, recebido '486
+'
+Erro de Protocolo, recebido '487
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 487 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 498 DO SOCKET 3
+'
+Erro de Protocolo, recebido '499
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 499 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 7 DO SOCKET 3
+'
+Erro de Protocolo, recebido '9
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 9 DO SOCKET 3
+'
+Erro de Protocolo, recebido '10
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 10 DO SOCKET 3
+'
+Erro de Protocolo, recebido '13
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 13 DO SOCKET 3
+'
+Erro de Protocolo, recebido '14
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 14 DO SOCKET 3
+'
+Erro de Protocolo, recebido '16
+'
+Erro de Protocolo, recebido '17
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 17 DO SOCKET 3
+'
+Erro de Protocolo, recebido '18
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 18 DO SOCKET 3
+'
+Erro de Protocolo, recebido '19
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 26 DO SOCKET 3
+'
+Erro de Protocolo, recebido '26
+'
+Erro de Protocolo, recebido '31
+'
+Erro de Protocolo, recebido '27
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 32 DO SOCKET 3
+'
+Erro de Protocolo, recebido '34
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 34 DO SOCKET 3
+'
+Erro de Protocolo, recebido '36
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 36 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 38 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 39 DO SOCKET 3
+'
+Erro de Protocolo, recebido '42
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 42 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 41 DO SOCKET 3
+'
+Erro de Protocolo, recebido '46
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 46 DO SOCKET 3
+'
+Erro de Protocolo, recebido '47
+'
+Erro de Protocolo, recebido '49
+'
+Erro de Protocolo, recebido '48
+'
+Erro de Protocolo, recebido '53
+'
+Erro de Protocolo, recebido '56
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 57 DO SOCKET 3
+'
+Erro de Protocolo, recebido '58
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 58 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 60 DO SOCKET 3
+'
+Erro de Protocolo, recebido '63
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 63 DO SOCKET 3
+'
+Erro de Protocolo, recebido '66
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 66 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 67 DO SOCKET 3
+'
+Erro de Protocolo, recebido '68
+'
+Erro de Protocolo, recebido '67
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 69 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 68 DO SOCKET 3
+'
+Erro de Protocolo, recebido '70
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 70 DO SOCKET 3
+'
+Erro de Protocolo, recebido '71
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 71 DO SOCKET 3
+'
+Erro de Protocolo, recebido '74
+'
+Erro de Protocolo, recebido '76
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 79 DO SOCKET 3
+'
+Erro de Protocolo, recebido '79
+'
+Erro de Protocolo, recebido '80
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 83 DO SOCKET 3
+'
+Erro de Protocolo, recebido '84
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 84 DO SOCKET 3
+'
+Erro de Protocolo, recebido '85
+'
+Erro de Protocolo, recebido '90
+'
+Erro de Protocolo, recebido '91
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 92 DO SOCKET 3
+'
+Erro de Protocolo, recebido '93
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 93 DO SOCKET 3
+'
+Erro de Protocolo, recebido '94
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 94 DO SOCKET 3
+'
+Erro de Protocolo, recebido '96
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 96 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 98 DO SOCKET 3
+'
+Erro de Protocolo, recebido '105
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 105 DO SOCKET 3
+'
+Erro de Protocolo, recebido '106
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 106 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 107 DO SOCKET 3
+'
+Erro de Protocolo, recebido '108
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 108 DO SOCKET 3
+'
+Erro de Protocolo, recebido '109
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 109 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 112 DO SOCKET 3
+'
+Erro de Protocolo, recebido '112
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 113 DO SOCKET 3
+'
+Erro de Protocolo, recebido '115
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 115 DO SOCKET 3
+'
+Erro de Protocolo, recebido '121
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 121 DO SOCKET 3
+'
+Erro de Protocolo, recebido '122
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 122 DO SOCKET 3
+'
+Erro de Protocolo, recebido '124
+'
+Erro de Protocolo, recebido '127
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 131 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 130 DO SOCKET 3
+'
+Erro de Protocolo, recebido '131
+'
+Erro de Protocolo, recebido '138
+'
+Erro de Protocolo, recebido '139
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 139 DO SOCKET 3
+'
+Erro de Protocolo, recebido '141
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 144 DO SOCKET 3
+'
+Erro de Protocolo, recebido '144
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 147 DO SOCKET 3
+'
+Erro de Protocolo, recebido '148
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 148 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 149 DO SOCKET 3
+'
+Erro de Protocolo, recebido '150
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 150 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 152 DO SOCKET 3
+'
+Erro de Protocolo, recebido '154
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 154 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 155 DO SOCKET 3
+'
+Erro de Protocolo, recebido '156
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 156 DO SOCKET 3
+'
+Erro de Protocolo, recebido '157
+'
+Erro de Protocolo, recebido '158
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 161 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 162 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 163 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 164 DO SOCKET 3
+'
+Erro de Protocolo, recebido '165
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 165 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 167 DO SOCKET 3
+'
+Erro de Protocolo, recebido '168
+'
+Erro de Protocolo, recebido '169
+'
+Erro de Protocolo, recebido '170
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 170 DO SOCKET 3
+'
+Erro de Protocolo, recebido '172
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 172 DO SOCKET 3
+'
+Erro de Protocolo, recebido '173
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 173 DO SOCKET 3
+'
+Erro de Protocolo, recebido '175
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 175 DO SOCKET 3
+'
+Erro de Protocolo, recebido '174
+'
+Erro de Protocolo, recebido '178
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 178 DO SOCKET 3
+'
+Erro de Protocolo, recebido '179
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 181 DO SOCKET 3
+'
+Erro de Protocolo, recebido '182
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 182 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 183 DO SOCKET 3
+'
+Erro de Protocolo, recebido '184
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 184 DO SOCKET 3
+'
+Erro de Protocolo, recebido '185
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 186 DO SOCKET 3
+'
+Erro de Protocolo, recebido '187
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 187 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 188 DO SOCKET 3
+'
+Erro de Protocolo, recebido '189
+'
+Erro de Protocolo, recebido '190
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 189 DO SOCKET 3
+'
+Erro de Protocolo, recebido '192
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 192 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 191 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 194 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 196 DO SOCKET 3
+'
+Erro de Protocolo, recebido '196
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 197 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 198 DO SOCKET 3
+'
+Erro de Protocolo, recebido '198
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 199 DO SOCKET 3
+'
+Erro de Protocolo, recebido '199
+'
+Erro de Protocolo, recebido '200
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 200 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 201 DO SOCKET 3
+'
+Erro de Protocolo, recebido '204
+'
+Erro de Protocolo, recebido '205
+'
+Erro de Protocolo, recebido '206
+'
+Erro de Protocolo, recebido '208
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 207 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 208 DO SOCKET 3
+'
+Erro de Protocolo, recebido '209
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 210 DO SOCKET 3
+'
+Erro de Protocolo, recebido '211
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 211 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 215 DO SOCKET 3
+'
+Erro de Protocolo, recebido '216
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 216 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 217 DO SOCKET 3
+'
+Erro de Protocolo, recebido '218
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 218 DO SOCKET 3
+'
+Erro de Protocolo, recebido '220
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 221 DO SOCKET 3
+'
+Erro de Protocolo, recebido '223
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 223 DO SOCKET 3
+'
+Erro de Protocolo, recebido '224
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 224 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 225 DO SOCKET 3
+'
+Erro de Protocolo, recebido '226
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 226 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 227 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 228 DO SOCKET 3
+'
+Erro de Protocolo, recebido '228
+'
+Erro de Protocolo, recebido '230
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 231 DO SOCKET 3
+'
+Erro de Protocolo, recebido '233
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 233 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 234 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 235 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 236 DO SOCKET 3
+'
+Erro de Protocolo, recebido '237
+'
+Erro de Protocolo, recebido '239
+'
+Erro de Protocolo, recebido '240
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 240 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 242 DO SOCKET 3
+'
+Erro de Protocolo, recebido '242
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 244 DO SOCKET 3
+'
+Erro de Protocolo, recebido '246
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 246 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 247 DO SOCKET 3
+'
+Erro de Protocolo, recebido '248
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 248 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 249 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 252 DO SOCKET 3
+'
+Erro de Protocolo, recebido '253
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 253 DO SOCKET 3
+'
+Erro de Protocolo, recebido '255
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 254 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 255 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 259 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 257 DO SOCKET 3
+'
+Erro de Protocolo, recebido '260
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 260 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 262 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 263 DO SOCKET 3
+'
+Erro de Protocolo, recebido '263
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 265 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 267 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 269 DO SOCKET 3
+'
+Erro de Protocolo, recebido '270
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 270 DO SOCKET 3
+'
+Erro de Protocolo, recebido '271
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 275 DO SOCKET 3
+'
+Erro de Protocolo, recebido '276
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 276 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 277 DO SOCKET 3
+'
+Erro de Protocolo, recebido '279
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 279 DO SOCKET 3
+'
+Erro de Protocolo, recebido '280
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 280 DO SOCKET 3
+'
+Erro de Protocolo, recebido '281
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 281 DO SOCKET 3
+'
+Erro de Protocolo, recebido '284
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 283 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 284 DO SOCKET 3
+'
+Erro de Protocolo, recebido '285
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 285 DO SOCKET 3
+'
+Erro de Protocolo, recebido '286
+'
+Erro de Protocolo, recebido '287
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 286 DO SOCKET 3
+'
+Erro de Protocolo, recebido '289
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 289 DO SOCKET 3
+'
+Erro de Protocolo, recebido '292
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 292 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 294 DO SOCKET 3
+'
+Erro de Protocolo, recebido '296
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 296 DO SOCKET 3
+'
+Erro de Protocolo, recebido '297
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 297 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 299 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 300 DO SOCKET 3
+'
+Erro de Protocolo, recebido '301
+'
+Erro de Protocolo, recebido '302
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 304 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 305 DO SOCKET 3
+'
+Erro de Protocolo, recebido '305
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 306 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 307 DO SOCKET 3
+'
+Erro de Protocolo, recebido '307
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 308 DO SOCKET 3
+'
+Erro de Protocolo, recebido '310
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 310 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 311 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 312 DO SOCKET 3
+'
+Erro de Protocolo, recebido '312
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 313 DO SOCKET 3
+'
+Erro de Protocolo, recebido '314
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 314 DO SOCKET 3
+'
+Erro de Protocolo, recebido '315
+'
+Erro de Protocolo, recebido '316
+'
+Erro de Protocolo, recebido '318
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 319 DO SOCKET 3
+'
+Erro de Protocolo, recebido '321
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 322 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 321 DO SOCKET 3
+'
+Erro de Protocolo, recebido '323
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 323 DO SOCKET 3
+'
+Erro de Protocolo, recebido '324
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 324 DO SOCKET 3
+'
+Erro de Protocolo, recebido '325
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 325 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 326 DO SOCKET 3
+'
+Erro de Protocolo, recebido '327
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 327 DO SOCKET 3
+'
+Erro de Protocolo, recebido '328
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 329 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 330 DO SOCKET 3
+'
+Erro de Protocolo, recebido '330
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 331 DO SOCKET 3
+'
+Erro de Protocolo, recebido '332
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 332 DO SOCKET 3
+'
+Erro de Protocolo, recebido '334
+'
+Erro de Protocolo, recebido '336
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 337 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 338 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 339 DO SOCKET 3
+'
+Erro de Protocolo, recebido '338
+'
+Erro de Protocolo, recebido '340
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 340 DO SOCKET 3
+'
+Erro de Protocolo, recebido '342
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 343 DO SOCKET 3
+'
+Erro de Protocolo, recebido '344
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 344 DO SOCKET 3
+'
+Erro de Protocolo, recebido '345
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 345 DO SOCKET 3
+'
+Erro de Protocolo, recebido '347
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 347 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 348 DO SOCKET 3
+'
+Erro de Protocolo, recebido '349
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 349 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 350 DO SOCKET 3
+'
+Erro de Protocolo, recebido '352
+'
+Erro de Protocolo, recebido '353
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 352 DO SOCKET 3
+'
+Erro de Protocolo, recebido '354
+'
+Erro de Protocolo, recebido '357
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 356 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 357 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 359 DO SOCKET 3
+'
+Erro de Protocolo, recebido '359
+'
+Erro de Protocolo, recebido '360
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 360 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 362 DO SOCKET 3
+'
+Erro de Protocolo, recebido '363
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 363 DO SOCKET 3
+'
+Erro de Protocolo, recebido '365
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 365 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 367 DO SOCKET 3
+'
+Erro de Protocolo, recebido '367
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 368 DO SOCKET 3
+'
+Erro de Protocolo, recebido '370
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 370 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 371 DO SOCKET 3
+'
+Erro de Protocolo, recebido '372
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 372 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 373 DO SOCKET 3
+'
+Erro de Protocolo, recebido '375
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 375 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 377 DO SOCKET 3
+'
+Erro de Protocolo, recebido '379
+'
+Erro de Protocolo, recebido '380
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 381 DO SOCKET 3
+'
+Erro de Protocolo, recebido '382
+'
+Erro de Protocolo, recebido '383
+'
+Erro de Protocolo, recebido '384
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 384 DO SOCKET 3
+'
+Erro de Protocolo, recebido '385
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 385 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 387 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 389 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 390 DO SOCKET 3
+'
+Erro de Protocolo, recebido '391
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 391 DO SOCKET 3
+'
+Erro de Protocolo, recebido '392
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 392 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 393 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 395 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 396 DO SOCKET 3
+'
+Erro de Protocolo, recebido '396
+'
+Erro de Protocolo, recebido '397
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 397 DO SOCKET 3
+'
+Erro de Protocolo, recebido '398
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 398 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 399 DO SOCKET 3
+'
+Erro de Protocolo, recebido '400
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 400 DO SOCKET 3
+'
+Erro de Protocolo, recebido '402
+'
+Erro de Protocolo, recebido '401
+'
+Erro de Protocolo, recebido '403
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 404 DO SOCKET 3
+'
+Erro de Protocolo, recebido '406
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 407 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 409 DO SOCKET 3
+'
+Erro de Protocolo, recebido '409
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 411 DO SOCKET 3
+'
+Erro de Protocolo, recebido '412
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 412 DO SOCKET 3
+'
+Erro de Protocolo, recebido '414
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 414 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 413 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 415 DO SOCKET 3
+'
+Erro de Protocolo, recebido '417
+'
+Erro de Protocolo, recebido '420
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 421 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 423 DO SOCKET 3
+'
+Erro de Protocolo, recebido '423
+'
+Erro de Protocolo, recebido '424
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 424 DO SOCKET 3
+'
+Erro de Protocolo, recebido '426
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 426 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 427 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 428 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 429 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 430 DO SOCKET 3
+'
+Erro de Protocolo, recebido '431
+'
+Erro de Protocolo, recebido '429
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 431 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 432 DO SOCKET 3
+'
+Erro de Protocolo, recebido '433
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 433 DO SOCKET 3
+'
+Erro de Protocolo, recebido '434
+'
+Erro de Protocolo, recebido '435
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 435 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 436 DO SOCKET 3
+'
+Erro de Protocolo, recebido '436
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 439 DO SOCKET 3
+'
+Erro de Protocolo, recebido '440
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 440 DO SOCKET 3
+'
+Erro de Protocolo, recebido '441
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 442 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 444 DO SOCKET 3
+'
+Erro de Protocolo, recebido '445
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 445 DO SOCKET 3
+'
+Erro de Protocolo, recebido '446
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 446 DO SOCKET 3
+'
+Erro de Protocolo, recebido '447
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 447 DO SOCKET 3
+'
+Erro de Protocolo, recebido '449
+'
+Erro de Protocolo, recebido '450
+'
+Erro de Protocolo, recebido '451
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 451 DO SOCKET 3
+'
+Erro de Protocolo, recebido '452
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 452 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 453 DO SOCKET 3
+'
+Erro de Protocolo, recebido '455
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 455 DO SOCKET 3
+'
+Erro de Protocolo, recebido '457
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 458 DO SOCKET 3
+'
+Erro de Protocolo, recebido '459
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 459 DO SOCKET 3
+'
+Erro de Protocolo, recebido '460
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 460 DO SOCKET 3
+'
+Erro de Protocolo, recebido '461
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 461 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 462 DO SOCKET 3
+'
+Erro de Protocolo, recebido '463
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 463 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 464 DO SOCKET 3
+'
+Erro de Protocolo, recebido '465
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 465 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 467 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 468 DO SOCKET 3
+'
+Erro de Protocolo, recebido '468
+'
+Erro de Protocolo, recebido '469
+'
+Erro de Protocolo, recebido '471
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 472 DO SOCKET 3
+'
+Erro de Protocolo, recebido '473
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 473 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 474 DO SOCKET 3
+'
+Erro de Protocolo, recebido '475
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 475 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 476 DO SOCKET 3
+'
+Erro de Protocolo, recebido '478
+'
+Erro de Protocolo, recebido '479
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 479 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 481 DO SOCKET 3
+'
+Erro de Protocolo, recebido '482
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 482 DO SOCKET 3
+'
+Erro de Protocolo, recebido '483
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 483 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 484 DO SOCKET 3
+'
+Erro de Protocolo, recebido '486
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 486 DO SOCKET 3
+'
+Erro de Protocolo, recebido '487
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 488 DO SOCKET 3
+'
+Erro de Protocolo, recebido '489
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 489 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 491 DO SOCKET 3
+'
+Erro de Protocolo, recebido '492
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 492 DO SOCKET 3
+'
+Erro de Protocolo, recebido '494
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 493 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 494 DO SOCKET 3
+'
+Erro de Protocolo, recebido '495
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 495 DO SOCKET 3
+'
+Erro de Protocolo, recebido '496
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 496 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 497 DO SOCKET 3
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 498 DO SOCKET 3
+'
+Erro de Protocolo, recebido '499
+'
+Erro de Protocolo, recebido 'CONTADOR NúMERO 499 DO SOCKET 3
+'
+Fechando a conexão com 216 alteracoes pela thread
+Fechado Socket: 7
+Não enviado:
+Socket fechado
+Fechando a conexão com 151 alteracoes pela thread
+Fechado Socket: 7
+Fechando a conexão com 174 alteracoes pela thread
+Fechado Socket: 5
+Não enviado:
+Socket fechado
+Fechando a conexão com 200 alteracoes pela thread
+Fechado Socket: 5
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 9
+Fechando a conexão com 78 alteracoes pela thread
+Fechado Socket: 13
+Não enviado:
+Socket fechado
+Fechando a conexão com 89 alteracoes pela thread
+Fechado Socket: 13
+Não enviado:
+Socket fechado
+Fechando a conexão com 90 alteracoes pela thread
+Fechado Socket: 13
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 8
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 10
+Socket: 14
+Servidor atendendo conexão 3781
+Aberto Socket: 14
+Buscando:REPLACE
+Salvou 768 ditados
+ tempo de execução: 528344.000000 
+Erro de Protocolo, recebido ''
+Fechando a conexão com 0 alteracoes pela thread
+Fechado Socket: 14

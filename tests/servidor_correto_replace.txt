@@ -1,0 +1,518 @@
+Carregou 768 ditados
+Socket: 4
+Servidor atendendo conexão 0
+Socket: 5
+Servidor atendendo conexão 0
+Aberto Socket: 4
+Aberto Socket: 5
+Socket: 6
+Servidor atendendo conexão 7
+Aberto Socket: 6
+Socket: 7
+Servidor atendendo conexão 10
+Socket: 8
+Servidor atendendo conexão 10
+Aberto Socket: 7
+Socket: 9
+Servidor atendendo conexão 15
+Aberto Socket: 8
+Aberto Socket: 9
+Socket: 10
+Servidor atendendo conexão 23
+Socket: 11
+Servidor atendendo conexão 27
+Aberto Socket: 10
+Socket: 12
+Servidor atendendo conexão 30
+Aberto Socket: 11
+Socket: 13
+Servidor atendendo conexão 37
+Aberto Socket: 12
+Aberto Socket: 13
+Socket: 14
+Servidor atendendo conexão 43
+Socket: 15
+Servidor atendendo conexão 43
+Aberto Socket: 14
+Socket: 16
+Servidor atendendo conexão 52
+Aberto Socket: 15
+Aberto Socket: 16
+Socket: 17
+Servidor atendendo conexão 58
+Socket: 18
+Servidor atendendo conexão 62
+Aberto Socket: 17
+Aberto Socket: 18
+Socket: 19
+Servidor atendendo conexão 68
+Aberto Socket: 19
+Socket: 20
+Servidor atendendo conexão 73
+Socket: 21
+Servidor atendendo conexão 73
+Aberto Socket: 20
+Socket: 22
+Servidor atendendo conexão 75
+Aberto Socket: 21
+Socket: 23
+Servidor atendendo conexão 79
+Aberto Socket: 22
+Socket: 24
+Servidor atendendo conexão 86
+Aberto Socket: 23
+Aberto Socket: 24
+Socket: 25
+Servidor atendendo conexão 92
+Aberto Socket: 25
+Socket: 26
+Servidor atendendo conexão 96
+Socket: 27
+Servidor atendendo conexão 100
+Aberto Socket: 26
+Aberto Socket: 27
+Socket: 28
+Servidor atendendo conexão 104
+Aberto Socket: 28
+Socket: 29
+Servidor atendendo conexão 111
+Socket: 30
+Servidor atendendo conexão 115
+Aberto Socket: 29
+Socket: 31
+Servidor atendendo conexão 119
+Aberto Socket: 30
+Aberto Socket: 31
+Socket: 32
+Servidor atendendo conexão 126
+Aberto Socket: 32
+Socket: 33
+Servidor atendendo conexão 129
+Aberto Socket: 33
+Socket: 34
+Servidor atendendo conexão 135
+Socket: 35
+Servidor atendendo conexão 138
+Aberto Socket: 34
+Aberto Socket: 35
+Socket: 36
+Servidor atendendo conexão 142
+Aberto Socket: 36
+Socket: 37
+Servidor atendendo conexão 150
+Aberto Socket: 37
+Socket: 38
+Servidor atendendo conexão 153
+Aberto Socket: 38
+Socket: 39
+Servidor atendendo conexão 163
+Aberto Socket: 39
+Socket: 40
+Servidor atendendo conexão 165
+Aberto Socket: 40
+Socket: 41
+Servidor atendendo conexão 170
+Aberto Socket: 41
+Socket: 42
+Servidor atendendo conexão 173
+Socket: 43
+Servidor atendendo conexão 175
+Aberto Socket: 42
+Aberto Socket: 43
+Socket: 44
+Servidor atendendo conexão 178
+Aberto Socket: 44
+Socket: 45
+Servidor atendendo conexão 182
+Aberto Socket: 45
+Socket: 46
+Servidor atendendo conexão 192
+Aberto Socket: 46
+Socket: 47
+Servidor atendendo conexão 197
+Aberto Socket: 47
+Socket: 48
+Servidor atendendo conexão 201
+Aberto Socket: 48
+Socket: 49
+Servidor atendendo conexão 205
+Aberto Socket: 49
+Socket: 50
+Servidor atendendo conexão 207
+Aberto Socket: 50
+Socket: 51
+Servidor atendendo conexão 211
+Socket: 52
+Servidor atendendo conexão 214
+Aberto Socket: 52
+Aberto Socket: 51
+Socket: 53
+Servidor atendendo conexão 218
+Aberto Socket: 53
+Socket: 54
+Servidor atendendo conexão 229
+Aberto Socket: 54
+Socket: 55
+Servidor atendendo conexão 237
+Socket: 56
+Servidor atendendo conexão 240
+Aberto Socket: 55
+Socket: 57
+Servidor atendendo conexão 246
+Aberto Socket: 56
+Aberto Socket: 57
+Socket: 58
+Servidor atendendo conexão 254
+Aberto Socket: 58
+Socket: 59
+Servidor atendendo conexão 259
+Aberto Socket: 59
+Socket: 60
+Servidor atendendo conexão 266
+Aberto Socket: 60
+Socket: 61
+Servidor atendendo conexão 270
+Aberto Socket: 61
+Socket: 62
+Servidor atendendo conexão 277
+Aberto Socket: 62
+Socket: 63
+Servidor atendendo conexão 281
+Aberto Socket: 63
+Socket: 64
+Servidor atendendo conexão 286
+Aberto Socket: 64
+Socket: 65
+Servidor atendendo conexão 291
+Aberto Socket: 65
+Socket: 66
+Servidor atendendo conexão 295
+Aberto Socket: 66
+Socket: 67
+Servidor atendendo conexão 298
+Aberto Socket: 67
+Socket: 68
+Servidor atendendo conexão 299
+Aberto Socket: 68
+Socket: 69
+Servidor atendendo conexão 303
+Aberto Socket: 69
+Socket: 70
+Servidor atendendo conexão 309
+Aberto Socket: 70
+Socket: 71
+Servidor atendendo conexão 316
+Socket: 72
+Servidor atendendo conexão 321
+Aberto Socket: 71
+Aberto Socket: 72
+Socket: 73
+Servidor atendendo conexão 326
+Socket: 74
+Servidor atendendo conexão 328
+Aberto Socket: 73
+Aberto Socket: 74
+Socket: 75
+Servidor atendendo conexão 333
+Aberto Socket: 75
+Socket: 76
+Servidor atendendo conexão 342
+Aberto Socket: 76
+Socket: 77
+Servidor atendendo conexão 347
+Aberto Socket: 77
+Socket: 78
+Servidor atendendo conexão 349
+Aberto Socket: 78
+Socket: 79
+Servidor atendendo conexão 359
+Aberto Socket: 79
+Socket: 80
+Servidor atendendo conexão 363
+Aberto Socket: 80
+Socket: 81
+Servidor atendendo conexão 366
+Aberto Socket: 81
+Socket: 82
+Servidor atendendo conexão 370
+Aberto Socket: 82
+Socket: 83
+Servidor atendendo conexão 376
+Socket: 84
+Servidor atendendo conexão 379
+Aberto Socket: 83
+Aberto Socket: 84
+Socket: 85
+Servidor atendendo conexão 382
+Aberto Socket: 85
+Socket: 86
+Servidor atendendo conexão 389
+Socket: 87
+Servidor atendendo conexão 390
+Aberto Socket: 87
+Socket: 88
+Servidor atendendo conexão 394
+Aberto Socket: 86
+Aberto Socket: 88
+Socket: 89
+Servidor atendendo conexão 414
+Aberto Socket: 89
+Socket: 90
+Servidor atendendo conexão 419
+Aberto Socket: 90
+Socket: 91
+Servidor atendendo conexão 422
+Aberto Socket: 91
+Socket: 92
+Servidor atendendo conexão 424
+Aberto Socket: 92
+Socket: 93
+Servidor atendendo conexão 426
+Aberto Socket: 93
+Socket: 94
+Servidor atendendo conexão 432
+Aberto Socket: 94
+Socket: 95
+Servidor atendendo conexão 436
+Aberto Socket: 95
+Socket: 96
+Servidor atendendo conexão 438
+Aberto Socket: 96
+Socket: 97
+Servidor atendendo conexão 441
+Aberto Socket: 97
+Socket: 98
+Servidor atendendo conexão 447
+Aberto Socket: 98
+Socket: 99
+Servidor atendendo conexão 450
+Socket: 100
+Servidor atendendo conexão 457
+Aberto Socket: 99
+Aberto Socket: 100
+Socket: 101
+Servidor atendendo conexão 463
+Aberto Socket: 101
+Socket: 102
+Servidor atendendo conexão 473
+Aberto Socket: 102
+Socket: 103
+Servidor atendendo conexão 477
+Aberto Socket: 103
+Socket: 104
+Servidor atendendo conexão 480
+Aberto Socket: 104
+Socket: 105
+Servidor atendendo conexão 486
+Aberto Socket: 105
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 72
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 61
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 21
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 92
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 55
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 50
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 59
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 63
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 83
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 7
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 56
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 94
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 43
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 90
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 4
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 23
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 80
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 69
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 77
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 102
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 37
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 89
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 34
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 18
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 88
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 100
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 22
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 79
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 64
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 28
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 36
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 51
+Fechando a conexão com 500 alteracoes pela thread
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 6
+Fechado Socket: 31
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 48
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 33
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 99
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 13
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 10
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 9
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 19
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 57
+Fechando a conexão com 500 alteracoes pela thread
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 35
+Fechado Socket: 12
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 40
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 32
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 52
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 20
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 87
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 25
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 26
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 68
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 54
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 60
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 24
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 78
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 70
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 15
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 82
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 76
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 65
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 95
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 8
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 74
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 53
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 46
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 29
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 103
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 66
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 11
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 62
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 5
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 58
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 75
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 17
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 27
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 45
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 93
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 85
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 42
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 16
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 44
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 39
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 91
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 71
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 38
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 105
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 97
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 81
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 14
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 67
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 49
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 98
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 41
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 96
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 73
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 104
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 86
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 101
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 84
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 30
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 47
+Socket: 106
+Servidor atendendo conexão 51102
+Aberto Socket: 106
+Salvou 768 ditados
+Erro de Protocolo, recebido ''
+Fechando a conexão com 0 alteracoes pela thread
+Fechado Socket: 106

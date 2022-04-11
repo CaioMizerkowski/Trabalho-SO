@@ -1,0 +1,5626 @@
+Carregou 768 ditados
+Socket: 4
+Servidor atendendo conexão 0
+Socket: 5
+Servidor atendendo conexão 0
+Socket: 6
+Servidor atendendo conexão 0
+Socket: 7
+Servidor atendendo conexão 0
+Aberto Socket: 7
+Aberto Socket: 7
+Aberto Socket: 7
+Socket: 8
+Servidor atendendo conexão 3
+Socket: 9
+Servidor atendendo conexão 3
+Aberto Socket: 9
+Aberto Socket: 9
+Erro de Protocolo, recebido '0
+'
+Socket: 10
+Servidor atendendo conexão 6
+Aberto Socket: 10
+Socket: 11
+Servidor atendendo conexão 13
+Socket: 12
+Servidor atendendo conexão 13
+Socket: 13
+Servidor atendendo conexão 13
+Socket: 14
+Servidor atendendo conexão 13
+Aberto Socket: 14
+Socket: 15
+Servidor atendendo conexão 14
+Aberto Socket: 15
+Socket: 16
+Servidor atendendo conexão 15
+Aberto Socket: 16
+Socket: 17
+Servidor atendendo conexão 17
+Aberto Socket: 17
+Socket: 18
+Servidor atendendo conexão 18
+Aberto Socket: 18
+Aberto Socket: 18
+Aberto Socket: 18
+Aberto Socket: 18
+Aberto Socket: 18
+Socket: 19
+Servidor atendendo conexão 30
+Aberto Socket: 19
+Socket: 20
+Servidor atendendo conexão 38
+Erro de Protocolo, recebido '0
+'
+Socket: 21
+Servidor atendendo conexão 39
+Aberto Socket: 21
+Aberto Socket: 21
+Erro de Protocolo, recebido '3
+'
+Erro de Protocolo, recebido '4
+'
+Erro de Protocolo, recebido '1
+'
+Erro de Protocolo, recebido '2
+'
+Erro de Protocolo, recebido '3
+'
+Socket: 22
+Servidor atendendo conexão 53
+Erro de Protocolo, recebido '4
+'
+Aberto Socket: 22
+Socket: 23
+Servidor atendendo conexão 56
+Aberto Socket: 23
+Socket: 24
+Servidor atendendo conexão 61
+Aberto Socket: 24
+Socket: 25
+Servidor atendendo conexão 65
+Socket: 26
+Servidor atendendo conexão 66
+Aberto Socket: 26
+Socket: 27
+Servidor atendendo conexão 72
+Socket: 28
+Servidor atendendo conexão 72
+Socket: 29
+Servidor atendendo conexão 72
+Aberto Socket: 29
+Socket: 30
+Servidor atendendo conexão 74
+Aberto Socket: 30
+Aberto Socket: 30
+Socket: 31
+Servidor atendendo conexão 78
+Aberto Socket: 31
+Socket: 32
+Servidor atendendo conexão 80
+Aberto Socket: 32
+Aberto Socket: 32
+Socket: 33
+Servidor atendendo conexão 85
+Aberto Socket: 33
+Aberto Socket: 33
+Socket: 34
+Servidor atendendo conexão 88
+Erro de Protocolo, recebido '0
+'
+Erro de Protocolo, recebido '1
+'
+Erro de Protocolo, recebido '2
+'
+Aberto Socket: 34
+Erro de Protocolo, recebido '2
+'
+Socket: 35
+Servidor atendendo conexão 97
+Aberto Socket: 35
+Socket: 36
+Servidor atendendo conexão 98
+Erro de Protocolo, recebido '4
+'
+Erro de Protocolo, recebido '5
+'
+Aberto Socket: 36
+Socket: 37
+Servidor atendendo conexão 102
+Socket: 38
+Servidor atendendo conexão 105
+Socket: 39
+Servidor atendendo conexão 105
+Aberto Socket: 39
+Socket: 40
+Servidor atendendo conexão 106
+Socket: 41
+Servidor atendendo conexão 106
+Aberto Socket: 41
+Aberto Socket: 41
+Aberto Socket: 41
+Socket: 42
+Servidor atendendo conexão 109
+Aberto Socket: 42
+Socket: 43
+Servidor atendendo conexão 110
+Socket: 44
+Servidor atendendo conexão 110
+Socket: 45
+Servidor atendendo conexão 110
+Aberto Socket: 45
+Aberto Socket: 45
+Aberto Socket: 45
+Erro de Protocolo, recebido '0
+'
+Aberto Socket: 45
+Erro de Protocolo, recebido '1
+'
+Erro de Protocolo, recebido '1
+'
+Erro de Protocolo, recebido '2
+'
+Erro de Protocolo, recebido '2
+'
+Erro de Protocolo, recebido '3
+'
+Erro de Protocolo, recebido '4
+'
+Erro de Protocolo, recebido '1
+'
+Erro de Protocolo, recebido '1
+'
+Erro de Protocolo, recebido '2
+'
+Erro de Protocolo, recebido '2
+'
+Socket: 46
+Servidor atendendo conexão 137
+Socket: 47
+Servidor atendendo conexão 137
+Aberto Socket: 47
+Socket: 48
+Servidor atendendo conexão 138
+Socket: 49
+Servidor atendendo conexão 139
+Socket: 50
+Servidor atendendo conexão 139
+Socket: 51
+Servidor atendendo conexão 139
+Socket: 52
+Servidor atendendo conexão 141
+Socket: 53
+Servidor atendendo conexão 141
+Aberto Socket: 53
+Socket: 54
+Servidor atendendo conexão 142
+Aberto Socket: 54
+Socket: 55
+Servidor atendendo conexão 144
+Aberto Socket: 55
+Socket: 56
+Servidor atendendo conexão 145
+Aberto Socket: 56
+Aberto Socket: 56
+Aberto Socket: 56
+Aberto Socket: 56
+Aberto Socket: 56
+Aberto Socket: 56
+Aberto Socket: 56
+Erro de Protocolo, recebido '0
+'
+Socket: 57
+Servidor atendendo conexão 158
+Erro de Protocolo, recebido '4
+'
+Socket: 58
+Servidor atendendo conexão 163
+Erro de Protocolo, recebido '2
+'
+Erro de Protocolo, recebido '3
+'
+Socket: 59
+Servidor atendendo conexão 166
+Erro de Protocolo, recebido '4
+'
+Erro de Protocolo, recebido '5
+'
+Aberto Socket: 59
+Socket: 60
+Servidor atendendo conexão 172
+Aberto Socket: 60
+Erro de Protocolo, recebido '5
+'
+Socket: 61
+Servidor atendendo conexão 173
+Erro de Protocolo, recebido '6
+'
+Aberto Socket: 61
+Erro de Protocolo, recebido '10
+'
+Erro de Protocolo, recebido '11
+'
+Aberto Socket: 61
+Aberto Socket: 61
+Socket: 62
+Servidor atendendo conexão 189
+Aberto Socket: 62
+Socket: 63
+Servidor atendendo conexão 192
+Aberto Socket: 63
+Socket: 64
+Servidor atendendo conexão 196
+Aberto Socket: 64
+Socket: 65
+Servidor atendendo conexão 199
+Socket: 66
+Servidor atendendo conexão 200
+Socket: 67
+Servidor atendendo conexão 200
+Socket: 68
+Servidor atendendo conexão 200
+Socket: 69
+Servidor atendendo conexão 201
+Aberto Socket: 69
+Socket: 70
+Servidor atendendo conexão 202
+Aberto Socket: 70
+Aberto Socket: 70
+Erro de Protocolo, recebido '1
+'
+Socket: 71
+Servidor atendendo conexão 206
+Socket: 72
+Servidor atendendo conexão 206
+Aberto Socket: 72
+Socket: 73
+Servidor atendendo conexão 207
+Aberto Socket: 73
+Erro de Protocolo, recebido '2
+'
+Erro de Protocolo, recebido '3
+'
+Socket: 74
+Servidor atendendo conexão 212
+Socket: 75
+Servidor atendendo conexão 212
+Aberto Socket: 75
+Socket: 76
+Servidor atendendo conexão 213
+Aberto Socket: 76
+Socket: 77
+Servidor atendendo conexão 216
+Socket: 78
+Servidor atendendo conexão 223
+Aberto Socket: 78
+Socket: 79
+Servidor atendendo conexão 224
+Aberto Socket: 79
+Socket: 80
+Servidor atendendo conexão 228
+Aberto Socket: 80
+Socket: 81
+Servidor atendendo conexão 229
+Aberto Socket: 81
+Aberto Socket: 81
+Socket: 82
+Servidor atendendo conexão 240
+Socket: 83
+Servidor atendendo conexão 240
+Socket: 84
+Servidor atendendo conexão 240
+Aberto Socket: 84
+Aberto Socket: 84
+Socket: 85
+Servidor atendendo conexão 242
+Socket: 86
+Servidor atendendo conexão 242
+Socket: 87
+Servidor atendendo conexão 242
+Aberto Socket: 87
+Aberto Socket: 87
+Aberto Socket: 87
+Aberto Socket: 87
+Socket: 88
+Servidor atendendo conexão 247
+Erro de Protocolo, recebido '1
+'
+Erro de Protocolo, recebido '2
+'
+Erro de Protocolo, recebido '3
+'
+Socket: 89
+Servidor atendendo conexão 253
+Erro de Protocolo, recebido '3
+'
+Erro de Protocolo, recebido '4
+'
+Erro de Protocolo, recebido '4
+'
+Socket: 90
+Servidor atendendo conexão 257
+Aberto Socket: 90
+Socket: 91
+Servidor atendendo conexão 259
+Aberto Socket: 91
+Socket: 92
+Servidor atendendo conexão 263
+Socket: 93
+Servidor atendendo conexão 264
+Socket: 94
+Servidor atendendo conexão 265
+Aberto Socket: 94
+Aberto Socket: 94
+Socket: 95
+Servidor atendendo conexão 272
+Aberto Socket: 95
+Socket: 96
+Servidor atendendo conexão 275
+Aberto Socket: 96
+Erro de Protocolo, recebido '0
+'
+Socket: 97
+Servidor atendendo conexão 289
+Aberto Socket: 97
+Aberto Socket: 97
+Erro de Protocolo, recebido '1
+'
+Erro de Protocolo, recebido '2
+'
+Erro de Protocolo, recebido '0
+'
+Erro de Protocolo, recebido '3
+'
+Erro de Protocolo, recebido '1
+'
+Socket: 98
+Servidor atendendo conexão 311
+Aberto Socket: 98
+Erro de Protocolo, recebido '2
+'
+Aberto Socket: 98
+Aberto Socket: 98
+Aberto Socket: 98
+Socket: 99
+Servidor atendendo conexão 339
+Aberto Socket: 99
+Socket: 100
+Servidor atendendo conexão 344
+Socket: 101
+Servidor atendendo conexão 350
+Aberto Socket: 101
+Aberto Socket: 101
+Aberto Socket: 101
+Erro de Protocolo, recebido '2
+'
+Socket: 102
+Servidor atendendo conexão 368
+Aberto Socket: 102
+Erro de Protocolo, recebido '2
+'
+Erro de Protocolo, recebido '3
+'
+Aberto Socket: 102
+Aberto Socket: 102
+Socket: 103
+Servidor atendendo conexão 383
+Aberto Socket: 103
+Aberto Socket: 103
+Socket: 104
+Servidor atendendo conexão 386
+Aberto Socket: 104
+Erro de Protocolo, recebido '2
+'
+Erro de Protocolo, recebido '1
+'
+Erro de Protocolo, recebido '2
+'
+Erro de Protocolo, recebido '3
+'
+Socket: 105
+Servidor atendendo conexão 404
+Aberto Socket: 105
+Erro de Protocolo, recebido '5
+'
+Erro de Protocolo, recebido '4
+'
+Erro de Protocolo, recebido '3
+'
+Erro de Protocolo, recebido '6
+'
+Erro de Protocolo, recebido '8
+'
+Erro de Protocolo, recebido '9
+'
+Erro de Protocolo, recebido '9
+'
+Erro de Protocolo, recebido '11
+'
+Erro de Protocolo, recebido '12
+'
+Erro de Protocolo, recebido '11
+'
+Erro de Protocolo, recebido '5
+'
+Erro de Protocolo, recebido '6
+'
+Erro de Protocolo, recebido '7
+'
+Erro de Protocolo, recebido '8
+'
+Erro de Protocolo, recebido '4
+'
+Erro de Protocolo, recebido '5
+'
+Erro de Protocolo, recebido '4
+'
+Erro de Protocolo, recebido '5
+'
+Erro de Protocolo, recebido '6
+'
+Erro de Protocolo, recebido '5
+'
+Erro de Protocolo, recebido '6
+'
+Erro de Protocolo, recebido '9
+'
+Erro de Protocolo, recebido '10
+'
+Erro de Protocolo, recebido '11
+'
+Erro de Protocolo, recebido '12
+'
+Erro de Protocolo, recebido '7
+'
+Erro de Protocolo, recebido '9
+'
+Erro de Protocolo, recebido '10
+'
+Erro de Protocolo, recebido '5
+'
+Erro de Protocolo, recebido '7
+'
+Erro de Protocolo, recebido '3
+'
+Erro de Protocolo, recebido '4
+'
+Erro de Protocolo, recebido '12
+'
+Erro de Protocolo, recebido '4
+'
+Erro de Protocolo, recebido '12
+'
+Erro de Protocolo, recebido '13
+'
+Erro de Protocolo, recebido '8
+'
+Erro de Protocolo, recebido '3
+'
+Erro de Protocolo, recebido '9
+'
+Erro de Protocolo, recebido '4
+'
+Erro de Protocolo, recebido '5
+'
+Erro de Protocolo, recebido '4
+'
+Erro de Protocolo, recebido '5
+'
+Erro de Protocolo, recebido '17
+'
+Erro de Protocolo, recebido '20
+'
+Erro de Protocolo, recebido '20
+'
+Erro de Protocolo, recebido '21
+'
+Erro de Protocolo, recebido '21
+'
+Erro de Protocolo, recebido '19
+'
+Erro de Protocolo, recebido '22
+'
+Erro de Protocolo, recebido '9
+'
+Erro de Protocolo, recebido '22
+'
+Erro de Protocolo, recebido '10
+'
+Erro de Protocolo, recebido '23
+'
+Erro de Protocolo, recebido '11
+'
+Erro de Protocolo, recebido '20
+'
+Erro de Protocolo, recebido '21
+'
+Erro de Protocolo, recebido '20
+'
+Erro de Protocolo, recebido '12
+'
+Erro de Protocolo, recebido '13
+'
+Erro de Protocolo, recebido '14
+'
+Erro de Protocolo, recebido '25
+'
+Erro de Protocolo, recebido '25
+'
+Erro de Protocolo, recebido '26
+'
+Erro de Protocolo, recebido '26
+'
+Erro de Protocolo, recebido '27
+'
+Erro de Protocolo, recebido '29
+'
+Erro de Protocolo, recebido '28
+'
+Erro de Protocolo, recebido '29
+'
+Erro de Protocolo, recebido '30
+'
+Erro de Protocolo, recebido '36
+'
+Erro de Protocolo, recebido '37
+'
+Erro de Protocolo, recebido '40
+'
+Erro de Protocolo, recebido '40
+'
+Erro de Protocolo, recebido '41
+'
+Erro de Protocolo, recebido '42
+'
+Erro de Protocolo, recebido '42
+'
+Erro de Protocolo, recebido '43
+'
+Erro de Protocolo, recebido '44
+'
+Erro de Protocolo, recebido '45
+'
+Erro de Protocolo, recebido '46
+'
+Erro de Protocolo, recebido '48
+'
+Erro de Protocolo, recebido '48
+'
+Erro de Protocolo, recebido '49
+'
+Erro de Protocolo, recebido '50
+'
+Erro de Protocolo, recebido '5
+'
+Erro de Protocolo, recebido '57
+'
+Erro de Protocolo, recebido '58
+'
+Erro de Protocolo, recebido '59
+'
+Erro de Protocolo, recebido '60
+'
+Erro de Protocolo, recebido '62
+'
+Erro de Protocolo, recebido '63
+'
+Erro de Protocolo, recebido '64
+'
+Erro de Protocolo, recebido '65
+'
+Erro de Protocolo, recebido '65
+'
+Erro de Protocolo, recebido '66
+'
+Erro de Protocolo, recebido '67
+'
+Erro de Protocolo, recebido '68
+'
+Erro de Protocolo, recebido '69
+'
+Erro de Protocolo, recebido '71
+'
+Erro de Protocolo, recebido '73
+'
+Erro de Protocolo, recebido '75
+'
+Erro de Protocolo, recebido '75
+'
+Erro de Protocolo, recebido '74
+'
+Erro de Protocolo, recebido '76
+'
+Erro de Protocolo, recebido '79
+'
+Erro de Protocolo, recebido '78
+'
+Erro de Protocolo, recebido '79
+'
+Erro de Protocolo, recebido '80
+'
+Erro de Protocolo, recebido '83
+'
+Erro de Protocolo, recebido '85
+'
+Erro de Protocolo, recebido '84
+'
+Erro de Protocolo, recebido '86
+'
+Erro de Protocolo, recebido '87
+'
+Erro de Protocolo, recebido '88
+'
+Erro de Protocolo, recebido '89
+'
+Erro de Protocolo, recebido '88
+'
+Erro de Protocolo, recebido '90
+'
+Erro de Protocolo, recebido '91
+'
+Erro de Protocolo, recebido '92
+'
+Erro de Protocolo, recebido '93
+'
+Erro de Protocolo, recebido '93
+'
+Erro de Protocolo, recebido '94
+'
+Erro de Protocolo, recebido '92
+'
+Erro de Protocolo, recebido '95
+'
+Erro de Protocolo, recebido '94
+'
+Erro de Protocolo, recebido '96
+'
+Erro de Protocolo, recebido '97
+'
+Erro de Protocolo, recebido '98
+'
+Erro de Protocolo, recebido '98
+'
+Erro de Protocolo, recebido '99
+'
+Erro de Protocolo, recebido '101
+'
+Erro de Protocolo, recebido '103
+'
+Erro de Protocolo, recebido '103
+'
+Erro de Protocolo, recebido '3
+'
+Erro de Protocolo, recebido '104
+'
+Erro de Protocolo, recebido '4
+'
+Erro de Protocolo, recebido '5
+'
+Erro de Protocolo, recebido '7
+'
+Erro de Protocolo, recebido '5
+'
+Erro de Protocolo, recebido '6
+'
+Erro de Protocolo, recebido '156
+'
+Erro de Protocolo, recebido '157
+'
+Erro de Protocolo, recebido '158
+'
+Erro de Protocolo, recebido '281
+'
+Erro de Protocolo, recebido '282
+'
+Erro de Protocolo, recebido '85
+'
+Erro de Protocolo, recebido '85
+'
+Erro de Protocolo, recebido '86
+'
+Erro de Protocolo, recebido '160
+'
+Erro de Protocolo, recebido '160
+'
+Erro de Protocolo, recebido '161
+'
+Erro de Protocolo, recebido '168
+'
+Erro de Protocolo, recebido '170
+'
+Erro de Protocolo, recebido '171
+'
+Erro de Protocolo, recebido '142
+'
+Erro de Protocolo, recebido '143
+'
+Erro de Protocolo, recebido '147
+'
+Erro de Protocolo, recebido '148
+'
+Erro de Protocolo, recebido '153
+'
+Erro de Protocolo, recebido '157
+'
+Erro de Protocolo, recebido '157
+'
+Erro de Protocolo, recebido '158
+'
+Erro de Protocolo, recebido '15
+'
+Erro de Protocolo, recebido '8
+'
+Erro de Protocolo, recebido '9
+'
+Erro de Protocolo, recebido '12
+'
+Erro de Protocolo, recebido '15
+'
+Erro de Protocolo, recebido '16
+'
+Erro de Protocolo, recebido '18
+'
+Erro de Protocolo, recebido '19
+'
+Erro de Protocolo, recebido '21
+'
+Erro de Protocolo, recebido '22
+'
+Erro de Protocolo, recebido '22
+'
+Erro de Protocolo, recebido '19
+'
+Erro de Protocolo, recebido '20
+'
+Erro de Protocolo, recebido '23
+'
+Erro de Protocolo, recebido '24
+'
+Erro de Protocolo, recebido '23
+'
+Erro de Protocolo, recebido '24
+'
+Erro de Protocolo, recebido '25
+'
+Erro de Protocolo, recebido '28
+'
+Erro de Protocolo, recebido '29
+'
+Erro de Protocolo, recebido '30
+'
+Erro de Protocolo, recebido '31
+'
+Erro de Protocolo, recebido '28
+'
+Erro de Protocolo, recebido '26
+'
+Erro de Protocolo, recebido '45
+'
+Erro de Protocolo, recebido '86
+'
+Erro de Protocolo, recebido '87
+'
+Erro de Protocolo, recebido '94
+'
+Erro de Protocolo, recebido '96
+'
+Erro de Protocolo, recebido '95
+'
+Erro de Protocolo, recebido '98
+'
+Erro de Protocolo, recebido '99
+'
+Erro de Protocolo, recebido '99
+'
+Erro de Protocolo, recebido '100
+'
+Erro de Protocolo, recebido '127
+'
+Erro de Protocolo, recebido '102
+'
+Erro de Protocolo, recebido '128
+'
+Erro de Protocolo, recebido '101
+'
+Erro de Protocolo, recebido '106
+'
+Erro de Protocolo, recebido '107
+'
+Erro de Protocolo, recebido '132
+'
+Erro de Protocolo, recebido '133
+'
+Erro de Protocolo, recebido '114
+'
+Erro de Protocolo, recebido '138
+'
+Erro de Protocolo, recebido '139
+'
+Erro de Protocolo, recebido '139
+'
+Erro de Protocolo, recebido '140
+'
+Erro de Protocolo, recebido '128
+'
+Erro de Protocolo, recebido '129
+'
+Erro de Protocolo, recebido '130
+'
+Erro de Protocolo, recebido '145
+'
+Erro de Protocolo, recebido '131
+'
+Erro de Protocolo, recebido '146
+'
+Erro de Protocolo, recebido '146
+'
+Erro de Protocolo, recebido '132
+'
+Erro de Protocolo, recebido '147
+'
+Erro de Protocolo, recebido '131
+'
+Erro de Protocolo, recebido '133
+'
+Erro de Protocolo, recebido '134
+'
+Erro de Protocolo, recebido '138
+'
+Erro de Protocolo, recebido '139
+'
+Erro de Protocolo, recebido '138
+'
+Erro de Protocolo, recebido '140
+'
+Erro de Protocolo, recebido '139
+'
+Erro de Protocolo, recebido '143
+'
+Erro de Protocolo, recebido '144
+'
+Erro de Protocolo, recebido '145
+'
+Erro de Protocolo, recebido '159
+'
+Erro de Protocolo, recebido '143
+'
+Erro de Protocolo, recebido '160
+'
+Erro de Protocolo, recebido '161
+'
+Erro de Protocolo, recebido '183
+'
+Erro de Protocolo, recebido '184
+'
+Erro de Protocolo, recebido '185
+'
+Erro de Protocolo, recebido '164
+'
+Erro de Protocolo, recebido '186
+'
+Erro de Protocolo, recebido '165
+'
+Erro de Protocolo, recebido '166
+'
+Erro de Protocolo, recebido '192
+'
+Erro de Protocolo, recebido '194
+'
+Erro de Protocolo, recebido '193
+'
+Erro de Protocolo, recebido '198
+'
+Erro de Protocolo, recebido '199
+'
+Erro de Protocolo, recebido '199
+'
+Erro de Protocolo, recebido '200
+'
+Erro de Protocolo, recebido '200
+'
+Erro de Protocolo, recebido '201
+'
+Erro de Protocolo, recebido '202
+'
+Erro de Protocolo, recebido '201
+'
+Erro de Protocolo, recebido '203
+'
+Erro de Protocolo, recebido '203
+'
+Erro de Protocolo, recebido '204
+'
+Erro de Protocolo, recebido '3
+'
+Erro de Protocolo, recebido '3
+'
+Erro de Protocolo, recebido '4
+'
+Erro de Protocolo, recebido '4
+'
+Erro de Protocolo, recebido '4
+'
+Erro de Protocolo, recebido '4
+'
+Erro de Protocolo, recebido '5
+'
+Erro de Protocolo, recebido '5
+'
+Erro de Protocolo, recebido '6
+'
+Erro de Protocolo, recebido '9
+'
+Erro de Protocolo, recebido '4
+'
+Erro de Protocolo, recebido '5
+'
+Erro de Protocolo, recebido '5
+'
+Erro de Protocolo, recebido '68
+'
+Erro de Protocolo, recebido '69
+'
+Erro de Protocolo, recebido '210
+'
+Erro de Protocolo, recebido '201
+'
+Erro de Protocolo, recebido '202
+'
+Erro de Protocolo, recebido '222
+'
+Erro de Protocolo, recebido '223
+'
+Erro de Protocolo, recebido '248
+'
+Erro de Protocolo, recebido '249
+'
+Erro de Protocolo, recebido '263
+'
+Erro de Protocolo, recebido '496
+'
+Erro de Protocolo, recebido '498
+'
+Erro de Protocolo, recebido '499
+'
+Erro de Protocolo, recebido '19
+'
+Erro de Protocolo, recebido '20
+'
+Erro de Protocolo, recebido '21
+'
+Erro de Protocolo, recebido '195
+'
+Erro de Protocolo, recebido '136
+'
+Erro de Protocolo, recebido '213
+'
+Erro de Protocolo, recebido '214
+'
+Erro de Protocolo, recebido '138
+'
+Erro de Protocolo, recebido '139
+'
+Erro de Protocolo, recebido '143
+'
+Erro de Protocolo, recebido '144
+'
+Erro de Protocolo, recebido '8
+'
+Erro de Protocolo, recebido '9
+'
+Erro de Protocolo, recebido '148
+'
+Erro de Protocolo, recebido '149
+'
+Erro de Protocolo, recebido '150
+'
+Erro de Protocolo, recebido '151
+'
+Erro de Protocolo, recebido '153
+'
+Erro de Protocolo, recebido '154
+'
+Erro de Protocolo, recebido '160
+'
+Erro de Protocolo, recebido '162
+'
+Erro de Protocolo, recebido '161
+'
+Erro de Protocolo, recebido '164
+'
+Erro de Protocolo, recebido '164
+'
+Erro de Protocolo, recebido '165
+'
+Erro de Protocolo, recebido '170
+'
+Erro de Protocolo, recebido '171
+'
+Erro de Protocolo, recebido '172
+'
+Erro de Protocolo, recebido '278
+'
+Erro de Protocolo, recebido '279
+'
+Erro de Protocolo, recebido '205
+'
+Erro de Protocolo, recebido '252
+'
+Erro de Protocolo, recebido '253
+'
+Erro de Protocolo, recebido '283
+'
+Erro de Protocolo, recebido '284
+'
+Erro de Protocolo, recebido '253
+'
+Erro de Protocolo, recebido '254
+'
+Erro de Protocolo, recebido '215
+'
+Erro de Protocolo, recebido '216
+'
+Erro de Protocolo, recebido '239
+'
+Erro de Protocolo, recebido '240
+'
+Erro de Protocolo, recebido '244
+'
+Erro de Protocolo, recebido '243
+'
+Erro de Protocolo, recebido '5
+'
+Erro de Protocolo, recebido '6
+'
+Erro de Protocolo, recebido '52
+'
+Erro de Protocolo, recebido '53
+'
+Erro de Protocolo, recebido '54
+'
+Erro de Protocolo, recebido '53
+'
+Erro de Protocolo, recebido '57
+'
+Erro de Protocolo, recebido '58
+'
+Erro de Protocolo, recebido '58
+'
+Erro de Protocolo, recebido '59
+'
+Erro de Protocolo, recebido '90
+'
+Erro de Protocolo, recebido '91
+'
+Erro de Protocolo, recebido '95
+'
+Erro de Protocolo, recebido '96
+'
+Erro de Protocolo, recebido '96
+'
+Erro de Protocolo, recebido '97
+'
+Erro de Protocolo, recebido '101
+'
+Erro de Protocolo, recebido '102
+'
+Erro de Protocolo, recebido '304
+'
+Erro de Protocolo, recebido '305
+'
+Erro de Protocolo, recebido '176
+'
+Erro de Protocolo, recebido '177
+'
+Erro de Protocolo, recebido '177
+'
+Erro de Protocolo, recebido '178
+'
+Erro de Protocolo, recebido '178
+'
+Erro de Protocolo, recebido '179
+'
+Erro de Protocolo, recebido '183
+'
+Erro de Protocolo, recebido '188
+'
+Erro de Protocolo, recebido '189
+'
+Erro de Protocolo, recebido '187
+'
+Erro de Protocolo, recebido '190
+'
+Erro de Protocolo, recebido '48
+'
+Erro de Protocolo, recebido '49
+'
+Erro de Protocolo, recebido '13
+'
+Erro de Protocolo, recebido '24
+'
+Erro de Protocolo, recebido '25
+'
+Erro de Protocolo, recebido '16
+'
+Erro de Protocolo, recebido '17
+'
+Erro de Protocolo, recebido '30
+'
+Erro de Protocolo, recebido '31
+'
+Erro de Protocolo, recebido '233
+'
+Erro de Protocolo, recebido '234
+'
+Erro de Protocolo, recebido '64
+'
+Erro de Protocolo, recebido '65
+'
+Erro de Protocolo, recebido '218
+'
+Erro de Protocolo, recebido '218
+'
+Erro de Protocolo, recebido '219
+'
+Erro de Protocolo, recebido '234
+'
+Erro de Protocolo, recebido '235
+'
+Erro de Protocolo, recebido '236
+'
+Erro de Protocolo, recebido '237
+'
+Erro de Protocolo, recebido '203
+'
+Erro de Protocolo, recebido '204
+'
+Erro de Protocolo, recebido '205
+'
+Erro de Protocolo, recebido '206
+'
+Erro de Protocolo, recebido '216
+'
+Erro de Protocolo, recebido '217
+'
+Erro de Protocolo, recebido '218
+'
+Erro de Protocolo, recebido '219
+'
+Erro de Protocolo, recebido '219
+'
+Erro de Protocolo, recebido '220
+'
+Erro de Protocolo, recebido '220
+'
+Erro de Protocolo, recebido '221
+'
+Erro de Protocolo, recebido '224
+'
+Erro de Protocolo, recebido '223
+'
+Erro de Protocolo, recebido '244
+'
+Erro de Protocolo, recebido '255
+'
+Erro de Protocolo, recebido '256
+'
+Erro de Protocolo, recebido '246
+'
+Erro de Protocolo, recebido '247
+'
+Erro de Protocolo, recebido '245
+'
+Erro de Protocolo, recebido '248
+'
+Erro de Protocolo, recebido '248
+'
+Erro de Protocolo, recebido '249
+'
+Erro de Protocolo, recebido '260
+'
+Erro de Protocolo, recebido '291
+'
+Erro de Protocolo, recebido '261
+'
+Erro de Protocolo, recebido '292
+'
+Erro de Protocolo, recebido '292
+'
+Erro de Protocolo, recebido '256
+'
+Erro de Protocolo, recebido '257
+'
+Erro de Protocolo, recebido '257
+'
+Erro de Protocolo, recebido '258
+'
+Erro de Protocolo, recebido '258
+'
+Erro de Protocolo, recebido '259
+'
+Erro de Protocolo, recebido '260
+'
+Erro de Protocolo, recebido '260
+'
+Erro de Protocolo, recebido '261
+'
+Erro de Protocolo, recebido '276
+'
+Erro de Protocolo, recebido '215
+'
+Erro de Protocolo, recebido '216
+'
+Erro de Protocolo, recebido '276
+'
+Erro de Protocolo, recebido '216
+'
+Erro de Protocolo, recebido '277
+'
+Erro de Protocolo, recebido '217
+'
+Erro de Protocolo, recebido '264
+'
+Erro de Protocolo, recebido '275
+'
+Erro de Protocolo, recebido '192
+'
+Erro de Protocolo, recebido '193
+'
+Erro de Protocolo, recebido '272
+'
+Erro de Protocolo, recebido '198
+'
+Erro de Protocolo, recebido '199
+'
+Erro de Protocolo, recebido '274
+'
+Erro de Protocolo, recebido '199
+'
+Erro de Protocolo, recebido '200
+'
+Erro de Protocolo, recebido '275
+'
+Erro de Protocolo, recebido '201
+'
+Erro de Protocolo, recebido '275
+'
+Erro de Protocolo, recebido '272
+'
+Erro de Protocolo, recebido '202
+'
+Erro de Protocolo, recebido '278
+'
+Erro de Protocolo, recebido '202
+'
+Erro de Protocolo, recebido '203
+'
+Erro de Protocolo, recebido '277
+'
+Erro de Protocolo, recebido '279
+'
+Erro de Protocolo, recebido '279
+'
+Erro de Protocolo, recebido '280
+'
+Erro de Protocolo, recebido '280
+'
+Erro de Protocolo, recebido '212
+'
+Erro de Protocolo, recebido '281
+'
+Erro de Protocolo, recebido '213
+'
+Erro de Protocolo, recebido '214
+'
+Erro de Protocolo, recebido '215
+'
+Erro de Protocolo, recebido '216
+'
+Erro de Protocolo, recebido '283
+'
+Erro de Protocolo, recebido '282
+'
+Erro de Protocolo, recebido '217
+'
+Erro de Protocolo, recebido '284
+'
+Erro de Protocolo, recebido '285
+'
+Erro de Protocolo, recebido '218
+'
+Erro de Protocolo, recebido '285
+'
+Erro de Protocolo, recebido '286
+'
+Erro de Protocolo, recebido '218
+'
+Erro de Protocolo, recebido '219
+'
+Erro de Protocolo, recebido '286
+'
+Erro de Protocolo, recebido '220
+'
+Erro de Protocolo, recebido '288
+'
+Erro de Protocolo, recebido '222
+'
+Erro de Protocolo, recebido '229
+'
+Erro de Protocolo, recebido '230
+'
+Erro de Protocolo, recebido '231
+'
+Erro de Protocolo, recebido '231
+'
+Erro de Protocolo, recebido '289
+'
+Erro de Protocolo, recebido '290
+'
+Erro de Protocolo, recebido '232
+'
+Erro de Protocolo, recebido '291
+'
+Erro de Protocolo, recebido '292
+'
+Erro de Protocolo, recebido '233
+'
+Erro de Protocolo, recebido '293
+'
+Erro de Protocolo, recebido '292
+'
+Erro de Protocolo, recebido '294
+'
+Erro de Protocolo, recebido '237
+'
+Erro de Protocolo, recebido '295
+'
+Erro de Protocolo, recebido '297
+'
+Erro de Protocolo, recebido '298
+'
+Erro de Protocolo, recebido '238
+'
+Erro de Protocolo, recebido '296
+'
+Erro de Protocolo, recebido '239
+'
+Erro de Protocolo, recebido '251
+'
+Erro de Protocolo, recebido '299
+'
+Erro de Protocolo, recebido '300
+'
+Erro de Protocolo, recebido '302
+'
+Erro de Protocolo, recebido '302
+'
+Erro de Protocolo, recebido '305
+'
+Erro de Protocolo, recebido '304
+'
+Erro de Protocolo, recebido '305
+'
+Erro de Protocolo, recebido '308
+'
+Erro de Protocolo, recebido '309
+'
+Erro de Protocolo, recebido '306
+'
+Erro de Protocolo, recebido '311
+'
+Erro de Protocolo, recebido '310
+'
+Erro de Protocolo, recebido '312
+'
+Erro de Protocolo, recebido '313
+'
+Erro de Protocolo, recebido '312
+'
+Erro de Protocolo, recebido '314
+'
+Erro de Protocolo, recebido '314
+'
+Erro de Protocolo, recebido '313
+'
+Erro de Protocolo, recebido '315
+'
+Erro de Protocolo, recebido '316
+'
+Erro de Protocolo, recebido '318
+'
+Erro de Protocolo, recebido '319
+'
+Erro de Protocolo, recebido '319
+'
+Erro de Protocolo, recebido '321
+'
+Erro de Protocolo, recebido '322
+'
+Erro de Protocolo, recebido '323
+'
+Erro de Protocolo, recebido '324
+'
+Erro de Protocolo, recebido '320
+'
+Erro de Protocolo, recebido '326
+'
+Erro de Protocolo, recebido '264
+'
+Erro de Protocolo, recebido '325
+'
+Erro de Protocolo, recebido '327
+'
+Erro de Protocolo, recebido '329
+'
+Erro de Protocolo, recebido '267
+'
+Erro de Protocolo, recebido '268
+'
+Erro de Protocolo, recebido '330
+'
+Erro de Protocolo, recebido '329
+'
+Erro de Protocolo, recebido '277
+'
+Erro de Protocolo, recebido '278
+'
+Erro de Protocolo, recebido '279
+'
+Erro de Protocolo, recebido '337
+'
+Erro de Protocolo, recebido '338
+'
+Erro de Protocolo, recebido '339
+'
+Erro de Protocolo, recebido '340
+'
+Erro de Protocolo, recebido '339
+'
+Erro de Protocolo, recebido '341
+'
+Erro de Protocolo, recebido '340
+'
+Erro de Protocolo, recebido '341
+'
+Erro de Protocolo, recebido '343
+'
+Erro de Protocolo, recebido '344
+'
+Erro de Protocolo, recebido '342
+'
+Erro de Protocolo, recebido '346
+'
+Erro de Protocolo, recebido '346
+'
+Erro de Protocolo, recebido '347
+'
+Erro de Protocolo, recebido '347
+'
+Erro de Protocolo, recebido '349
+'
+Erro de Protocolo, recebido '348
+'
+Erro de Protocolo, recebido '349
+'
+Erro de Protocolo, recebido '350
+'
+Erro de Protocolo, recebido '355
+'
+Erro de Protocolo, recebido '348
+'
+Erro de Protocolo, recebido '352
+'
+Erro de Protocolo, recebido '356
+'
+Erro de Protocolo, recebido '356
+'
+Erro de Protocolo, recebido '357
+'
+Erro de Protocolo, recebido '358
+'
+Erro de Protocolo, recebido '359
+'
+Erro de Protocolo, recebido '358
+'
+Erro de Protocolo, recebido '360
+'
+Erro de Protocolo, recebido '359
+'
+Erro de Protocolo, recebido '360
+'
+Erro de Protocolo, recebido '361
+'
+Erro de Protocolo, recebido '362
+'
+Erro de Protocolo, recebido '364
+'
+Erro de Protocolo, recebido '364
+'
+Erro de Protocolo, recebido '365
+'
+Erro de Protocolo, recebido '366
+'
+Erro de Protocolo, recebido '366
+'
+Erro de Protocolo, recebido '368
+'
+Erro de Protocolo, recebido '367
+'
+Erro de Protocolo, recebido '369
+'
+Erro de Protocolo, recebido '371
+'
+Erro de Protocolo, recebido '371
+'
+Erro de Protocolo, recebido '372
+'
+Erro de Protocolo, recebido '372
+'
+Erro de Protocolo, recebido '373
+'
+Erro de Protocolo, recebido '375
+'
+Erro de Protocolo, recebido '376
+'
+Erro de Protocolo, recebido '377
+'
+Erro de Protocolo, recebido '309
+'
+Erro de Protocolo, recebido '310
+'
+Erro de Protocolo, recebido '18
+'
+Erro de Protocolo, recebido '191
+'
+Erro de Protocolo, recebido '190
+'
+Erro de Protocolo, recebido '23
+'
+Erro de Protocolo, recebido '383
+'
+Erro de Protocolo, recebido '24
+'
+Erro de Protocolo, recebido '384
+'
+Erro de Protocolo, recebido '377
+'
+Erro de Protocolo, recebido '72
+'
+Erro de Protocolo, recebido '73
+'
+Erro de Protocolo, recebido '74
+'
+Erro de Protocolo, recebido '435
+'
+Erro de Protocolo, recebido '436
+'
+Erro de Protocolo, recebido '457
+'
+Erro de Protocolo, recebido '458
+'
+Erro de Protocolo, recebido '461
+'
+Erro de Protocolo, recebido '462
+'
+Erro de Protocolo, recebido '462
+'
+Erro de Protocolo, recebido '463
+'
+Erro de Protocolo, recebido '463
+'
+Erro de Protocolo, recebido '464
+'
+Erro de Protocolo, recebido '465
+'
+Erro de Protocolo, recebido '466
+'
+Erro de Protocolo, recebido '471
+'
+Erro de Protocolo, recebido '472
+'
+Erro de Protocolo, recebido '480
+'
+Erro de Protocolo, recebido '481
+'
+Erro de Protocolo, recebido '482
+'
+Erro de Protocolo, recebido '481
+'
+Erro de Protocolo, recebido '483
+'
+Erro de Protocolo, recebido '482
+'
+Erro de Protocolo, recebido '485
+'
+Erro de Protocolo, recebido '495
+'
+Erro de Protocolo, recebido '498
+'
+Erro de Protocolo, recebido '376
+'
+Erro de Protocolo, recebido '137
+'
+Erro de Protocolo, recebido '138
+'
+Erro de Protocolo, recebido '142
+'
+Erro de Protocolo, recebido '143
+'
+Erro de Protocolo, recebido '15
+'
+Erro de Protocolo, recebido '16
+'
+Erro de Protocolo, recebido '237
+'
+Erro de Protocolo, recebido '238
+'
+Erro de Protocolo, recebido '13
+'
+Erro de Protocolo, recebido '14
+'
+Erro de Protocolo, recebido '26
+'
+Erro de Protocolo, recebido '294
+'
+Erro de Protocolo, recebido '295
+'
+Erro de Protocolo, recebido '293
+'
+Erro de Protocolo, recebido '269
+'
+Erro de Protocolo, recebido '283
+'
+Erro de Protocolo, recebido '284
+'
+Erro de Protocolo, recebido '270
+'
+Erro de Protocolo, recebido '293
+'
+Erro de Protocolo, recebido '295
+'
+Erro de Protocolo, recebido '296
+'
+Erro de Protocolo, recebido '297
+'
+Erro de Protocolo, recebido '297
+'
+Erro de Protocolo, recebido '231
+'
+Erro de Protocolo, recebido '298
+'
+Erro de Protocolo, recebido '298
+'
+Erro de Protocolo, recebido '299
+'
+Erro de Protocolo, recebido '232
+'
+Erro de Protocolo, recebido '233
+'
+Erro de Protocolo, recebido '301
+'
+Erro de Protocolo, recebido '301
+'
+Erro de Protocolo, recebido '234
+'
+Erro de Protocolo, recebido '234
+'
+Erro de Protocolo, recebido '302
+'
+Erro de Protocolo, recebido '235
+'
+Erro de Protocolo, recebido '302
+'
+Erro de Protocolo, recebido '303
+'
+Erro de Protocolo, recebido '302
+'
+Erro de Protocolo, recebido '240
+'
+Erro de Protocolo, recebido '304
+'
+Erro de Protocolo, recebido '302
+'
+Erro de Protocolo, recebido '241
+'
+Erro de Protocolo, recebido '306
+'
+Erro de Protocolo, recebido '307
+'
+Erro de Protocolo, recebido '303
+'
+Erro de Protocolo, recebido '309
+'
+Erro de Protocolo, recebido '240
+'
+Erro de Protocolo, recebido '312
+'
+Erro de Protocolo, recebido '303
+'
+Erro de Protocolo, recebido '310
+'
+Erro de Protocolo, recebido '317
+'
+Erro de Protocolo, recebido '307
+'
+Erro de Protocolo, recebido '306
+'
+Erro de Protocolo, recebido '309
+'
+Erro de Protocolo, recebido '308
+'
+Erro de Protocolo, recebido '310
+'
+Erro de Protocolo, recebido '309
+'
+Erro de Protocolo, recebido '310
+'
+Erro de Protocolo, recebido '313
+'
+Erro de Protocolo, recebido '313
+'
+Erro de Protocolo, recebido '314
+'
+Erro de Protocolo, recebido '314
+'
+Erro de Protocolo, recebido '315
+'
+Erro de Protocolo, recebido '317
+'
+Erro de Protocolo, recebido '319
+'
+Erro de Protocolo, recebido '320
+'
+Erro de Protocolo, recebido '321
+'
+Erro de Protocolo, recebido '323
+'
+Erro de Protocolo, recebido '322
+'
+Erro de Protocolo, recebido '325
+'
+Erro de Protocolo, recebido '327
+'
+Erro de Protocolo, recebido '328
+'
+Erro de Protocolo, recebido '329
+'
+Erro de Protocolo, recebido '331
+'
+Erro de Protocolo, recebido '332
+'
+Erro de Protocolo, recebido '331
+'
+Erro de Protocolo, recebido '332
+'
+Erro de Protocolo, recebido '333
+'
+Erro de Protocolo, recebido '334
+'
+Erro de Protocolo, recebido '333
+'
+Erro de Protocolo, recebido '336
+'
+Erro de Protocolo, recebido '336
+'
+Erro de Protocolo, recebido '337
+'
+Erro de Protocolo, recebido '338
+'
+Erro de Protocolo, recebido '340
+'
+Erro de Protocolo, recebido '341
+'
+Erro de Protocolo, recebido '343
+'
+Erro de Protocolo, recebido '344
+'
+Erro de Protocolo, recebido '343
+'
+Erro de Protocolo, recebido '345
+'
+Erro de Protocolo, recebido '346
+'
+Erro de Protocolo, recebido '347
+'
+Erro de Protocolo, recebido '349
+'
+Erro de Protocolo, recebido '351
+'
+Erro de Protocolo, recebido '351
+'
+Erro de Protocolo, recebido '352
+'
+Erro de Protocolo, recebido '353
+'
+Erro de Protocolo, recebido '115
+'
+Erro de Protocolo, recebido '355
+'
+Erro de Protocolo, recebido '116
+'
+Erro de Protocolo, recebido '117
+'
+Erro de Protocolo, recebido '359
+'
+Erro de Protocolo, recebido '359
+'
+Erro de Protocolo, recebido '357
+'
+Erro de Protocolo, recebido '360
+'
+Erro de Protocolo, recebido '361
+'
+Erro de Protocolo, recebido '366
+'
+Erro de Protocolo, recebido '366
+'
+Erro de Protocolo, recebido '364
+'
+Erro de Protocolo, recebido '367
+'
+Erro de Protocolo, recebido '367
+'
+Erro de Protocolo, recebido '368
+'
+Erro de Protocolo, recebido '369
+'
+Erro de Protocolo, recebido '370
+'
+Erro de Protocolo, recebido '371
+'
+Erro de Protocolo, recebido '369
+'
+Erro de Protocolo, recebido '371
+'
+Erro de Protocolo, recebido '372
+'
+Erro de Protocolo, recebido '372
+'
+Erro de Protocolo, recebido '374
+'
+Erro de Protocolo, recebido '374
+'
+Erro de Protocolo, recebido '377
+'
+Erro de Protocolo, recebido '377
+'
+Erro de Protocolo, recebido '373
+'
+Erro de Protocolo, recebido '378
+'
+Erro de Protocolo, recebido '379
+'
+Erro de Protocolo, recebido '378
+'
+Erro de Protocolo, recebido '381
+'
+Erro de Protocolo, recebido '382
+'
+Erro de Protocolo, recebido '382
+'
+Erro de Protocolo, recebido '381
+'
+Erro de Protocolo, recebido '383
+'
+Erro de Protocolo, recebido '384
+'
+Erro de Protocolo, recebido '384
+'
+Erro de Protocolo, recebido '385
+'
+Erro de Protocolo, recebido '386
+'
+Erro de Protocolo, recebido '388
+'
+Erro de Protocolo, recebido '390
+'
+Erro de Protocolo, recebido '389
+'
+Erro de Protocolo, recebido '390
+'
+Erro de Protocolo, recebido '391
+'
+Erro de Protocolo, recebido '392
+'
+Erro de Protocolo, recebido '392
+'
+Erro de Protocolo, recebido '393
+'
+Erro de Protocolo, recebido '394
+'
+Erro de Protocolo, recebido '399
+'
+Erro de Protocolo, recebido '399
+'
+Erro de Protocolo, recebido '400
+'
+Erro de Protocolo, recebido '403
+'
+Erro de Protocolo, recebido '403
+'
+Erro de Protocolo, recebido '404
+'
+Erro de Protocolo, recebido '402
+'
+Erro de Protocolo, recebido '405
+'
+Erro de Protocolo, recebido '407
+'
+Erro de Protocolo, recebido '410
+'
+Erro de Protocolo, recebido '411
+'
+Erro de Protocolo, recebido '320
+'
+Erro de Protocolo, recebido '320
+'
+Erro de Protocolo, recebido '321
+'
+Erro de Protocolo, recebido '409
+'
+Erro de Protocolo, recebido '412
+'
+Erro de Protocolo, recebido '418
+'
+Erro de Protocolo, recebido '418
+'
+Erro de Protocolo, recebido '419
+'
+Erro de Protocolo, recebido '423
+'
+Erro de Protocolo, recebido '344
+'
+Erro de Protocolo, recebido '345
+'
+Erro de Protocolo, recebido '425
+'
+Erro de Protocolo, recebido '424
+'
+Erro de Protocolo, recebido '425
+'
+Erro de Protocolo, recebido '426
+'
+Erro de Protocolo, recebido '427
+'
+Erro de Protocolo, recebido '428
+'
+Erro de Protocolo, recebido '428
+'
+Erro de Protocolo, recebido '429
+'
+Erro de Protocolo, recebido '429
+'
+Erro de Protocolo, recebido '426
+'
+Erro de Protocolo, recebido '431
+'
+Erro de Protocolo, recebido '432
+'
+Erro de Protocolo, recebido '435
+'
+Erro de Protocolo, recebido '437
+'
+Erro de Protocolo, recebido '436
+'
+Erro de Protocolo, recebido '438
+'
+Erro de Protocolo, recebido '437
+'
+Erro de Protocolo, recebido '438
+'
+Erro de Protocolo, recebido '441
+'
+Erro de Protocolo, recebido '442
+'
+Erro de Protocolo, recebido '443
+'
+Erro de Protocolo, recebido '444
+'
+Erro de Protocolo, recebido '443
+'
+Erro de Protocolo, recebido '445
+'
+Erro de Protocolo, recebido '448
+'
+Erro de Protocolo, recebido '447
+'
+Erro de Protocolo, recebido '448
+'
+Erro de Protocolo, recebido '449
+'
+Erro de Protocolo, recebido '449
+'
+Erro de Protocolo, recebido '450
+'
+Erro de Protocolo, recebido '451
+'
+Erro de Protocolo, recebido '451
+'
+Erro de Protocolo, recebido '453
+'
+Erro de Protocolo, recebido '454
+'
+Erro de Protocolo, recebido '453
+'
+Erro de Protocolo, recebido '455
+'
+Erro de Protocolo, recebido '456
+'
+Erro de Protocolo, recebido '457
+'
+Erro de Protocolo, recebido '458
+'
+Erro de Protocolo, recebido '459
+'
+Erro de Protocolo, recebido '461
+'
+Erro de Protocolo, recebido '462
+'
+Erro de Protocolo, recebido '462
+'
+Erro de Protocolo, recebido '464
+'
+Erro de Protocolo, recebido '464
+'
+Erro de Protocolo, recebido '465
+'
+Erro de Protocolo, recebido '467
+'
+Erro de Protocolo, recebido '469
+'
+Erro de Protocolo, recebido '468
+'
+Erro de Protocolo, recebido '469
+'
+Erro de Protocolo, recebido '470
+'
+Erro de Protocolo, recebido '470
+'
+Erro de Protocolo, recebido '471
+'
+Erro de Protocolo, recebido '472
+'
+Erro de Protocolo, recebido '474
+'
+Erro de Protocolo, recebido '474
+'
+Erro de Protocolo, recebido '475
+'
+Erro de Protocolo, recebido '476
+'
+Erro de Protocolo, recebido '477
+'
+Erro de Protocolo, recebido '479
+'
+Erro de Protocolo, recebido '480
+'
+Erro de Protocolo, recebido '482
+'
+Erro de Protocolo, recebido '481
+'
+Erro de Protocolo, recebido '482
+'
+Erro de Protocolo, recebido '484
+'
+Erro de Protocolo, recebido '485
+'
+Erro de Protocolo, recebido '485
+'
+Erro de Protocolo, recebido '486
+'
+Erro de Protocolo, recebido '486
+'
+Erro de Protocolo, recebido '487
+'
+Erro de Protocolo, recebido '488
+'
+Erro de Protocolo, recebido '490
+'
+Erro de Protocolo, recebido '489
+'
+Erro de Protocolo, recebido '492
+'
+Erro de Protocolo, recebido '494
+'
+Erro de Protocolo, recebido '495
+'
+Erro de Protocolo, recebido '496
+'
+Erro de Protocolo, recebido '195
+'
+Erro de Protocolo, recebido '196
+'
+Erro de Protocolo, recebido '499
+'
+Erro de Protocolo, recebido '160
+'
+Erro de Protocolo, recebido '160
+'
+Erro de Protocolo, recebido '161
+'
+Erro de Protocolo, recebido '499
+'
+Erro de Protocolo, recebido '244
+'
+Erro de Protocolo, recebido '245
+'
+Erro de Protocolo, recebido '246
+'
+Erro de Protocolo, recebido '32
+'
+Erro de Protocolo, recebido '31
+'
+Erro de Protocolo, recebido '17
+'
+Erro de Protocolo, recebido '17
+'
+Erro de Protocolo, recebido '18
+'
+Erro de Protocolo, recebido '19
+'
+Erro de Protocolo, recebido '250
+'
+Erro de Protocolo, recebido '251
+'
+Erro de Protocolo, recebido '256
+'
+Erro de Protocolo, recebido '257
+'
+Erro de Protocolo, recebido '266
+'
+Erro de Protocolo, recebido '267
+'
+Erro de Protocolo, recebido '265
+'
+Erro de Protocolo, recebido '266
+'
+Erro de Protocolo, recebido '350
+'
+Erro de Protocolo, recebido '354
+'
+Erro de Protocolo, recebido '354
+'
+Erro de Protocolo, recebido '283
+'
+Erro de Protocolo, recebido '284
+'
+Erro de Protocolo, recebido '359
+'
+Erro de Protocolo, recebido '285
+'
+Erro de Protocolo, recebido '286
+'
+Erro de Protocolo, recebido '359
+'
+Erro de Protocolo, recebido '360
+'
+Erro de Protocolo, recebido '360
+'
+Erro de Protocolo, recebido '361
+'
+Erro de Protocolo, recebido '362
+'
+Erro de Protocolo, recebido '367
+'
+Erro de Protocolo, recebido '368
+'
+Erro de Protocolo, recebido '369
+'
+Erro de Protocolo, recebido '368
+'
+Erro de Protocolo, recebido '370
+'
+Erro de Protocolo, recebido '371
+'
+Erro de Protocolo, recebido '378
+'
+Erro de Protocolo, recebido '379
+'
+Erro de Protocolo, recebido '380
+'
+Erro de Protocolo, recebido '380
+'
+Erro de Protocolo, recebido '381
+'
+Erro de Protocolo, recebido '382
+'
+Erro de Protocolo, recebido '11
+'
+Erro de Protocolo, recebido '377
+'
+Erro de Protocolo, recebido '378
+'
+Erro de Protocolo, recebido '29
+'
+Erro de Protocolo, recebido '30
+'
+Erro de Protocolo, recebido '12
+'
+Erro de Protocolo, recebido '13
+'
+Erro de Protocolo, recebido '408
+'
+Erro de Protocolo, recebido '409
+'
+Erro de Protocolo, recebido '431
+'
+Erro de Protocolo, recebido '432
+'
+Erro de Protocolo, recebido '164
+'
+Erro de Protocolo, recebido '102
+'
+Erro de Protocolo, recebido '103
+'
+Erro de Protocolo, recebido '171
+'
+Erro de Protocolo, recebido '172
+'
+Erro de Protocolo, recebido '105
+'
+Erro de Protocolo, recebido '106
+'
+Erro de Protocolo, recebido '108
+'
+Erro de Protocolo, recebido '114
+'
+Erro de Protocolo, recebido '115
+'
+Erro de Protocolo, recebido '133
+'
+Erro de Protocolo, recebido '134
+'
+Erro de Protocolo, recebido '135
+'
+Erro de Protocolo, recebido '134
+'
+Erro de Protocolo, recebido '142
+'
+Erro de Protocolo, recebido '143
+'
+Erro de Protocolo, recebido '144
+'
+Erro de Protocolo, recebido '145
+'
+Erro de Protocolo, recebido '146
+'
+Erro de Protocolo, recebido '147
+'
+Erro de Protocolo, recebido '148
+'
+Erro de Protocolo, recebido '149
+'
+Erro de Protocolo, recebido '150
+'
+Erro de Protocolo, recebido '152
+'
+Erro de Protocolo, recebido '152
+'
+Erro de Protocolo, recebido '153
+'
+Erro de Protocolo, recebido '157
+'
+Erro de Protocolo, recebido '158
+'
+Erro de Protocolo, recebido '160
+'
+Erro de Protocolo, recebido '162
+'
+Erro de Protocolo, recebido '162
+'
+Erro de Protocolo, recebido '163
+'
+Erro de Protocolo, recebido '163
+'
+Erro de Protocolo, recebido '164
+'
+Erro de Protocolo, recebido '164
+'
+Erro de Protocolo, recebido '165
+'
+Erro de Protocolo, recebido '165
+'
+Erro de Protocolo, recebido '166
+'
+Erro de Protocolo, recebido '167
+'
+Erro de Protocolo, recebido '168
+'
+Erro de Protocolo, recebido '169
+'
+Erro de Protocolo, recebido '168
+'
+Erro de Protocolo, recebido '171
+'
+Erro de Protocolo, recebido '172
+'
+Erro de Protocolo, recebido '173
+'
+Erro de Protocolo, recebido '174
+'
+Erro de Protocolo, recebido '338
+'
+Erro de Protocolo, recebido '197
+'
+Erro de Protocolo, recebido '202
+'
+Erro de Protocolo, recebido '204
+'
+Erro de Protocolo, recebido '342
+'
+Erro de Protocolo, recebido '206
+'
+Erro de Protocolo, recebido '207
+'
+Erro de Protocolo, recebido '257
+'
+Erro de Protocolo, recebido '256
+'
+Erro de Protocolo, recebido '207
+'
+Erro de Protocolo, recebido '208
+'
+Erro de Protocolo, recebido '348
+'
+Erro de Protocolo, recebido '215
+'
+Erro de Protocolo, recebido '216
+'
+Erro de Protocolo, recebido '217
+'
+Erro de Protocolo, recebido '213
+'
+Erro de Protocolo, recebido '350
+'
+Erro de Protocolo, recebido '351
+'
+Erro de Protocolo, recebido '217
+'
+Erro de Protocolo, recebido '352
+'
+Erro de Protocolo, recebido '218
+'
+Erro de Protocolo, recebido '220
+'
+Erro de Protocolo, recebido '221
+'
+Erro de Protocolo, recebido '222
+'
+Erro de Protocolo, recebido '224
+'
+Erro de Protocolo, recebido '225
+'
+Erro de Protocolo, recebido '356
+'
+Erro de Protocolo, recebido '230
+'
+Erro de Protocolo, recebido '230
+'
+Erro de Protocolo, recebido '231
+'
+Erro de Protocolo, recebido '360
+'
+Erro de Protocolo, recebido '361
+'
+Erro de Protocolo, recebido '361
+'
+Erro de Protocolo, recebido '362
+'
+Erro de Protocolo, recebido '251
+'
+Erro de Protocolo, recebido '253
+'
+Erro de Protocolo, recebido '362
+'
+Erro de Protocolo, recebido '254
+'
+Erro de Protocolo, recebido '363
+'
+Erro de Protocolo, recebido '240
+'
+Erro de Protocolo, recebido '241
+'
+Erro de Protocolo, recebido '279
+'
+Erro de Protocolo, recebido '280
+'
+Erro de Protocolo, recebido '370
+'
+Erro de Protocolo, recebido '371
+'
+Erro de Protocolo, recebido '247
+'
+Erro de Protocolo, recebido '373
+'
+Erro de Protocolo, recebido '374
+'
+Erro de Protocolo, recebido '249
+'
+Erro de Protocolo, recebido '281
+'
+Erro de Protocolo, recebido '282
+'
+Erro de Protocolo, recebido '284
+'
+Erro de Protocolo, recebido '285
+'
+Erro de Protocolo, recebido '295
+'
+Erro de Protocolo, recebido '296
+'
+Erro de Protocolo, recebido '295
+'
+Erro de Protocolo, recebido '298
+'
+Erro de Protocolo, recebido '386
+'
+Erro de Protocolo, recebido '387
+'
+Erro de Protocolo, recebido '299
+'
+Erro de Protocolo, recebido '299
+'
+Erro de Protocolo, recebido '300
+'
+Erro de Protocolo, recebido '304
+'
+Erro de Protocolo, recebido '387
+'
+Erro de Protocolo, recebido '248
+'
+Erro de Protocolo, recebido '305
+'
+Erro de Protocolo, recebido '306
+'
+Erro de Protocolo, recebido '388
+'
+Erro de Protocolo, recebido '312
+'
+Erro de Protocolo, recebido '313
+'
+Erro de Protocolo, recebido '312
+'
+Erro de Protocolo, recebido '314
+'
+Erro de Protocolo, recebido '280
+'
+Erro de Protocolo, recebido '400
+'
+Erro de Protocolo, recebido '401
+'
+Erro de Protocolo, recebido '281
+'
+Erro de Protocolo, recebido '402
+'
+Erro de Protocolo, recebido '403
+'
+Erro de Protocolo, recebido '320
+'
+Erro de Protocolo, recebido '321
+'
+Erro de Protocolo, recebido '322
+'
+Erro de Protocolo, recebido '323
+'
+Erro de Protocolo, recebido '323
+'
+Erro de Protocolo, recebido '324
+'
+Erro de Protocolo, recebido '419
+'
+Erro de Protocolo, recebido '420
+'
+Erro de Protocolo, recebido '327
+'
+Erro de Protocolo, recebido '328
+'
+Erro de Protocolo, recebido '291
+'
+Erro de Protocolo, recebido '326
+'
+Erro de Protocolo, recebido '421
+'
+Erro de Protocolo, recebido '421
+'
+Erro de Protocolo, recebido '422
+'
+Erro de Protocolo, recebido '423
+'
+Erro de Protocolo, recebido '291
+'
+Erro de Protocolo, recebido '293
+'
+Erro de Protocolo, recebido '292
+'
+Erro de Protocolo, recebido '298
+'
+Erro de Protocolo, recebido '298
+'
+Erro de Protocolo, recebido '299
+'
+Erro de Protocolo, recebido '304
+'
+Erro de Protocolo, recebido '354
+'
+Erro de Protocolo, recebido '355
+'
+Erro de Protocolo, recebido '306
+'
+Erro de Protocolo, recebido '309
+'
+Erro de Protocolo, recebido '308
+'
+Erro de Protocolo, recebido '310
+'
+Erro de Protocolo, recebido '368
+'
+Erro de Protocolo, recebido '369
+'
+Erro de Protocolo, recebido '309
+'
+Erro de Protocolo, recebido '370
+'
+Erro de Protocolo, recebido '340
+'
+Erro de Protocolo, recebido '311
+'
+Erro de Protocolo, recebido '342
+'
+Erro de Protocolo, recebido '354
+'
+Erro de Protocolo, recebido '355
+'
+Erro de Protocolo, recebido '388
+'
+Erro de Protocolo, recebido '389
+'
+Erro de Protocolo, recebido '389
+'
+Erro de Protocolo, recebido '390
+'
+Erro de Protocolo, recebido '391
+'
+Erro de Protocolo, recebido '392
+'
+Erro de Protocolo, recebido '393
+'
+Erro de Protocolo, recebido '394
+'
+Erro de Protocolo, recebido '369
+'
+Erro de Protocolo, recebido '445
+'
+Erro de Protocolo, recebido '329
+'
+Erro de Protocolo, recebido '328
+'
+Erro de Protocolo, recebido '361
+'
+Erro de Protocolo, recebido '362
+'
+Erro de Protocolo, recebido '362
+'
+Erro de Protocolo, recebido '395
+'
+Erro de Protocolo, recebido '395
+'
+Erro de Protocolo, recebido '396
+'
+Erro de Protocolo, recebido '364
+'
+Erro de Protocolo, recebido '402
+'
+Erro de Protocolo, recebido '365
+'
+Erro de Protocolo, recebido '402
+'
+Erro de Protocolo, recebido '403
+'
+Erro de Protocolo, recebido '404
+'
+Erro de Protocolo, recebido '405
+'
+Erro de Protocolo, recebido '406
+'
+Erro de Protocolo, recebido '406
+'
+Erro de Protocolo, recebido '407
+'
+Erro de Protocolo, recebido '365
+'
+Erro de Protocolo, recebido '408
+'
+Erro de Protocolo, recebido '408
+'
+Erro de Protocolo, recebido '409
+'
+Erro de Protocolo, recebido '410
+'
+Erro de Protocolo, recebido '411
+'
+Erro de Protocolo, recebido '412
+'
+Erro de Protocolo, recebido '413
+'
+Erro de Protocolo, recebido '415
+'
+Erro de Protocolo, recebido '415
+'
+Erro de Protocolo, recebido '416
+'
+Erro de Protocolo, recebido '366
+'
+Erro de Protocolo, recebido '417
+'
+Erro de Protocolo, recebido '417
+'
+Erro de Protocolo, recebido '367
+'
+Erro de Protocolo, recebido '418
+'
+Erro de Protocolo, recebido '424
+'
+Erro de Protocolo, recebido '369
+'
+Erro de Protocolo, recebido '370
+'
+Erro de Protocolo, recebido '371
+'
+Erro de Protocolo, recebido '371
+'
+Erro de Protocolo, recebido '372
+'
+Erro de Protocolo, recebido '431
+'
+Erro de Protocolo, recebido '432
+'
+Erro de Protocolo, recebido '377
+'
+Erro de Protocolo, recebido '378
+'
+Erro de Protocolo, recebido '445
+'
+Erro de Protocolo, recebido '379
+'
+Erro de Protocolo, recebido '446
+'
+Erro de Protocolo, recebido '380
+'
+Erro de Protocolo, recebido '447
+'
+Erro de Protocolo, recebido '380
+'
+Erro de Protocolo, recebido '381
+'
+Erro de Protocolo, recebido '381
+'
+Erro de Protocolo, recebido '382
+'
+Erro de Protocolo, recebido '382
+'
+Erro de Protocolo, recebido '383
+'
+Erro de Protocolo, recebido '383
+'
+Erro de Protocolo, recebido '385
+'
+Erro de Protocolo, recebido '385
+'
+Erro de Protocolo, recebido '386
+'
+Erro de Protocolo, recebido '384
+'
+Erro de Protocolo, recebido '388
+'
+Erro de Protocolo, recebido '389
+'
+Erro de Protocolo, recebido '389
+'
+Erro de Protocolo, recebido '482
+'
+Erro de Protocolo, recebido '390
+'
+Erro de Protocolo, recebido '392
+'
+Erro de Protocolo, recebido '484
+'
+Erro de Protocolo, recebido '393
+'
+Erro de Protocolo, recebido '484
+'
+Erro de Protocolo, recebido '393
+'
+Erro de Protocolo, recebido '485
+'
+Erro de Protocolo, recebido '394
+'
+Erro de Protocolo, recebido '265
+'
+Erro de Protocolo, recebido '397
+'
+Erro de Protocolo, recebido '127
+'
+Erro de Protocolo, recebido '398
+'
+Erro de Protocolo, recebido '128
+'
+Erro de Protocolo, recebido '21
+'
+Erro de Protocolo, recebido '403
+'
+Erro de Protocolo, recebido '127
+'
+Erro de Protocolo, recebido '396
+'
+Erro de Protocolo, recebido '404
+'
+Erro de Protocolo, recebido '405
+'
+Erro de Protocolo, recebido '406
+'
+Erro de Protocolo, recebido '278
+'
+Erro de Protocolo, recebido '279
+'
+Erro de Protocolo, recebido '408
+'
+Erro de Protocolo, recebido '279
+'
+Erro de Protocolo, recebido '407
+'
+Erro de Protocolo, recebido '409
+'
+Erro de Protocolo, recebido '280
+'
+Erro de Protocolo, recebido '410
+'
+Erro de Protocolo, recebido '411
+'
+Erro de Protocolo, recebido '414
+'
+Erro de Protocolo, recebido '283
+'
+Erro de Protocolo, recebido '284
+'
+Erro de Protocolo, recebido '288
+'
+Erro de Protocolo, recebido '433
+'
+Erro de Protocolo, recebido '289
+'
+Erro de Protocolo, recebido '290
+'
+Erro de Protocolo, recebido '289
+'
+Erro de Protocolo, recebido '293
+'
+Erro de Protocolo, recebido '294
+'
+Erro de Protocolo, recebido '295
+'
+Erro de Protocolo, recebido '435
+'
+Erro de Protocolo, recebido '296
+'
+Erro de Protocolo, recebido '435
+'
+Erro de Protocolo, recebido '436
+'
+Erro de Protocolo, recebido '298
+'
+Erro de Protocolo, recebido '297
+'
+Erro de Protocolo, recebido '438
+'
+Erro de Protocolo, recebido '300
+'
+Erro de Protocolo, recebido '439
+'
+Erro de Protocolo, recebido '301
+'
+Erro de Protocolo, recebido '443
+'
+Erro de Protocolo, recebido '445
+'
+Erro de Protocolo, recebido '444
+'
+Erro de Protocolo, recebido '448
+'
+Erro de Protocolo, recebido '449
+'
+Erro de Protocolo, recebido '448
+'
+Erro de Protocolo, recebido '449
+'
+Erro de Protocolo, recebido '450
+'
+Erro de Protocolo, recebido '451
+'
+Erro de Protocolo, recebido '451
+'
+Erro de Protocolo, recebido '454
+'
+Erro de Protocolo, recebido '454
+'
+Erro de Protocolo, recebido '453
+'
+Erro de Protocolo, recebido '458
+'
+Erro de Protocolo, recebido '457
+'
+Erro de Protocolo, recebido '458
+'
+Erro de Protocolo, recebido '459
+'
+Erro de Protocolo, recebido '460
+'
+Erro de Protocolo, recebido '460
+'
+Erro de Protocolo, recebido '462
+'
+Erro de Protocolo, recebido '461
+'
+Erro de Protocolo, recebido '462
+'
+Erro de Protocolo, recebido '463
+'
+Erro de Protocolo, recebido '463
+'
+Erro de Protocolo, recebido '464
+'
+Erro de Protocolo, recebido '465
+'
+Erro de Protocolo, recebido '466
+'
+Erro de Protocolo, recebido '467
+'
+Erro de Protocolo, recebido '468
+'
+Erro de Protocolo, recebido '470
+'
+Erro de Protocolo, recebido '471
+'
+Erro de Protocolo, recebido '471
+'
+Erro de Protocolo, recebido '473
+'
+Erro de Protocolo, recebido '472
+'
+Erro de Protocolo, recebido '474
+'
+Erro de Protocolo, recebido '475
+'
+Erro de Protocolo, recebido '476
+'
+Erro de Protocolo, recebido '475
+'
+Erro de Protocolo, recebido '477
+'
+Erro de Protocolo, recebido '478
+'
+Erro de Protocolo, recebido '477
+'
+Erro de Protocolo, recebido '479
+'
+Erro de Protocolo, recebido '479
+'
+Erro de Protocolo, recebido '480
+'
+Erro de Protocolo, recebido '480
+'
+Erro de Protocolo, recebido '481
+'
+Erro de Protocolo, recebido '482
+'
+Erro de Protocolo, recebido '482
+'
+Erro de Protocolo, recebido '483
+'
+Erro de Protocolo, recebido '484
+'
+Erro de Protocolo, recebido '485
+'
+Erro de Protocolo, recebido '486
+'
+Erro de Protocolo, recebido '487
+'
+Erro de Protocolo, recebido '487
+'
+Erro de Protocolo, recebido '489
+'
+Erro de Protocolo, recebido '488
+'
+Erro de Protocolo, recebido '489
+'
+Erro de Protocolo, recebido '490
+'
+Erro de Protocolo, recebido '491
+'
+Erro de Protocolo, recebido '492
+'
+Erro de Protocolo, recebido '493
+'
+Erro de Protocolo, recebido '493
+'
+Erro de Protocolo, recebido '494
+'
+Erro de Protocolo, recebido '494
+'
+Erro de Protocolo, recebido '495
+'
+Erro de Protocolo, recebido '495
+'
+Erro de Protocolo, recebido '496
+'
+Erro de Protocolo, recebido '496
+'
+Erro de Protocolo, recebido '497
+'
+Erro de Protocolo, recebido '497
+'
+Erro de Protocolo, recebido '499
+'
+Erro de Protocolo, recebido '498
+'
+Erro de Protocolo, recebido '500
+'
+Erro de Protocolo, recebido '438
+'
+Erro de Protocolo, recebido '36
+'
+Erro de Protocolo, recebido '37
+'
+Erro de Protocolo, recebido '40
+'
+Erro de Protocolo, recebido '42
+'
+Erro de Protocolo, recebido '42
+'
+Erro de Protocolo, recebido '43
+'
+Erro de Protocolo, recebido '457
+'
+Erro de Protocolo, recebido '44
+'
+Erro de Protocolo, recebido '458
+'
+Erro de Protocolo, recebido '459
+'
+Erro de Protocolo, recebido '458
+'
+Erro de Protocolo, recebido '466
+'
+Erro de Protocolo, recebido '467
+'
+Erro de Protocolo, recebido '44
+'
+Erro de Protocolo, recebido '468
+'
+Erro de Protocolo, recebido '43
+'
+Erro de Protocolo, recebido '45
+'
+Erro de Protocolo, recebido '475
+'
+Erro de Protocolo, recebido '475
+'
+Erro de Protocolo, recebido '48
+'
+Erro de Protocolo, recebido '476
+'
+Erro de Protocolo, recebido '46
+'
+Erro de Protocolo, recebido '49
+'
+Erro de Protocolo, recebido '50
+'
+Erro de Protocolo, recebido '50
+'
+Erro de Protocolo, recebido '51
+'
+Erro de Protocolo, recebido '52
+'
+Erro de Protocolo, recebido '53
+'
+Erro de Protocolo, recebido '483
+'
+Erro de Protocolo, recebido '487
+'
+Erro de Protocolo, recebido '53
+'
+Erro de Protocolo, recebido '486
+'
+Erro de Protocolo, recebido '54
+'
+Erro de Protocolo, recebido '488
+'
+Erro de Protocolo, recebido '489
+'
+Erro de Protocolo, recebido '490
+'
+Erro de Protocolo, recebido '65
+'
+Erro de Protocolo, recebido '493
+'
+Erro de Protocolo, recebido '66
+'
+Erro de Protocolo, recebido '494
+'
+Erro de Protocolo, recebido '495
+'
+Erro de Protocolo, recebido '495
+'
+Erro de Protocolo, recebido '496
+'
+Erro de Protocolo, recebido '497
+'
+Erro de Protocolo, recebido '497
+'
+Erro de Protocolo, recebido '498
+'
+Erro de Protocolo, recebido '499
+'
+Erro de Protocolo, recebido '66
+'
+Erro de Protocolo, recebido '499
+'
+Erro de Protocolo, recebido '500
+'
+Erro de Protocolo, recebido '67
+'
+Erro de Protocolo, recebido '67
+'
+Erro de Protocolo, recebido '68
+'
+Erro de Protocolo, recebido '69
+'
+Erro de Protocolo, recebido '69
+'
+Erro de Protocolo, recebido '70
+'
+Erro de Protocolo, recebido '71
+'
+Erro de Protocolo, recebido '72
+'
+Erro de Protocolo, recebido '73
+'
+Erro de Protocolo, recebido '74
+'
+Erro de Protocolo, recebido '73
+'
+Erro de Protocolo, recebido '74
+'
+Erro de Protocolo, recebido '76
+'
+Erro de Protocolo, recebido '77
+'
+Erro de Protocolo, recebido '84
+'
+Erro de Protocolo, recebido '88
+'
+Erro de Protocolo, recebido '89
+'
+Erro de Protocolo, recebido '89
+'
+Erro de Protocolo, recebido '90
+'
+Erro de Protocolo, recebido '91
+'
+Erro de Protocolo, recebido '92
+'
+Erro de Protocolo, recebido '91
+'
+Erro de Protocolo, recebido '92
+'
+Erro de Protocolo, recebido '34
+'
+Erro de Protocolo, recebido '93
+'
+Erro de Protocolo, recebido '94
+'
+Erro de Protocolo, recebido '37
+'
+Erro de Protocolo, recebido '263
+'
+Erro de Protocolo, recebido '264
+'
+Erro de Protocolo, recebido '38
+'
+Erro de Protocolo, recebido '38
+'
+Erro de Protocolo, recebido '93
+'
+Erro de Protocolo, recebido '39
+'
+Erro de Protocolo, recebido '99
+'
+Erro de Protocolo, recebido '100
+'
+Erro de Protocolo, recebido '39
+'
+Erro de Protocolo, recebido '269
+'
+Erro de Protocolo, recebido '270
+'
+Erro de Protocolo, recebido '104
+'
+Erro de Protocolo, recebido '41
+'
+Erro de Protocolo, recebido '105
+'
+Erro de Protocolo, recebido '42
+'
+Erro de Protocolo, recebido '109
+'
+Erro de Protocolo, recebido '109
+'
+Erro de Protocolo, recebido '110
+'
+Erro de Protocolo, recebido '110
+'
+Erro de Protocolo, recebido '111
+'
+Erro de Protocolo, recebido '118
+'
+Erro de Protocolo, recebido '118
+'
+Erro de Protocolo, recebido '119
+'
+Erro de Protocolo, recebido '120
+'
+Erro de Protocolo, recebido '121
+'
+Erro de Protocolo, recebido '122
+'
+Erro de Protocolo, recebido '123
+'
+Erro de Protocolo, recebido '124
+'
+Erro de Protocolo, recebido '124
+'
+Erro de Protocolo, recebido '125
+'
+Erro de Protocolo, recebido '126
+'
+Erro de Protocolo, recebido '126
+'
+Erro de Protocolo, recebido '127
+'
+Erro de Protocolo, recebido '128
+'
+Erro de Protocolo, recebido '127
+'
+Erro de Protocolo, recebido '132
+'
+Erro de Protocolo, recebido '133
+'
+Erro de Protocolo, recebido '134
+'
+Erro de Protocolo, recebido '135
+'
+Erro de Protocolo, recebido '136
+'
+Erro de Protocolo, recebido '136
+'
+Erro de Protocolo, recebido '137
+'
+Erro de Protocolo, recebido '137
+'
+Erro de Protocolo, recebido '139
+'
+Erro de Protocolo, recebido '138
+'
+Erro de Protocolo, recebido '139
+'
+Erro de Protocolo, recebido '140
+'
+Erro de Protocolo, recebido '141
+'
+Erro de Protocolo, recebido '144
+'
+Erro de Protocolo, recebido '145
+'
+Erro de Protocolo, recebido '146
+'
+Erro de Protocolo, recebido '147
+'
+Erro de Protocolo, recebido '150
+'
+Erro de Protocolo, recebido '148
+'
+Erro de Protocolo, recebido '152
+'
+Erro de Protocolo, recebido '154
+'
+Erro de Protocolo, recebido '155
+'
+Erro de Protocolo, recebido '156
+'
+Erro de Protocolo, recebido '156
+'
+Erro de Protocolo, recebido '157
+'
+Erro de Protocolo, recebido '157
+'
+Erro de Protocolo, recebido '159
+'
+Erro de Protocolo, recebido '158
+'
+Erro de Protocolo, recebido '160
+'
+Erro de Protocolo, recebido '161
+'
+Erro de Protocolo, recebido '161
+'
+Erro de Protocolo, recebido '159
+'
+Erro de Protocolo, recebido '162
+'
+Erro de Protocolo, recebido '163
+'
+Erro de Protocolo, recebido '172
+'
+Erro de Protocolo, recebido '171
+'
+Erro de Protocolo, recebido '172
+'
+Erro de Protocolo, recebido '173
+'
+Erro de Protocolo, recebido '319
+'
+Erro de Protocolo, recebido '441
+'
+Erro de Protocolo, recebido '320
+'
+Erro de Protocolo, recebido '364
+'
+Erro de Protocolo, recebido '174
+'
+Erro de Protocolo, recebido '447
+'
+Erro de Protocolo, recebido '175
+'
+Erro de Protocolo, recebido '176
+'
+Erro de Protocolo, recebido '175
+'
+Erro de Protocolo, recebido '177
+'
+Erro de Protocolo, recebido '178
+'
+Erro de Protocolo, recebido '179
+'
+Erro de Protocolo, recebido '181
+'
+Erro de Protocolo, recebido '182
+'
+Erro de Protocolo, recebido '183
+'
+Erro de Protocolo, recebido '185
+'
+Erro de Protocolo, recebido '186
+'
+Erro de Protocolo, recebido '186
+'
+Erro de Protocolo, recebido '187
+'
+Erro de Protocolo, recebido '189
+'
+Erro de Protocolo, recebido '384
+'
+Erro de Protocolo, recebido '190
+'
+Erro de Protocolo, recebido '385
+'
+Erro de Protocolo, recebido '191
+'
+Erro de Protocolo, recebido '467
+'
+Erro de Protocolo, recebido '468
+'
+Erro de Protocolo, recebido '194
+'
+Erro de Protocolo, recebido '195
+'
+Erro de Protocolo, recebido '194
+'
+Erro de Protocolo, recebido '196
+'
+Erro de Protocolo, recebido '197
+'
+Erro de Protocolo, recebido '489
+'
+Erro de Protocolo, recebido '197
+'
+Erro de Protocolo, recebido '490
+'
+Erro de Protocolo, recebido '198
+'
+Erro de Protocolo, recebido '199
+'
+Erro de Protocolo, recebido '200
+'
+Erro de Protocolo, recebido '201
+'
+Erro de Protocolo, recebido '202
+'
+Erro de Protocolo, recebido '206
+'
+Erro de Protocolo, recebido '244
+'
+Erro de Protocolo, recebido '246
+'
+Erro de Protocolo, recebido '247
+'
+Erro de Protocolo, recebido '248
+'
+Erro de Protocolo, recebido '248
+'
+Erro de Protocolo, recebido '249
+'
+Erro de Protocolo, recebido '250
+'
+Erro de Protocolo, recebido '251
+'
+Erro de Protocolo, recebido '252
+'
+Erro de Protocolo, recebido '253
+'
+Erro de Protocolo, recebido '257
+'
+Erro de Protocolo, recebido '256
+'
+Erro de Protocolo, recebido '259
+'
+Erro de Protocolo, recebido '263
+'
+Erro de Protocolo, recebido '258
+'
+Erro de Protocolo, recebido '264
+'
+Erro de Protocolo, recebido '266
+'
+Erro de Protocolo, recebido '267
+'
+Erro de Protocolo, recebido '268
+'
+Erro de Protocolo, recebido '283
+'
+Erro de Protocolo, recebido '284
+'
+Erro de Protocolo, recebido '290
+'
+Erro de Protocolo, recebido '291
+'
+Erro de Protocolo, recebido '309
+'
+Erro de Protocolo, recebido '310
+'
+Erro de Protocolo, recebido '311
+'
+Erro de Protocolo, recebido '318
+'
+Erro de Protocolo, recebido '319
+'
+Erro de Protocolo, recebido '320
+'
+Erro de Protocolo, recebido '331
+'
+Erro de Protocolo, recebido '334
+'
+Erro de Protocolo, recebido '334
+'
+Erro de Protocolo, recebido '335
+'
+Erro de Protocolo, recebido '338
+'
+Erro de Protocolo, recebido '339
+'
+Erro de Protocolo, recebido '340
+'
+Erro de Protocolo, recebido '363
+'
+Erro de Protocolo, recebido '363
+'
+Erro de Protocolo, recebido '364
+'
+Erro de Protocolo, recebido '373
+'
+Erro de Protocolo, recebido '372
+'
+Erro de Protocolo, recebido '374
+'
+Erro de Protocolo, recebido '379
+'
+Erro de Protocolo, recebido '390
+'
+Erro de Protocolo, recebido '391
+'
+Erro de Protocolo, recebido '395
+'
+Erro de Protocolo, recebido '396
+'
+Erro de Protocolo, recebido '397
+'
+Erro de Protocolo, recebido '397
+'
+Erro de Protocolo, recebido '398
+'
+Erro de Protocolo, recebido '399
+'
+Erro de Protocolo, recebido '399
+'
+Erro de Protocolo, recebido '400
+'
+Erro de Protocolo, recebido '401
+'
+Erro de Protocolo, recebido '405
+'
+Erro de Protocolo, recebido '406
+'
+Erro de Protocolo, recebido '406
+'
+Erro de Protocolo, recebido '407
+'
+Erro de Protocolo, recebido '408
+'
+Erro de Protocolo, recebido '408
+'
+Erro de Protocolo, recebido '409
+'
+Erro de Protocolo, recebido '288
+'
+Erro de Protocolo, recebido '290
+'
+Erro de Protocolo, recebido '303
+'
+Erro de Protocolo, recebido '304
+'
+Erro de Protocolo, recebido '290
+'
+Erro de Protocolo, recebido '291
+'
+Erro de Protocolo, recebido '25
+'
+Erro de Protocolo, recebido '26
+'
+Erro de Protocolo, recebido '145
+'
+Erro de Protocolo, recebido '147
+'
+Erro de Protocolo, recebido '146
+'
+Erro de Protocolo, recebido '148
+'
+Erro de Protocolo, recebido '149
+'
+Erro de Protocolo, recebido '321
+'
+Erro de Protocolo, recebido '322
+'
+Erro de Protocolo, recebido '148
+'
+Erro de Protocolo, recebido '323
+'
+Erro de Protocolo, recebido '324
+'
+Erro de Protocolo, recebido '325
+'
+Erro de Protocolo, recebido '325
+'
+Erro de Protocolo, recebido '326
+'
+Erro de Protocolo, recebido '327
+'
+Erro de Protocolo, recebido '333
+'
+Erro de Protocolo, recebido '335
+'
+Erro de Protocolo, recebido '334
+'
+Erro de Protocolo, recebido '338
+'
+Erro de Protocolo, recebido '338
+'
+Erro de Protocolo, recebido '339
+'
+Erro de Protocolo, recebido '352
+'
+Erro de Protocolo, recebido '352
+'
+Erro de Protocolo, recebido '353
+'
+Erro de Protocolo, recebido '354
+'
+Erro de Protocolo, recebido '354
+'
+Erro de Protocolo, recebido '355
+'
+Erro de Protocolo, recebido '357
+'
+Erro de Protocolo, recebido '358
+'
+Erro de Protocolo, recebido '359
+'
+Erro de Protocolo, recebido '359
+'
+Erro de Protocolo, recebido '361
+'
+Erro de Protocolo, recebido '362
+'
+Erro de Protocolo, recebido '363
+'
+Erro de Protocolo, recebido '364
+'
+Erro de Protocolo, recebido '364
+'
+Erro de Protocolo, recebido '365
+'
+Erro de Protocolo, recebido '368
+'
+Erro de Protocolo, recebido '369
+'
+Erro de Protocolo, recebido '368
+'
+Erro de Protocolo, recebido '373
+'
+Erro de Protocolo, recebido '373
+'
+Erro de Protocolo, recebido '374
+'
+Erro de Protocolo, recebido '381
+'
+Erro de Protocolo, recebido '382
+'
+Erro de Protocolo, recebido '392
+'
+Erro de Protocolo, recebido '393
+'
+Erro de Protocolo, recebido '397
+'
+Erro de Protocolo, recebido '398
+'
+Erro de Protocolo, recebido '400
+'
+Erro de Protocolo, recebido '399
+'
+Erro de Protocolo, recebido '401
+'
+Erro de Protocolo, recebido '403
+'
+Erro de Protocolo, recebido '402
+'
+Erro de Protocolo, recebido '409
+'
+Erro de Protocolo, recebido '410
+'
+Erro de Protocolo, recebido '409
+'
+Erro de Protocolo, recebido '415
+'
+Erro de Protocolo, recebido '416
+'
+Erro de Protocolo, recebido '425
+'
+Erro de Protocolo, recebido '426
+'
+Erro de Protocolo, recebido '427
+'
+Erro de Protocolo, recebido '430
+'
+Erro de Protocolo, recebido '431
+'
+Erro de Protocolo, recebido '469
+'
+Erro de Protocolo, recebido '470
+'
+Erro de Protocolo, recebido '471
+'
+Erro de Protocolo, recebido '472
+'
+Erro de Protocolo, recebido '495
+'
+Erro de Protocolo, recebido '495
+'
+Erro de Protocolo, recebido '496
+'
+Erro de Protocolo, recebido '496
+'
+Erro de Protocolo, recebido '497
+'
+Erro de Protocolo, recebido '14
+'
+Erro de Protocolo, recebido '189
+'
+Erro de Protocolo, recebido '15
+'
+Erro de Protocolo, recebido '190
+'
+Erro de Protocolo, recebido '17
+'
+Erro de Protocolo, recebido '18
+'
+Erro de Protocolo, recebido '189
+'
+Erro de Protocolo, recebido '21
+'
+Erro de Protocolo, recebido '22
+'
+Erro de Protocolo, recebido '23
+'
+Erro de Protocolo, recebido '24
+'
+Erro de Protocolo, recebido '29
+'
+Erro de Protocolo, recebido '30
+'
+Erro de Protocolo, recebido '271
+'
+Erro de Protocolo, recebido '273
+'
+Erro de Protocolo, recebido '274
+'
+Erro de Protocolo, recebido '275
+'
+Erro de Protocolo, recebido '276
+'
+Erro de Protocolo, recebido '277
+'
+Erro de Protocolo, recebido '277
+'
+Erro de Protocolo, recebido '386
+'
+Erro de Protocolo, recebido '388
+'
+Erro de Protocolo, recebido '389
+'
+Erro de Protocolo, recebido '303
+'
+Erro de Protocolo, recebido '461
+'
+Erro de Protocolo, recebido '462
+'
+Erro de Protocolo, recebido '409
+'
+Erro de Protocolo, recebido '410
+'
+Erro de Protocolo, recebido '485
+'
+Erro de Protocolo, recebido '486
+'
+Erro de Protocolo, recebido '320
+'
+Erro de Protocolo, recebido '321
+'
+Erro de Protocolo, recebido '326
+'
+Erro de Protocolo, recebido '327
+'
+Erro de Protocolo, recebido '328
+'
+Erro de Protocolo, recebido '427
+'
+Erro de Protocolo, recebido '428
+'
+Erro de Protocolo, recebido '36
+'
+Erro de Protocolo, recebido '37
+'
+Erro de Protocolo, recebido '44
+'
+Erro de Protocolo, recebido '461
+'
+Erro de Protocolo, recebido '462
+'
+Erro de Protocolo, recebido '463
+'
+Erro de Protocolo, recebido '462
+'
+Erro de Protocolo, recebido '466
+'
+Erro de Protocolo, recebido '467
+'
+Erro de Protocolo, recebido '494
+'
+Erro de Protocolo, recebido '495
+'
+Erro de Protocolo, recebido '498
+'
+Erro de Protocolo, recebido '499
+'
+Erro de Protocolo, recebido '216
+'
+Erro de Protocolo, recebido '217
+'
+Erro de Protocolo, recebido '221
+'
+Erro de Protocolo, recebido '220
+'
+Erro de Protocolo, recebido '47
+'
+Erro de Protocolo, recebido '48
+'
+Erro de Protocolo, recebido '46
+'
+Erro de Protocolo, recebido '47
+'
+Erro de Protocolo, recebido '206
+'
+Erro de Protocolo, recebido '207
+'
+Erro de Protocolo, recebido '208
+'
+Erro de Protocolo, recebido '54
+'
+Erro de Protocolo, recebido '209
+'
+Erro de Protocolo, recebido '215
+'
+Erro de Protocolo, recebido '55
+'
+Erro de Protocolo, recebido '56
+'
+Erro de Protocolo, recebido '57
+'
+Erro de Protocolo, recebido '58
+'
+Erro de Protocolo, recebido '62
+'
+Erro de Protocolo, recebido '216
+'
+Erro de Protocolo, recebido '217
+'
+Erro de Protocolo, recebido '62
+'
+Erro de Protocolo, recebido '225
+'
+Erro de Protocolo, recebido '64
+'
+Erro de Protocolo, recebido '63
+'
+Erro de Protocolo, recebido '65
+'
+Erro de Protocolo, recebido '64
+'
+Erro de Protocolo, recebido '227
+'
+Erro de Protocolo, recebido '65
+'
+Erro de Protocolo, recebido '66
+'
+Erro de Protocolo, recebido '226
+'
+Erro de Protocolo, recebido '232
+'
+Erro de Protocolo, recebido '233
+'
+Erro de Protocolo, recebido '231
+'
+Erro de Protocolo, recebido '239
+'
+Erro de Protocolo, recebido '75
+'
+Erro de Protocolo, recebido '76
+'
+Erro de Protocolo, recebido '80
+'
+Erro de Protocolo, recebido '81
+'
+Erro de Protocolo, recebido '252
+'
+Erro de Protocolo, recebido '253
+'
+Erro de Protocolo, recebido '87
+'
+Erro de Protocolo, recebido '88
+'
+Erro de Protocolo, recebido '104
+'
+Erro de Protocolo, recebido '103
+'
+Erro de Protocolo, recebido '106
+'
+Erro de Protocolo, recebido '107
+'
+Erro de Protocolo, recebido '108
+'
+Erro de Protocolo, recebido '285
+'
+Erro de Protocolo, recebido '110
+'
+Erro de Protocolo, recebido '110
+'
+Erro de Protocolo, recebido '111
+'
+Erro de Protocolo, recebido '292
+'
+Erro de Protocolo, recebido '293
+'
+Erro de Protocolo, recebido '314
+'
+Erro de Protocolo, recebido '315
+'
+Erro de Protocolo, recebido '315
+'
+Erro de Protocolo, recebido '316
+'
+Erro de Protocolo, recebido '340
+'
+Erro de Protocolo, recebido '340
+'
+Erro de Protocolo, recebido '341
+'
+Erro de Protocolo, recebido '446
+'
+Erro de Protocolo, recebido '447
+'
+Erro de Protocolo, recebido '461
+'
+Erro de Protocolo, recebido '462
+'
+Erro de Protocolo, recebido '224
+'
+Erro de Protocolo, recebido '225
+'
+Erro de Protocolo, recebido '226
+'
+Erro de Protocolo, recebido '228
+'
+Erro de Protocolo, recebido '480
+'
+Erro de Protocolo, recebido '480
+'
+Erro de Protocolo, recebido '481
+'
+Erro de Protocolo, recebido '236
+'
+Erro de Protocolo, recebido '481
+'
+Erro de Protocolo, recebido '237
+'
+Erro de Protocolo, recebido '482
+'
+Erro de Protocolo, recebido '248
+'
+Erro de Protocolo, recebido '249
+'
+Erro de Protocolo, recebido '251
+'
+Erro de Protocolo, recebido '252
+'
+Erro de Protocolo, recebido '253
+'
+Erro de Protocolo, recebido '254
+'
+Erro de Protocolo, recebido '255
+'
+Erro de Protocolo, recebido '256
+'
+Erro de Protocolo, recebido '257
+'
+Erro de Protocolo, recebido '258
+'
+Erro de Protocolo, recebido '260
+'
+Erro de Protocolo, recebido '259
+'
+Erro de Protocolo, recebido '261
+'
+Erro de Protocolo, recebido '262
+'
+Erro de Protocolo, recebido '264
+'
+Erro de Protocolo, recebido '266
+'
+Erro de Protocolo, recebido '266
+'
+Erro de Protocolo, recebido '267
+'
+Erro de Protocolo, recebido '268
+'
+Erro de Protocolo, recebido '269
+'
+Erro de Protocolo, recebido '290
+'
+Erro de Protocolo, recebido '291
+'
+Erro de Protocolo, recebido '292
+'
+Erro de Protocolo, recebido '292
+'
+Erro de Protocolo, recebido '294
+'
+Erro de Protocolo, recebido '295
+'
+Erro de Protocolo, recebido '295
+'
+Erro de Protocolo, recebido '297
+'
+Erro de Protocolo, recebido '296
+'
+Erro de Protocolo, recebido '298
+'
+Erro de Protocolo, recebido '299
+'
+Erro de Protocolo, recebido '300
+'
+Erro de Protocolo, recebido '302
+'
+Erro de Protocolo, recebido '303
+'
+Erro de Protocolo, recebido '301
+'
+Erro de Protocolo, recebido '305
+'
+Erro de Protocolo, recebido '305
+'
+Erro de Protocolo, recebido '306
+'
+Erro de Protocolo, recebido '306
+'
+Erro de Protocolo, recebido '307
+'
+Erro de Protocolo, recebido '308
+'
+Erro de Protocolo, recebido '309
+'
+Erro de Protocolo, recebido '310
+'
+Erro de Protocolo, recebido '311
+'
+Erro de Protocolo, recebido '311
+'
+Erro de Protocolo, recebido '312
+'
+Erro de Protocolo, recebido '313
+'
+Erro de Protocolo, recebido '313
+'
+Erro de Protocolo, recebido '315
+'
+Erro de Protocolo, recebido '315
+'
+Erro de Protocolo, recebido '316
+'
+Erro de Protocolo, recebido '317
+'
+Erro de Protocolo, recebido '318
+'
+Erro de Protocolo, recebido '318
+'
+Erro de Protocolo, recebido '319
+'
+Erro de Protocolo, recebido '320
+'
+Erro de Protocolo, recebido '321
+'
+Erro de Protocolo, recebido '323
+'
+Erro de Protocolo, recebido '324
+'
+Erro de Protocolo, recebido '325
+'
+Erro de Protocolo, recebido '326
+'
+Erro de Protocolo, recebido '326
+'
+Erro de Protocolo, recebido '324
+'
+Erro de Protocolo, recebido '328
+'
+Erro de Protocolo, recebido '328
+'
+Erro de Protocolo, recebido '329
+'
+Erro de Protocolo, recebido '329
+'
+Erro de Protocolo, recebido '330
+'
+Erro de Protocolo, recebido '331
+'
+Erro de Protocolo, recebido '332
+'
+Erro de Protocolo, recebido '333
+'
+Erro de Protocolo, recebido '334
+'
+Erro de Protocolo, recebido '335
+'
+Erro de Protocolo, recebido '335
+'
+Erro de Protocolo, recebido '334
+'
+Erro de Protocolo, recebido '336
+'
+Erro de Protocolo, recebido '337
+'
+Erro de Protocolo, recebido '338
+'
+Erro de Protocolo, recebido '338
+'
+Erro de Protocolo, recebido '339
+'
+Erro de Protocolo, recebido '339
+'
+Erro de Protocolo, recebido '341
+'
+Erro de Protocolo, recebido '342
+'
+Erro de Protocolo, recebido '343
+'
+Erro de Protocolo, recebido '342
+'
+Erro de Protocolo, recebido '344
+'
+Erro de Protocolo, recebido '345
+'
+Erro de Protocolo, recebido '346
+'
+Erro de Protocolo, recebido '346
+'
+Erro de Protocolo, recebido '347
+'
+Erro de Protocolo, recebido '347
+'
+Erro de Protocolo, recebido '348
+'
+Erro de Protocolo, recebido '349
+'
+Erro de Protocolo, recebido '349
+'
+Erro de Protocolo, recebido '351
+'
+Erro de Protocolo, recebido '350
+'
+Erro de Protocolo, recebido '352
+'
+Erro de Protocolo, recebido '351
+'
+Erro de Protocolo, recebido '353
+'
+Erro de Protocolo, recebido '352
+'
+Erro de Protocolo, recebido '353
+'
+Erro de Protocolo, recebido '355
+'
+Erro de Protocolo, recebido '50
+'
+Erro de Protocolo, recebido '357
+'
+Erro de Protocolo, recebido '281
+'
+Erro de Protocolo, recebido '280
+'
+Erro de Protocolo, recebido '369
+'
+Erro de Protocolo, recebido '370
+'
+Erro de Protocolo, recebido '356
+'
+Erro de Protocolo, recebido '445
+'
+Erro de Protocolo, recebido '446
+'
+Erro de Protocolo, recebido '446
+'
+Erro de Protocolo, recebido '447
+'
+Erro de Protocolo, recebido '458
+'
+Erro de Protocolo, recebido '460
+'
+Erro de Protocolo, recebido '461
+'
+Erro de Protocolo, recebido '462
+'
+Erro de Protocolo, recebido '464
+'
+Erro de Protocolo, recebido '465
+'
+Erro de Protocolo, recebido '466
+'
+Erro de Protocolo, recebido '469
+'
+Erro de Protocolo, recebido '470
+'
+Erro de Protocolo, recebido '469
+'
+Erro de Protocolo, recebido '473
+'
+Erro de Protocolo, recebido '473
+'
+Erro de Protocolo, recebido '474
+'
+Erro de Protocolo, recebido '475
+'
+Erro de Protocolo, recebido '475
+'
+Erro de Protocolo, recebido '476
+'
+Erro de Protocolo, recebido '477
+'
+Erro de Protocolo, recebido '479
+'
+Erro de Protocolo, recebido '478
+'
+Erro de Protocolo, recebido '480
+'
+Erro de Protocolo, recebido '480
+'
+Erro de Protocolo, recebido '482
+'
+Erro de Protocolo, recebido '481
+'
+Erro de Protocolo, recebido '484
+'
+Erro de Protocolo, recebido '485
+'
+Erro de Protocolo, recebido '484
+'
+Erro de Protocolo, recebido '485
+'
+Erro de Protocolo, recebido '487
+'
+Erro de Protocolo, recebido '486
+'
+Erro de Protocolo, recebido '489
+'
+Erro de Protocolo, recebido '490
+'
+Erro de Protocolo, recebido '491
+'
+Erro de Protocolo, recebido '492
+'
+Erro de Protocolo, recebido '493
+'
+Erro de Protocolo, recebido '494
+'
+Erro de Protocolo, recebido '495
+'
+Erro de Protocolo, recebido '352
+'
+Erro de Protocolo, recebido '352
+'
+Erro de Protocolo, recebido '353
+'
+Erro de Protocolo, recebido '287
+'
+Erro de Protocolo, recebido '50
+'
+Erro de Protocolo, recebido '297
+'
+Erro de Protocolo, recebido '51
+'
+Erro de Protocolo, recebido '298
+'
+Erro de Protocolo, recebido '52
+'
+Erro de Protocolo, recebido '302
+'
+Erro de Protocolo, recebido '54
+'
+Erro de Protocolo, recebido '58
+'
+Erro de Protocolo, recebido '303
+'
+Erro de Protocolo, recebido '59
+'
+Erro de Protocolo, recebido '304
+'
+Erro de Protocolo, recebido '59
+'
+Erro de Protocolo, recebido '309
+'
+Erro de Protocolo, recebido '60
+'
+Erro de Protocolo, recebido '61
+'
+Erro de Protocolo, recebido '312
+'
+Erro de Protocolo, recebido '313
+'
+Erro de Protocolo, recebido '319
+'
+Erro de Protocolo, recebido '321
+'
+Erro de Protocolo, recebido '322
+'
+Erro de Protocolo, recebido '67
+'
+Erro de Protocolo, recebido '325
+'
+Erro de Protocolo, recebido '324
+'
+Erro de Protocolo, recebido '326
+'
+Erro de Protocolo, recebido '68
+'
+Erro de Protocolo, recebido '68
+'
+Erro de Protocolo, recebido '69
+'
+Erro de Protocolo, recebido '73
+'
+Erro de Protocolo, recebido '73
+'
+Erro de Protocolo, recebido '74
+'
+Erro de Protocolo, recebido '74
+'
+Erro de Protocolo, recebido '75
+'
+Erro de Protocolo, recebido '66
+'
+Erro de Protocolo, recebido '75
+'
+Erro de Protocolo, recebido '73
+'
+Erro de Protocolo, recebido '74
+'
+Erro de Protocolo, recebido '77
+'
+Erro de Protocolo, recebido '76
+'
+Erro de Protocolo, recebido '99
+'
+Erro de Protocolo, recebido '100
+'
+Erro de Protocolo, recebido '350
+'
+Erro de Protocolo, recebido '351
+'
+Erro de Protocolo, recebido '356
+'
+Erro de Protocolo, recebido '357
+'
+Erro de Protocolo, recebido '156
+'
+Erro de Protocolo, recebido '157
+'
+Erro de Protocolo, recebido '158
+'
+Erro de Protocolo, recebido '159
+'
+Erro de Protocolo, recebido '161
+'
+Erro de Protocolo, recebido '162
+'
+Erro de Protocolo, recebido '163
+'
+Erro de Protocolo, recebido '189
+'
+Erro de Protocolo, recebido '189
+'
+Erro de Protocolo, recebido '190
+'
+Erro de Protocolo, recebido '195
+'
+Erro de Protocolo, recebido '196
+'
+Erro de Protocolo, recebido '195
+'
+Erro de Protocolo, recebido '196
+'
+Erro de Protocolo, recebido '197
+'
+Erro de Protocolo, recebido '198
+'
+Erro de Protocolo, recebido '202
+'
+Erro de Protocolo, recebido '203
+'
+Erro de Protocolo, recebido '202
+'
+Erro de Protocolo, recebido '205
+'
+Erro de Protocolo, recebido '209
+'
+Erro de Protocolo, recebido '210
+'
+Erro de Protocolo, recebido '222
+'
+Erro de Protocolo, recebido '223
+'
+Erro de Protocolo, recebido '222
+'
+Erro de Protocolo, recebido '224
+'
+Erro de Protocolo, recebido '224
+'
+Erro de Protocolo, recebido '225
+'
+Erro de Protocolo, recebido '229
+'
+Erro de Protocolo, recebido '231
+'
+Erro de Protocolo, recebido '232
+'
+Erro de Protocolo, recebido '233
+'
+Erro de Protocolo, recebido '233
+'
+Erro de Protocolo, recebido '234
+'
+Erro de Protocolo, recebido '234
+'
+Erro de Protocolo, recebido '248
+'
+Erro de Protocolo, recebido '249
+'
+Erro de Protocolo, recebido '250
+'
+Erro de Protocolo, recebido '250
+'
+Erro de Protocolo, recebido '251
+'
+Erro de Protocolo, recebido '252
+'
+Erro de Protocolo, recebido '253
+'
+Erro de Protocolo, recebido '254
+'
+Erro de Protocolo, recebido '258
+'
+Erro de Protocolo, recebido '260
+'
+Erro de Protocolo, recebido '261
+'
+Erro de Protocolo, recebido '261
+'
+Erro de Protocolo, recebido '262
+'
+Erro de Protocolo, recebido '263
+'
+Erro de Protocolo, recebido '275
+'
+Erro de Protocolo, recebido '276
+'
+Erro de Protocolo, recebido '278
+'
+Erro de Protocolo, recebido '279
+'
+Erro de Protocolo, recebido '280
+'
+Erro de Protocolo, recebido '286
+'
+Erro de Protocolo, recebido '287
+'
+Erro de Protocolo, recebido '288
+'
+Erro de Protocolo, recebido '288
+'
+Erro de Protocolo, recebido '289
+'
+Erro de Protocolo, recebido '291
+'
+Erro de Protocolo, recebido '291
+'
+Erro de Protocolo, recebido '292
+'
+Erro de Protocolo, recebido '304
+'
+Erro de Protocolo, recebido '305
+'
+Erro de Protocolo, recebido '304
+'
+Erro de Protocolo, recebido '306
+'
+Erro de Protocolo, recebido '307
+'
+Erro de Protocolo, recebido '308
+'
+Erro de Protocolo, recebido '309
+'
+Erro de Protocolo, recebido '309
+'
+Erro de Protocolo, recebido '310
+'
+Erro de Protocolo, recebido '311
+'
+Erro de Protocolo, recebido '312
+'
+Erro de Protocolo, recebido '313
+'
+Erro de Protocolo, recebido '314
+'
+Erro de Protocolo, recebido '314
+'
+Erro de Protocolo, recebido '315
+'
+Erro de Protocolo, recebido '316
+'
+Erro de Protocolo, recebido '320
+'
+Erro de Protocolo, recebido '320
+'
+Erro de Protocolo, recebido '321
+'
+Erro de Protocolo, recebido '325
+'
+Erro de Protocolo, recebido '326
+'
+Erro de Protocolo, recebido '327
+'
+Erro de Protocolo, recebido '345
+'
+Erro de Protocolo, recebido '346
+'
+Erro de Protocolo, recebido '347
+'
+Erro de Protocolo, recebido '365
+'
+Erro de Protocolo, recebido '366
+'
+Erro de Protocolo, recebido '367
+'
+Erro de Protocolo, recebido '366
+'
+Erro de Protocolo, recebido '371
+'
+Erro de Protocolo, recebido '372
+'
+Erro de Protocolo, recebido '371
+'
+Erro de Protocolo, recebido '376
+'
+Erro de Protocolo, recebido '377
+'
+Erro de Protocolo, recebido '378
+'
+Erro de Protocolo, recebido '379
+'
+Erro de Protocolo, recebido '380
+'
+Erro de Protocolo, recebido '381
+'
+Erro de Protocolo, recebido '382
+'
+Erro de Protocolo, recebido '411
+'
+Erro de Protocolo, recebido '412
+'
+Erro de Protocolo, recebido '420
+'
+Erro de Protocolo, recebido '421
+'
+Erro de Protocolo, recebido '425
+'
+Erro de Protocolo, recebido '426
+'
+Erro de Protocolo, recebido '432
+'
+Erro de Protocolo, recebido '433
+'
+Erro de Protocolo, recebido '434
+'
+Erro de Protocolo, recebido '433
+'
+Erro de Protocolo, recebido '438
+'
+Erro de Protocolo, recebido '473
+'
+Erro de Protocolo, recebido '474
+'
+Erro de Protocolo, recebido '474
+'
+Erro de Protocolo, recebido '475
+'
+Erro de Protocolo, recebido '476
+'
+Erro de Protocolo, recebido '478
+'
+Erro de Protocolo, recebido '480
+'
+Erro de Protocolo, recebido '479
+'
+Erro de Protocolo, recebido '480
+'
+Erro de Protocolo, recebido '481
+'
+Erro de Protocolo, recebido '482
+'
+Erro de Protocolo, recebido '484
+'
+Erro de Protocolo, recebido '485
+'
+Erro de Protocolo, recebido '486
+'
+Erro de Protocolo, recebido '487
+'
+Erro de Protocolo, recebido '487
+'
+Erro de Protocolo, recebido '488
+'
+Erro de Protocolo, recebido '497
+'
+Erro de Protocolo, recebido '498
+'
+Erro de Protocolo, recebido '499
+'
+Erro de Protocolo, recebido '332
+'
+Erro de Protocolo, recebido '332
+'
+Erro de Protocolo, recebido '333
+'
+Erro de Protocolo, recebido '346
+'
+Erro de Protocolo, recebido '347
+'
+Erro de Protocolo, recebido '348
+'
+Erro de Protocolo, recebido '348
+'
+Erro de Protocolo, recebido '349
+'
+Erro de Protocolo, recebido '353
+'
+Erro de Protocolo, recebido '358
+'
+Erro de Protocolo, recebido '106
+'
+Erro de Protocolo, recebido '116
+'
+Erro de Protocolo, recebido '117
+'
+Erro de Protocolo, recebido '121
+'
+Erro de Protocolo, recebido '121
+'
+Erro de Protocolo, recebido '122
+'
+Erro de Protocolo, recebido '130
+'
+Erro de Protocolo, recebido '132
+'
+Erro de Protocolo, recebido '132
+'
+Erro de Protocolo, recebido '133
+'
+Erro de Protocolo, recebido '136
+'
+Erro de Protocolo, recebido '137
+'
+Erro de Protocolo, recebido '138
+'
+Erro de Protocolo, recebido '145
+'
+Erro de Protocolo, recebido '367
+'
+Erro de Protocolo, recebido '368
+'
+Erro de Protocolo, recebido '379
+'
+Erro de Protocolo, recebido '380
+'
+Erro de Protocolo, recebido '393
+'
+Erro de Protocolo, recebido '394
+'
+Erro de Protocolo, recebido '362
+'
+Erro de Protocolo, recebido '363
+'
+Erro de Protocolo, recebido '364
+'
+Erro de Protocolo, recebido '366
+'
+Erro de Protocolo, recebido '367
+'
+Erro de Protocolo, recebido '366
+'
+Erro de Protocolo, recebido '369
+'
+Erro de Protocolo, recebido '370
+'
+Erro de Protocolo, recebido '370
+'
+Erro de Protocolo, recebido '371
+'
+Erro de Protocolo, recebido '373
+'
+Erro de Protocolo, recebido '375
+'
+Erro de Protocolo, recebido '376
+'
+Erro de Protocolo, recebido '379
+'
+Erro de Protocolo, recebido '380
+'
+Erro de Protocolo, recebido '381
+'
+Erro de Protocolo, recebido '368
+'
+Erro de Protocolo, recebido '369
+'
+Erro de Protocolo, recebido '158
+'
+Erro de Protocolo, recebido '159
+'
+Erro de Protocolo, recebido '162
+'
+Erro de Protocolo, recebido '163
+'
+Erro de Protocolo, recebido '164
+'
+Erro de Protocolo, recebido '164
+'
+Erro de Protocolo, recebido '165
+'
+Erro de Protocolo, recebido '166
+'
+Erro de Protocolo, recebido '167
+'
+Erro de Protocolo, recebido '167
+'
+Erro de Protocolo, recebido '168
+'
+Erro de Protocolo, recebido '176
+'
+Erro de Protocolo, recebido '176
+'
+Erro de Protocolo, recebido '177
+'
+Erro de Protocolo, recebido '181
+'
+Erro de Protocolo, recebido '182
+'
+Erro de Protocolo, recebido '183
+'
+Erro de Protocolo, recebido '183
+'
+Erro de Protocolo, recebido '184
+'
+Erro de Protocolo, recebido '185
+'
+Erro de Protocolo, recebido '185
+'
+Erro de Protocolo, recebido '186
+'
+Erro de Protocolo, recebido '187
+'
+Erro de Protocolo, recebido '188
+'
+Erro de Protocolo, recebido '188
+'
+Erro de Protocolo, recebido '190
+'
+Erro de Protocolo, recebido '189
+'
+Erro de Protocolo, recebido '193
+'
+Erro de Protocolo, recebido '194
+'
+Erro de Protocolo, recebido '397
+'
+Erro de Protocolo, recebido '398
+'
+Erro de Protocolo, recebido '198
+'
+Erro de Protocolo, recebido '197
+'
+Erro de Protocolo, recebido '200
+'
+Erro de Protocolo, recebido '411
+'
+Erro de Protocolo, recebido '412
+'
+Erro de Protocolo, recebido '202
+'
+Erro de Protocolo, recebido '203
+'
+Erro de Protocolo, recebido '206
+'
+Erro de Protocolo, recebido '207
+'
+Erro de Protocolo, recebido '208
+'
+Erro de Protocolo, recebido '207
+'
+Erro de Protocolo, recebido '212
+'
+Erro de Protocolo, recebido '212
+'
+Erro de Protocolo, recebido '213
+'
+Erro de Protocolo, recebido '217
+'
+Erro de Protocolo, recebido '217
+'
+Erro de Protocolo, recebido '219
+'
+Erro de Protocolo, recebido '219
+'
+Erro de Protocolo, recebido '220
+'
+Erro de Protocolo, recebido '220
+'
+Erro de Protocolo, recebido '221
+'
+Erro de Protocolo, recebido '222
+'
+Erro de Protocolo, recebido '223
+'
+Erro de Protocolo, recebido '224
+'
+Erro de Protocolo, recebido '223
+'
+Erro de Protocolo, recebido '226
+'
+Erro de Protocolo, recebido '227
+'
+Erro de Protocolo, recebido '228
+'
+Erro de Protocolo, recebido '235
+'
+Erro de Protocolo, recebido '235
+'
+Erro de Protocolo, recebido '236
+'
+Erro de Protocolo, recebido '242
+'
+Erro de Protocolo, recebido '243
+'
+Erro de Protocolo, recebido '244
+'
+Erro de Protocolo, recebido '248
+'
+Erro de Protocolo, recebido '247
+'
+Erro de Protocolo, recebido '248
+'
+Erro de Protocolo, recebido '249
+'
+Erro de Protocolo, recebido '252
+'
+Erro de Protocolo, recebido '253
+'
+Erro de Protocolo, recebido '252
+'
+Erro de Protocolo, recebido '259
+'
+Erro de Protocolo, recebido '260
+'
+Erro de Protocolo, recebido '261
+'
+Erro de Protocolo, recebido '267
+'
+Erro de Protocolo, recebido '270
+'
+Erro de Protocolo, recebido '271
+'
+Erro de Protocolo, recebido '271
+'
+Erro de Protocolo, recebido '272
+'
+Erro de Protocolo, recebido '273
+'
+Erro de Protocolo, recebido '276
+'
+Erro de Protocolo, recebido '278
+'
+Erro de Protocolo, recebido '280
+'
+Erro de Protocolo, recebido '279
+'
+Erro de Protocolo, recebido '286
+'
+Erro de Protocolo, recebido '285
+'
+Erro de Protocolo, recebido '285
+'
+Erro de Protocolo, recebido '287
+'
+Erro de Protocolo, recebido '287
+'
+Erro de Protocolo, recebido '288
+'
+Erro de Protocolo, recebido '290
+'
+Erro de Protocolo, recebido '291
+'
+Erro de Protocolo, recebido '290
+'
+Erro de Protocolo, recebido '291
+'
+Erro de Protocolo, recebido '292
+'
+Erro de Protocolo, recebido '304
+'
+Erro de Protocolo, recebido '303
+'
+Erro de Protocolo, recebido '305
+'
+Erro de Protocolo, recebido '304
+'
+Erro de Protocolo, recebido '306
+'
+Erro de Protocolo, recebido '308
+'
+Erro de Protocolo, recebido '310
+'
+Erro de Protocolo, recebido '309
+'
+Erro de Protocolo, recebido '312
+'
+Erro de Protocolo, recebido '313
+'
+Erro de Protocolo, recebido '314
+'
+Erro de Protocolo, recebido '315
+'
+Erro de Protocolo, recebido '317
+'
+Erro de Protocolo, recebido '317
+'
+Erro de Protocolo, recebido '318
+'
+Erro de Protocolo, recebido '320
+'
+Erro de Protocolo, recebido '321
+'
+Erro de Protocolo, recebido '322
+'
+Erro de Protocolo, recebido '322
+'
+Erro de Protocolo, recebido '323
+'
+Erro de Protocolo, recebido '325
+'
+Erro de Protocolo, recebido '324
+'
+Erro de Protocolo, recebido '327
+'
+Erro de Protocolo, recebido '327
+'
+Erro de Protocolo, recebido '328
+'
+Erro de Protocolo, recebido '330
+'
+Erro de Protocolo, recebido '331
+'
+Erro de Protocolo, recebido '332
+'
+Erro de Protocolo, recebido '335
+'
+Erro de Protocolo, recebido '336
+'
+Erro de Protocolo, recebido '338
+'
+Erro de Protocolo, recebido '338
+'
+Erro de Protocolo, recebido '339
+'
+Erro de Protocolo, recebido '340
+'
+Erro de Protocolo, recebido '340
+'
+Erro de Protocolo, recebido '341
+'
+Erro de Protocolo, recebido '342
+'
+Erro de Protocolo, recebido '341
+'
+Erro de Protocolo, recebido '344
+'
+Erro de Protocolo, recebido '345
+'
+Erro de Protocolo, recebido '346
+'
+Erro de Protocolo, recebido '347
+'
+Erro de Protocolo, recebido '348
+'
+Erro de Protocolo, recebido '349
+'
+Erro de Protocolo, recebido '349
+'
+Erro de Protocolo, recebido '351
+'
+Erro de Protocolo, recebido '350
+'
+Erro de Protocolo, recebido '352
+'
+Erro de Protocolo, recebido '352
+'
+Erro de Protocolo, recebido '353
+'
+Erro de Protocolo, recebido '354
+'
+Erro de Protocolo, recebido '353
+'
+Erro de Protocolo, recebido '355
+'
+Erro de Protocolo, recebido '354
+'
+Erro de Protocolo, recebido '356
+'
+Erro de Protocolo, recebido '357
+'
+Erro de Protocolo, recebido '356
+'
+Erro de Protocolo, recebido '359
+'
+Erro de Protocolo, recebido '360
+'
+Erro de Protocolo, recebido '361
+'
+Erro de Protocolo, recebido '362
+'
+Erro de Protocolo, recebido '362
+'
+Erro de Protocolo, recebido '363
+'
+Erro de Protocolo, recebido '364
+'
+Erro de Protocolo, recebido '366
+'
+Erro de Protocolo, recebido '365
+'
+Erro de Protocolo, recebido '369
+'
+Erro de Protocolo, recebido '370
+'
+Erro de Protocolo, recebido '370
+'
+Erro de Protocolo, recebido '371
+'
+Erro de Protocolo, recebido '371
+'
+Erro de Protocolo, recebido '372
+'
+Erro de Protocolo, recebido '374
+'
+Erro de Protocolo, recebido '374
+'
+Erro de Protocolo, recebido '375
+'
+Erro de Protocolo, recebido '376
+'
+Erro de Protocolo, recebido '376
+'
+Erro de Protocolo, recebido '377
+'
+Erro de Protocolo, recebido '378
+'
+Erro de Protocolo, recebido '380
+'
+Erro de Protocolo, recebido '381
+'
+Erro de Protocolo, recebido '382
+'
+Erro de Protocolo, recebido '383
+'
+Erro de Protocolo, recebido '385
+'
+Erro de Protocolo, recebido '384
+'
+Erro de Protocolo, recebido '386
+'
+Erro de Protocolo, recebido '387
+'
+Erro de Protocolo, recebido '388
+'
+Erro de Protocolo, recebido '389
+'
+Erro de Protocolo, recebido '389
+'
+Erro de Protocolo, recebido '390
+'
+Erro de Protocolo, recebido '391
+'
+Erro de Protocolo, recebido '393
+'
+Erro de Protocolo, recebido '395
+'
+Erro de Protocolo, recebido '397
+'
+Erro de Protocolo, recebido '397
+'
+Erro de Protocolo, recebido '398
+'
+Erro de Protocolo, recebido '399
+'
+Erro de Protocolo, recebido '400
+'
+Erro de Protocolo, recebido '400
+'
+Erro de Protocolo, recebido '401
+'
+Erro de Protocolo, recebido '401
+'
+Erro de Protocolo, recebido '402
+'
+Erro de Protocolo, recebido '402
+'
+Erro de Protocolo, recebido '403
+'
+Erro de Protocolo, recebido '406
+'
+Erro de Protocolo, recebido '405
+'
+Erro de Protocolo, recebido '407
+'
+Erro de Protocolo, recebido '406
+'
+Erro de Protocolo, recebido '407
+'
+Erro de Protocolo, recebido '408
+'
+Erro de Protocolo, recebido '409
+'
+Erro de Protocolo, recebido '412
+'
+Erro de Protocolo, recebido '413
+'
+Erro de Protocolo, recebido '414
+'
+Erro de Protocolo, recebido '416
+'
+Erro de Protocolo, recebido '416
+'
+Erro de Protocolo, recebido '417
+'
+Erro de Protocolo, recebido '418
+'
+Erro de Protocolo, recebido '419
+'
+Erro de Protocolo, recebido '419
+'
+Erro de Protocolo, recebido '420
+'
+Erro de Protocolo, recebido '421
+'
+Erro de Protocolo, recebido '422
+'
+Erro de Protocolo, recebido '421
+'
+Erro de Protocolo, recebido '423
+'
+Erro de Protocolo, recebido '423
+'
+Erro de Protocolo, recebido '424
+'
+Erro de Protocolo, recebido '424
+'
+Erro de Protocolo, recebido '425
+'
+Erro de Protocolo, recebido '426
+'
+Erro de Protocolo, recebido '427
+'
+Erro de Protocolo, recebido '427
+'
+Erro de Protocolo, recebido '428
+'
+Erro de Protocolo, recebido '429
+'
+Erro de Protocolo, recebido '430
+'
+Erro de Protocolo, recebido '431
+'
+Erro de Protocolo, recebido '433
+'
+Erro de Protocolo, recebido '432
+'
+Erro de Protocolo, recebido '431
+'
+Erro de Protocolo, recebido '435
+'
+Erro de Protocolo, recebido '435
+'
+Erro de Protocolo, recebido '436
+'
+Erro de Protocolo, recebido '437
+'
+Erro de Protocolo, recebido '438
+'
+Erro de Protocolo, recebido '439
+'
+Erro de Protocolo, recebido '439
+'
+Erro de Protocolo, recebido '440
+'
+Erro de Protocolo, recebido '441
+'
+Erro de Protocolo, recebido '441
+'
+Erro de Protocolo, recebido '442
+'
+Erro de Protocolo, recebido '443
+'
+Erro de Protocolo, recebido '445
+'
+Erro de Protocolo, recebido '444
+'
+Erro de Protocolo, recebido '443
+'
+Erro de Protocolo, recebido '450
+'
+Erro de Protocolo, recebido '452
+'
+Erro de Protocolo, recebido '452
+'
+Erro de Protocolo, recebido '459
+'
+Erro de Protocolo, recebido '460
+'
+Erro de Protocolo, recebido '461
+'
+Erro de Protocolo, recebido '462
+'
+Erro de Protocolo, recebido '464
+'
+Erro de Protocolo, recebido '465
+'
+Erro de Protocolo, recebido '379
+'
+Erro de Protocolo, recebido '470
+'
+Erro de Protocolo, recebido '471
+'
+Erro de Protocolo, recebido '472
+'
+Erro de Protocolo, recebido '473
+'
+Erro de Protocolo, recebido '473
+'
+Erro de Protocolo, recebido '474
+'
+Erro de Protocolo, recebido '487
+'
+Erro de Protocolo, recebido '488
+'
+Erro de Protocolo, recebido '488
+'
+Erro de Protocolo, recebido '490
+'
+Erro de Protocolo, recebido '399
+'
+Erro de Protocolo, recebido '400
+'
+Erro de Protocolo, recebido '492
+'
+Erro de Protocolo, recebido '492
+'
+Erro de Protocolo, recebido '493
+'
+Erro de Protocolo, recebido '400
+'
+Erro de Protocolo, recebido '400
+'
+Erro de Protocolo, recebido '401
+'
+Erro de Protocolo, recebido '419
+'
+Erro de Protocolo, recebido '420
+'
+Erro de Protocolo, recebido '421
+'
+Erro de Protocolo, recebido '422
+'
+Erro de Protocolo, recebido '418
+'
+Erro de Protocolo, recebido '419
+'
+Erro de Protocolo, recebido '434
+'
+Erro de Protocolo, recebido '435
+'
+Erro de Protocolo, recebido '431
+'
+Erro de Protocolo, recebido '434
+'
+Erro de Protocolo, recebido '434
+'
+Erro de Protocolo, recebido '435
+'
+Erro de Protocolo, recebido '438
+'
+Erro de Protocolo, recebido '439
+'
+Erro de Protocolo, recebido '440
+'
+Erro de Protocolo, recebido '442
+'
+Erro de Protocolo, recebido '444
+'
+Erro de Protocolo, recebido '443
+'
+Erro de Protocolo, recebido '447
+'
+Erro de Protocolo, recebido '448
+'
+Erro de Protocolo, recebido '447
+'
+Erro de Protocolo, recebido '453
+'
+Erro de Protocolo, recebido '454
+'
+Erro de Protocolo, recebido '454
+'
+Erro de Protocolo, recebido '455
+'
+Erro de Protocolo, recebido '456
+'
+Erro de Protocolo, recebido '457
+'
+Erro de Protocolo, recebido '456
+'
+Erro de Protocolo, recebido '460
+'
+Erro de Protocolo, recebido '461
+'
+Erro de Protocolo, recebido '462
+'
+Erro de Protocolo, recebido '462
+'
+Erro de Protocolo, recebido '463
+'
+Erro de Protocolo, recebido '463
+'
+Erro de Protocolo, recebido '464
+'
+Erro de Protocolo, recebido '470
+'
+Erro de Protocolo, recebido '470
+'
+Erro de Protocolo, recebido '471
+'
+Erro de Protocolo, recebido '471
+'
+Erro de Protocolo, recebido '472
+'
+Erro de Protocolo, recebido '473
+'
+Erro de Protocolo, recebido '473
+'
+Erro de Protocolo, recebido '474
+'
+Erro de Protocolo, recebido '474
+'
+Erro de Protocolo, recebido '475
+'
+Erro de Protocolo, recebido '475
+'
+Erro de Protocolo, recebido '476
+'
+Erro de Protocolo, recebido '480
+'
+Erro de Protocolo, recebido '481
+'
+Erro de Protocolo, recebido '488
+'
+Erro de Protocolo, recebido '488
+'
+Erro de Protocolo, recebido '489
+'
+Erro de Protocolo, recebido '489
+'
+Erro de Protocolo, recebido '490
+'
+Erro de Protocolo, recebido '491
+'
+Erro de Protocolo, recebido '493
+'
+Erro de Protocolo, recebido '494
+'
+Erro de Protocolo, recebido '495
+'
+Erro de Protocolo, recebido '496
+'
+Erro de Protocolo, recebido '497
+'
+Erro de Protocolo, recebido '498
+'
+Erro de Protocolo, recebido '455
+'
+Erro de Protocolo, recebido '458
+'
+Erro de Protocolo, recebido '459
+'
+Erro de Protocolo, recebido '460
+'
+Erro de Protocolo, recebido '461
+'
+Erro de Protocolo, recebido '462
+'
+Erro de Protocolo, recebido '470
+'
+Erro de Protocolo, recebido '471
+'
+Erro de Protocolo, recebido '472
+'
+Erro de Protocolo, recebido '472
+'
+Erro de Protocolo, recebido '473
+'
+Erro de Protocolo, recebido '474
+'
+Erro de Protocolo, recebido '475
+'
+Erro de Protocolo, recebido '476
+'
+Erro de Protocolo, recebido '477
+'
+Erro de Protocolo, recebido '477
+'
+Erro de Protocolo, recebido '478
+'
+Erro de Protocolo, recebido '483
+'
+Erro de Protocolo, recebido '484
+'
+Erro de Protocolo, recebido '485
+'
+Erro de Protocolo, recebido '485
+'
+Erro de Protocolo, recebido '486
+'
+Erro de Protocolo, recebido '487
+'
+Erro de Protocolo, recebido '487
+'
+Erro de Protocolo, recebido '488
+'
+Erro de Protocolo, recebido '493
+'
+Erro de Protocolo, recebido '494
+'
+Erro de Protocolo, recebido '495
+'
+Erro de Protocolo, recebido '499
+'
+Fechando a conexão com 17 alteracoes pela thread
+Fechado Socket: 45
+Não enviado:
+Socket fechado
+Fechando a conexão com 99 alteracoes pela thread
+Fechado Socket: 45
+Não enviado:
+Socket fechado
+Fechando a conexão com 150 alteracoes pela thread
+Fechado Socket: 45
+Não enviado:
+Socket fechado
+Fechando a conexão com 174 alteracoes pela thread
+Fechado Socket: 45
+Fechando a conexão com 13 alteracoes pela thread
+Fechado Socket: 56
+Não enviado:
+Socket fechado
+Fechando a conexão com 94 alteracoes pela thread
+Fechado Socket: 56
+Não enviado:
+Socket fechado
+Fechando a conexão com 108 alteracoes pela thread
+Fechado Socket: 56
+Não enviado:
+Não enviado:
+Não enviado:
+Socket fechado
+Fechando a conexão com 53 alteracoes pela thread
+Fechado Socket: 56
+Não enviado:
+Socket fechado
+Fechando a conexão com 21 alteracoes pela thread
+Socket fechado
+Fechado Socket: 56
+Fechando a conexão com 83 alteracoes pela thread
+Fechado Socket: 56
+Socket fechado
+Fechando a conexão com 82 alteracoes pela thread
+Fechado Socket: 56
+Fechando a conexão com 59 alteracoes pela thread
+Fechado Socket: 18
+Não enviado:
+Socket fechado
+Fechando a conexão com 126 alteracoes pela thread
+Fechado Socket: 18
+Socket fechado
+Não enviado:
+Socket fechado
+Fechando a conexão com 50 alteracoes pela thread
+Fechado Socket: 18
+Socket fechado
+Fechando a conexão com 96 alteracoes pela thread
+Fechado Socket: 18
+Fechando a conexão com 63 alteracoes pela thread
+Fechado Socket: 18
+Fechando a conexão com 87 alteracoes pela thread
+Fechado Socket: 87
+Não enviado:
+Socket fechado
+Fechando a conexão com 80 alteracoes pela thread
+Fechado Socket: 87
+Não enviado:
+Socket fechado
+Fechando a conexão com 120 alteracoes pela thread
+Fechado Socket: 87
+Não enviado:
+Socket fechado
+Fechando a conexão com 79 alteracoes pela thread
+Fechado Socket: 87
+Fechando a conexão com 165 alteracoes pela thread
+Fechado Socket: 30
+Não enviado:
+Socket fechado
+Fechando a conexão com 251 alteracoes pela thread
+Fechado Socket: 30
+Fechando a conexão com 164 alteracoes pela thread
+Fechado Socket: 101
+Não enviado:
+Socket fechado
+Fechando a conexão com 175 alteracoes pela thread
+Fechado Socket: 101
+Socket fechado
+Fechando a conexão com 44 alteracoes pela thread
+Fechado Socket: 101
+Fechando a conexão com 220 alteracoes pela thread
+Fechado Socket: 33
+Socket fechado
+Fechando a conexão com 239 alteracoes pela thread
+Fechado Socket: 33
+Fechando a conexão com 216 alteracoes pela thread
+Fechado Socket: 9
+Não enviado:
+Socket fechado
+Fechando a conexão com 254 alteracoes pela thread
+Fechado Socket: 9
+Fechando a conexão com 226 alteracoes pela thread
+Fechado Socket: 94
+Não enviado:
+Socket fechado
+Fechando a conexão com 242 alteracoes pela thread
+Fechado Socket: 94
+Fechando a conexão com 221 alteracoes pela thread
+Fechado Socket: 84
+Não enviado:
+Socket fechado
+Fechando a conexão com 253 alteracoes pela thread
+Fechado Socket: 84
+Fechando a conexão com 166 alteracoes pela thread
+Fechado Socket: 7
+Não enviado:
+Socket fechado
+Fechando a conexão com 130 alteracoes pela thread
+Fechado Socket: 7
+Não enviado:
+Socket fechado
+Fechando a conexão com 170 alteracoes pela thread
+Fechado Socket: 7
+Fechando a conexão com 158 alteracoes pela thread
+Fechado Socket: 61
+Não enviado:
+Socket fechado
+Fechando a conexão com 139 alteracoes pela thread
+Fechado Socket: 61
+Não enviado:
+Socket fechado
+Fechando a conexão com 81 alteracoes pela thread
+Fechado Socket: 61
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 62
+Fechando a conexão com 222 alteracoes pela thread
+Fechado Socket: 103
+Não enviado:
+Socket fechado
+Fechando a conexão com 172 alteracoes pela thread
+Fechado Socket: 103
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 23
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 17
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 16
+Fechando a conexão com 88 alteracoes pela thread
+Fechado Socket: 102
+Não enviado:
+Socket fechado
+Fechando a conexão com 136 alteracoes pela thread
+Fechado Socket: 102
+Não enviado:
+Socket fechado
+Fechando a conexão com 84 alteracoes pela thread
+Fechado Socket: 102
+Fechando a conexão com 213 alteracoes pela thread
+Fechado Socket: 81
+Não enviado:
+Socket fechado
+Fechando a conexão com 253 alteracoes pela thread
+Fechado Socket: 81
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 59
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 29
+Fechando a conexão com 231 alteracoes pela thread
+Fechado Socket: 97
+Não enviado:
+Socket fechado
+Fechando a conexão com 207 alteracoes pela thread
+Fechado Socket: 97
+Fechando a conexão com 241 alteracoes pela thread
+Fechado Socket: 70
+Socket fechado
+Fechando a conexão com 210 alteracoes pela thread
+Fechado Socket: 70
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 10
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 73
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 14
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 36
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 42
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 15
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 80
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 76
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 47
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 35
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 31
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 60
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 99
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 90
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 26
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 34
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 96
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 69
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 22
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 78
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 53
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 91
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 19
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 72
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 75
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 63
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 54
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 24
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 64
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 39
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 55
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 104
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 95
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 79
+Fechando a conexão com 500 alteracoes pela thread
+Fechado Socket: 105
+Socket: 106
+Servidor atendendo conexão 32279
+Aberto Socket: 106
+Salvou 768 ditados
+ tempo de execução: 2981430.000000 
+Erro de Protocolo, recebido ''
+Fechando a conexão com 0 alteracoes pela thread
+Fechado Socket: 106

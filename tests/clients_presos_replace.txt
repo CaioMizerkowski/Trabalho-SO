@@ -1,0 +1,4 @@
+caio      6320  0.0  0.0  20096  1876 pts/5    Sl   19:22   0:00 ./client localhost 5193 3
+caio      6322  0.0  0.0  20096  1804 pts/5    Sl   19:22   0:00 ./client localhost 5193 3
+caio      6328  0.0  0.0  20096  1900 pts/5    Sl   19:22   0:00 ./client localhost 5193 3
+caio      6332  0.0  0.0  20096  1900 pts/5    Sl   19:22   0:00 ./client localhost 5193 3

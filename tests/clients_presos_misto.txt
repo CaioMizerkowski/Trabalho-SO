@@ -1,0 +1,12 @@
+caio      6775  0.0  0.0  20096  1836 pts/5    Sl   19:28   0:00 ./client localhost 5193 2
+caio      6776  0.0  0.0  20096  1836 pts/5    Sl   19:28   0:00 ./client localhost 5193 3
+caio      6780  0.0  0.0  20096  1756 pts/5    Sl   19:28   0:00 ./client localhost 5193 3
+caio      6787  0.0  0.0  20096  1836 pts/5    Sl   19:28   0:00 ./client localhost 5193 4
+caio      6792  0.0  0.0  20096  1852 pts/5    Sl   19:28   0:00 ./client localhost 5193 2
+caio      6819  0.0  0.0  20096  1868 pts/5    Sl   19:28   0:00 ./client localhost 5193 1
+caio      6820  0.0  0.0  20096  1860 pts/5    Sl   19:28   0:00 ./client localhost 5193 2
+caio      6825  0.0  0.0  20096  1900 pts/5    Sl   19:28   0:00 ./client localhost 5193 4
+caio      6826  0.0  0.0  20096  1776 pts/5    Sl   19:28   0:00 ./client localhost 5193 1
+caio      6828  0.0  0.0  20096  1868 pts/5    Sl   19:28   0:00 ./client localhost 5193 3
+caio      6842  0.0  0.0  20096  1852 pts/5    Sl   19:28   0:00 ./client localhost 5193 3
+caio      6846  0.0  0.0  20096  1808 pts/5    Sl   19:28   0:00 ./client localhost 5193 4
