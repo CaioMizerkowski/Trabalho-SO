@@ -1,0 +1,767 @@
+Contador número 30 do socket 3
+Contador número 41 do socket 3
+Contador número 2 do socket 3
+Contador número 53 do socket 3
+Contador número 84 do socket 3
+Contador número 15 do socket 3
+Contador número 66 do socket 3
+Contador número 137 do socket 3
+Contador número 108 do socket 3
+Contador número 179 do socket 3
+Contador número 110 do socket 3
+Contador número 51 do socket 3
+Contador número 162 do socket 3
+Contador número 43 do socket 3
+Contador número 14 do socket 3
+Contador número 5 do socket 3
+Contador número 166 do socket 3
+Contador número 47 do socket 3
+Contador número 238 do socket 3
+Contador número 109 do socket 3
+Contador número 40 do socket 3
+Contador número 261 do socket 3
+Contador número 42 do socket 3
+Contador número 263 do socket 3
+Contador número 154 do socket 3
+Contador número 175 do socket 3
+Contador número 156 do socket 3
+Contador número 67 do socket 3
+Contador número 178 do socket 3
+Contador número 199 do socket 3
+Contador número 0 do socket 3
+Contador número 211 do socket 3
+Contador número 182 do socket 3
+Contador número 113 do socket 3
+Contador número 24 do socket 3
+Contador número 245 do socket 3
+Contador número 36 do socket 3
+Contador número 167 do socket 3
+Contador número 8 do socket 3
+Contador número 69 do socket 3
+Contador número 240 do socket 3
+Contador número 221 do socket 3
+Contador número 132 do socket 3
+Contador número 203 do socket 3
+Contador número 4 do socket 3
+Contador número 95 do socket 3
+Contador número 96 do socket 3
+Contador número 77 do socket 3
+Contador número 118 do socket 3
+Contador número 239 do socket 3
+Contador número 220 do socket 3
+Contador número 251 do socket 3
+Contador número 112 do socket 3
+Contador número 143 do socket 3
+Contador número 114 do socket 3
+Contador número 185 do socket 3
+Contador número 126 do socket 3
+Contador número 117 do socket 3
+Contador número 208 do socket 3
+Contador número 249 do socket 3
+Contador número 60 do socket 3
+Contador número 31 do socket 3
+Contador número 62 do socket 3
+Contador número 13 do socket 3
+Contador número 244 do socket 3
+Contador número 135 do socket 3
+Contador número 146 do socket 3
+Contador número 7 do socket 3
+Contador número 68 do socket 3
+Contador número 149 do socket 3
+Contador número 320 do socket 3
+Contador número 21 do socket 3
+Contador número 262 do socket 3
+Contador número 83 do socket 3
+Contador número 174 do socket 3
+Contador número 115 do socket 3
+Contador número 186 do socket 3
+Contador número 307 do socket 3
+Contador número 268 do socket 3
+Contador número 329 do socket 3
+Contador número 90 do socket 3
+Contador número 61 do socket 3
+Contador número 122 do socket 3
+Contador número 163 do socket 3
+Contador número 314 do socket 3
+Contador número 125 do socket 3
+Contador número 316 do socket 3
+Contador número 227 do socket 3
+Contador número 318 do socket 3
+Contador número 189 do socket 3
+Contador número 50 do socket 3
+Contador número 281 do socket 3
+Contador número 12 do socket 3
+Contador número 63 do socket 3
+Contador número 94 do socket 3
+Contador número 45 do socket 3
+Contador número 256 do socket 3
+Contador número 87 do socket 3
+Contador número 278 do socket 3
+Contador número 269 do socket 3
+Contador número 250 do socket 3
+Contador número 191 do socket 3
+Contador número 92 do socket 3
+Contador número 73 do socket 3
+Contador número 264 do socket 3
+Contador número 225 do socket 3
+Contador número 206 do socket 3
+Contador número 317 do socket 3
+Contador número 18 do socket 3
+Contador número 319 do socket 3
+Contador número 260 do socket 3
+Contador número 151 do socket 3
+Contador número 82 do socket 3
+Contador número 273 do socket 3
+Contador número 144 do socket 3
+Contador número 205 do socket 3
+Contador número 246 do socket 3
+Contador número 217 do socket 3
+Contador número 38 do socket 3
+Contador número 259 do socket 3
+Contador número 340 do socket 3
+Contador número 171 do socket 3
+Contador número 202 do socket 3
+Contador número 103 do socket 3
+Contador número 284 do socket 3
+Contador número 35 do socket 3
+Contador número 46 do socket 3
+Contador número 237 do socket 3
+Contador número 248 do socket 3
+Contador número 349 do socket 3
+Contador número 200 do socket 3
+Contador número 161 do socket 3
+Contador número 192 do socket 3
+Contador número 333 do socket 3
+Contador número 134 do socket 3
+Contador número 65 do socket 3
+Contador número 416 do socket 3
+Contador número 387 do socket 3
+Contador número 138 do socket 3
+Contador número 39 do socket 3
+Contador número 140 do socket 3
+Contador número 391 do socket 3
+Contador número 242 do socket 3
+Contador número 213 do socket 3
+Contador número 384 do socket 3
+Contador número 325 do socket 3
+Contador número 16 do socket 3
+Contador número 297 do socket 3
+Contador número 288 do socket 3
+Contador número 119 do socket 3
+Contador número 100 do socket 3
+Contador número 291 do socket 3
+Contador número 322 do socket 3
+Contador número 133 do socket 3
+Contador número 204 do socket 3
+Contador número 85 do socket 3
+Contador número 366 do socket 3
+Contador número 347 do socket 3
+Contador número 358 do socket 3
+Contador número 129 do socket 3
+Contador número 470 do socket 3
+Contador número 1 do socket 3
+Contador número 232 do socket 3
+Contador número 23 do socket 3
+Contador número 124 do socket 3
+Contador número 395 do socket 3
+Contador número 286 do socket 3
+Contador número 127 do socket 3
+Contador número 338 do socket 3
+Contador número 159 do socket 3
+Contador número 170 do socket 3
+Contador número 311 do socket 3
+Contador número 152 do socket 3
+Contador número 233 do socket 3
+Contador número 214 do socket 3
+Contador número 215 do socket 3
+Contador número 6 do socket 3
+Contador número 27 do socket 3
+Contador número 188 do socket 3
+Contador número 169 do socket 3
+Contador número 130 do socket 3
+Contador número 201 do socket 3
+Contador número 342 do socket 3
+Contador número 303 do socket 3
+Contador número 104 do socket 3
+Contador número 155 do socket 3
+Contador número 176 do socket 3
+Contador número 377 do socket 3
+Contador número 88 do socket 3
+Contador número 379 do socket 3
+Contador número 80 do socket 3
+Contador número 141 do socket 3
+Contador número 222 do socket 3
+Contador número 193 do socket 3
+Contador número 184 do socket 3
+Contador número 405 do socket 3
+Contador número 136 do socket 3
+Contador número 367 do socket 3
+Contador número 98 do socket 3
+Contador número 59 do socket 3
+Contador número 350 do socket 3
+Contador número 71 do socket 3
+Contador número 142 do socket 3
+Contador número 243 do socket 3
+Contador número 414 do socket 3
+Contador número 25 do socket 3
+Contador número 196 do socket 3
+Contador número 197 do socket 3
+Contador número 458 do socket 3
+Contador número 469 do socket 3
+Contador número 160 do socket 3
+Contador número 231 do socket 3
+Contador número 102 do socket 3
+Contador número 493 do socket 3
+Contador número 424 do socket 3
+Contador número 195 do socket 3
+Contador número 116 do socket 3
+Contador número 277 do socket 3
+Contador número 78 do socket 3
+Contador número 19 do socket 3
+Contador número 400 do socket 3
+Contador número 131 do socket 3
+Contador número 352 do socket 3
+Contador número 313 do socket 3
+Contador número 164 do socket 3
+Contador número 285 do socket 3
+Contador número 106 do socket 3
+Contador número 157 do socket 3
+Contador número 198 do socket 3
+Contador número 49 do socket 3
+Contador número 180 do socket 3
+Contador número 241 do socket 3
+Contador número 252 do socket 3
+Contador número 383 do socket 3
+Contador número 374 do socket 3
+Contador número 375 do socket 3
+Contador número 336 do socket 3
+Contador número 247 do socket 3
+Contador número 218 do socket 3
+Contador número 299 do socket 3
+Contador número 190 do socket 3
+Contador número 381 do socket 3
+Contador número 362 do socket 3
+Contador número 423 do socket 3
+Contador número 464 do socket 3
+Contador número 345 do socket 3
+Contador número 376 do socket 3
+Contador número 457 do socket 3
+Contador número 148 do socket 3
+Antes um cachorro amigo que um amigo cachorro.
+Contador número 310 do socket 3
+Contador número 361 do socket 3
+Contador número 22 do socket 3
+Contador número 393 do socket 3
+Contador número 34 do socket 3
+Contador número 165 do socket 3
+Contador número 236 do socket 3
+Contador número 337 do socket 3
+Contador número 298 do socket 3
+Contador número 89 do socket 3
+Contador número 490 do socket 3
+Contador número 181 do socket 3
+Contador número 412 do socket 3
+Contador número 153 do socket 3
+Contador número 394 do socket 3
+Contador número 485 do socket 3
+Contador número 26 do socket 3
+Contador número 97 do socket 3
+Contador número 488 do socket 3
+Contador número 409 do socket 3
+Contador número 210 do socket 3
+Contador número 11 do socket 3
+Contador número 492 do socket 3
+Contador número 3 do socket 3
+Contador número 274 do socket 3
+Contador número 335 do socket 3
+Ainda que sejas prudente e velho, não desprezes o conselho.
+Contador número 57 do socket 3
+Contador número 438 do socket 3
+Contador número 279 do socket 3
+Contador número 20 do socket 3
+Contador número 371 do socket 3
+Contador número 212 do socket 3
+Contador número 283 do socket 3
+Contador número 454 do socket 3
+Contador número 465 do socket 3
+Contador número 76 do socket 3
+Contador número 107 do socket 3
+Contador número 158 do socket 3
+Contador número 449 do socket 3
+Contador número 120 do socket 3
+Contador número 81 do socket 3
+Contador número 332 do socket 3
+Contador número 473 do socket 3
+Contador número 484 do socket 3
+Contador número 365 do socket 3
+Contador número 356 do socket 3
+Contador número 287 do socket 3
+Contador número 368 do socket 3
+Contador número 9 do socket 3
+Contador número 390 do socket 3
+Contador número 461 do socket 3
+Contador número 382 do socket 3
+Contador número 353 do socket 3
+Contador número 494 do socket 3
+Contador número 75 do socket 3
+Contador número 406 do socket 3
+Antes que o mal cresça, corta-lhe a cabeça.
+Contador número 498 do socket 3
+Contador número 99 do socket 3
+Contador número 460 do socket 3
+Contador número 401 do socket 3
+Contador número 442 do socket 3
+Contador número 123 do socket 3
+Contador número 234 do socket 3
+Contador número 385 do socket 3
+Contador número 496 do socket 3
+Contador número 427 do socket 3
+Contador número 28 do socket 3
+Contador número 219 do socket 3
+Contador número 450 do socket 3
+Contador número 441 do socket 3
+Contador número 302 do socket 3
+Contador número 223 do socket 3
+Contador número 194 do socket 3
+A união faz a força.
+Contador número 326 do socket 3
+Contador número 147 do socket 3
+Antes quebrar que torcer
+Contador número 229 do socket 3
+Contador número 360 do socket 3
+A corda faz a velha gorda e a menina formosa.
+Contador número 32 do socket 3
+Contador número 483 do socket 3
+Contador número 354 do socket 3
+Contador número 145 do socket 3
+Contador número 436 do socket 3
+Contador número 177 do socket 3
+Contador número 168 do socket 3
+Contador número 489 do socket 3
+Contador número 370 do socket 3
+Contador número 101 do socket 3
+Contador número 452 do socket 3
+Contador número 173 do socket 3
+Contador número 474 do socket 3
+Contador número 265 do socket 3
+Contador número 226 do socket 3
+Contador número 187 do socket 3
+Contador número 328 do socket 3
+Contador número 339 do socket 3
+Contador número 410 do socket 3
+Contador número 331 do socket 3
+Contador número 372 do socket 3
+Contador número 373 do socket 3
+Contador número 404 do socket 3
+Contador número 355 do socket 3
+Contador número 426 do socket 3
+Contador número 327 do socket 3
+Contador número 468 do socket 3
+Contador número 139 do socket 3
+Contador número 150 do socket 3
+Contador número 121 do socket 3
+Contador número 292 do socket 3
+Contador número 323 do socket 3
+Contador número 434 do socket 3
+Contador número 235 do socket 3
+Contador número 346 do socket 3
+Contador número 497 do socket 3
+Contador número 478 do socket 3
+Contador número 499 do socket 3
+Contador número 430 do socket 3
+Contador número 411 do socket 3
+Contador número 472 do socket 3
+Contador número 453 do socket 3
+Contador número 54 do socket 3
+Contador número 315 do socket 3
+Contador número 486 do socket 3
+Contador número 407 do socket 3
+Contador número 398 do socket 3
+Contador número 479 do socket 3
+Contador número 10 do socket 3
+Contador número 421 do socket 3
+A felicidade é algo que se multiplica quando se divide.
+Contador número 443 do socket 3
+Contador número 304 do socket 3
+Contador número 275 do socket 3
+Contador número 446 do socket 3
+Contador número 17 do socket 3
+Contador número 448 do socket 3
+Contador número 439 do socket 3
+Contador número 380 do socket 3
+Contador número 471 do socket 3
+Contador número 172 do socket 3
+A minha liberdade acaba onde começa a liberdade dos outros.
+Contador número 224 do socket 3
+Contador número 425 do socket 3
+Contador número 466 do socket 3
+Contador número 437 do socket 3
+Contador número 378 do socket 3
+Contador número 429 do socket 3
+Contador número 280 do socket 3
+Contador número 271 do socket 3
+Contador número 402 do socket 3
+Contador número 253 do socket 3
+A noite é boa conselheira
+Contador número 415 do socket 3
+Contador número 216 do socket 3
+Contador número 467 do socket 3
+Contador número 228 do socket 3
+Contador número 419 do socket 3
+Contador número 440 do socket 3
+Contador número 481 do socket 3
+Contador número 312 do socket 3
+Contador número 293 do socket 3
+Contador número 364 do socket 3
+Contador número 455 do socket 3
+Contador número 296 do socket 3
+Contador número 487 do socket 3
+Contador número 48 do socket 3
+Contador número 309 do socket 3
+Contador número 330 do socket 3
+Contador número 91 do socket 3
+Contador número 52 do socket 3
+Contador número 33 do socket 3
+Contador número 64 do socket 3
+Contador número 295 do socket 3
+Contador número 456 do socket 3
+Contador número 357 do socket 3
+Contador número 418 do socket 3
+Contador número 79 do socket 3
+Contador número 270 do socket 3
+Contador número 351 do socket 3
+Contador número 462 do socket 3
+Contador número 433 do socket 3
+Contador número 44 do socket 3
+Contador número 105 do socket 3
+Contador número 306 do socket 3
+Contador número 257 do socket 3
+Contador número 428 do socket 3
+Contador número 389 do socket 3
+A cobra vai fumar.
+Contador número 341 do socket 3
+Contador número 392 do socket 3
+Contador número 363 do socket 3
+Contador número 324 do socket 3
+Contador número 495 do socket 3
+Contador número 476 do socket 3
+Contador número 207 do socket 3
+Contador número 348 do socket 3
+Contador número 359 do socket 3
+Contador número 70 do socket 3
+Contador número 321 do socket 3
+Contador número 422 do socket 3
+Contador número 413 do socket 3
+Contador número 344 do socket 3
+Contador número 55 do socket 3
+Contador número 396 do socket 3
+Contador número 477 do socket 3
+Contador número 308 do socket 3
+Contador número 289 do socket 3
+Contador número 290 do socket 3
+Contador número 431 do socket 3
+Contador número 272 do socket 3
+Contador número 343 do socket 3
+Contador número 334 do socket 3
+Contador número 255 do socket 3
+Contador número 86 do socket 3
+Contador número 397 do socket 3
+Contador número 408 do socket 3
+Contador número 209 do socket 3
+Contador número 480 do socket 3
+Contador número 451 do socket 3
+Contador número 482 do socket 3
+Contador número 403 do socket 3
+Contador número 74 do socket 3
+Contador número 435 do socket 3
+Contador número 56 do socket 3
+Contador número 417 do socket 3
+Contador número 58 do socket 3
+Contador número 369 do socket 3
+Contador número 230 do socket 3
+Contador número 491 do socket 3
+Contador número 282 do socket 3
+Contador número 93 do socket 3
+Contador número 254 do socket 3
+Contador número 305 do socket 3
+Contador número 266 do socket 3
+Contador número 37 do socket 3
+Contador número 258 do socket 3
+Contador número 29 do socket 3
+Contador número 420 do socket 3
+Contador número 301 do socket 3
+Contador número 432 do socket 3
+Contador número 463 do socket 3
+Contador número 444 do socket 3
+Contador número 445 do socket 3
+Contador número 386 do socket 3
+Contador número 447 do socket 3
+Contador número 128 do socket 3
+Contador número 459 do socket 3
+Contador número 300 do socket 3
+Contador número 111 do socket 3
+Contador número 72 do socket 3
+Contador número 183 do socket 3
+Contador número 294 do socket 3
+Contador número 475 do socket 3
+Contador número 276 do socket 3
+Contador número 267 do socket 3
+Contador número 388 do socket 3
+Contador número 399 do socket 3
+Ao diabo e à mulher nunca falta que fazer
+Ao rico mil amigos se deparam, ao pobre seus irmãos o desamparam.
+As aparências enganam.
+Até ao lavar dos cestos é vindima
+Quem jura é quem mais mente.
+A instrução é a luz do espírito.
+Um dia da caça, o outro do caçador.
+Quem quer vai, quem não quer manda. 
+Com coisas sérias não se brinca
+Depois de fartos, não faltam pratos.
+Burro velho não ganha andadura
+A verdade gera o ódio
+Manda quem pode, obedece quem deve. 
+Não há regra sem exceção.
+As aparências iludem.
+Para o bom entendedor meia palavra basta
+Cada um a seu modo
+Quem meu filho beija minha boca adoça
+Por bem fazer mal haver
+Para muito sono toda a cama é boa
+Quando um não quer, dois não discutem.
+Esta vida é dois dias e o Carnaval são três
+Com tempo tudo se cura
+A galinha que canta como galo corta-lhe o gargalo.
+Para quem é, bacalhau basta.
+O homem prevenido vale por dois.
+Quem primeiro se queixa foi quem atirou a ameixa
+Rei morto, rei posto.
+Não há crime sem lei
+Os opostos se unem
+Paga o justo pelo pecador
+Mato tem olhos, paredes tem ouvidos.
+Quem vai à feira perde a cadeira
+Águas passadas não movem moinho.
+Muito se engana quem julga
+Boda molhada, boda abençoada.
+Cão de caça vem de raça.
+Mais vale perder um minuto na vida do que a vida num minuto.
+Uma andorinha só não faz, verão.
+Por uma besta dar um coice não se lhe corta uma perna
+Quem pergunta quer saber
+Quem ama o feio, bonito lhe parece. 
+Macaco que muito pula quer chumbo.
+Deus dá a farinha e o diabo fura o saco.
+Vassoura nova é que varre bem
+Quem procura sempre acha, se não um prego, uma tacha.
+Mais vale um gosto na vida que (dez reis|seis vinténs) na algibeira
+Focinho de porco não é tomada.
+Mais vale rico e com saúde do que pobre e doente.
+Quem muito espera desespera
+A ociosidade é mãe de todos os vícios
+Deus dá o frio conforme o cobertor
+O saber não ocupa (espaço|lugar)
+Longe da vista, longe do coração.
+Caiu do cavalo.
+Tudo que não mata engorda
+Os amigos são para as ocasiões
+Touro em pasto alheio é vaca
+Cautela e caldo de galinha nunca fez mal a ninguém
+Camarão que dorme a onda leva.
+A ignorância é o pior de todos os males.
+É de pequeno que se torce o pepino.
+Quando se faz uma panela faz-se um testo para ela
+Briga de marido e mulher, ninguém mete a colher.
+Ovelha negra da família.
+Muito riso pouco sizo.
+No poupar é que está o ganho
+Não te metas no que não te diz respeito
+Ir à lã e ser tosquiado.
+A intenção é que conta.
+Depressa e bem, (há pouco quem|ninguém).
+Casa de esquina, ou morte ou ruína.
+Tal pai, tal filho.
+Para quem sabe ler, pingo é letra.
+Quem dorme com criança acorda molhado
+Quem não chora não mama
+Ninguém nasce sabendo
+Mudam-se os tempos, mudam-se as vontades.
+Laranja na beira de estrada ou é azeda ou tem marimbondo no pé.
+Falar é prata, calar é ouro.
+Ignorante é aquele que sabe e se faz de tonto.
+Quem nada não se afoga
+A corda sempre arrebenta do lado mais fraco.
+Gente tola e touros: paredes altas.
+Não se deve dar pérolas aos porcos
+Saco vazio não para em pé
+Antes a minha face com fome amarela, que vermelha de vergonha.
+Ao rico não faltes, ao pobre não prometas.
+Para pé torto, só chinelo velho.
+O que os olhos não vêem, o coração não sente.
+As más notícias chegam depressa
+O seu a seu dono
+Mais vale prevenir que remediar
+Não é com vinagre que se apanha moscas.
+Panela que muitos mexem, não toma tempero.
+Quem ama a rosa suporta os espinhos.
+Feliz no jogo, infeliz nos amores.
+Existem pessoas que nascem sorrindo, vivem fingindo e morrem mentindo.
+As palavras (ou a conversa) são como as cerejas, vêm umas atrás das outras.
+Quanto mais depressa mais devagar
+Velhos são os trapos
+O burro acredita em tudo o que lhe dizem.
+Em boca fechada não entra mosca.
+Água e vento são meio sustento 
+Boa fama granjeia quem não diz mal da vida alheia
+Burro velho não aprende línguas
+Burro velho não toma ensino.
+De cruzeiro em cruzeiro, se faz um milheiro.
+Deus ajuda a quem cedo madruga.
+Dinheiro não traz felicidade
+É difícil agradar a Gregos e Troianos.
+Em casa onde não haja pão, todos ralham e ninguém tem razão.
+Em outubro manda o boi para o palheiro e o barco para o muro.
+Em tempo de guerra, urubu é frango.
+Em terra de cego quem tem um olho é rei.
+Entradas de leão, a saídas de cordeiro.
+Estar na horta e não ver as couves. 
+Fez do lobo o guardião de ovelhas.
+Há males que vem por bem.
+Há remédio para tudo menos para a morte. 
+Jacaré parado vira bolsa.
+Jacaré que fica parado vira bolsa.
+Julga o ladrão que todos o são
+Lembra aos rapazes o que ao diabo esquece.
+Lua nova trovejada, trinta dias de molhada.
+Mais vale amigo na praça que dinheiro na caixa.
+Mais vale burro vivo que sábio morto.
+Mais vale um pé no travão que dois no caixão
+Mal por mal, antes na capela do que no hospital.
+Mãos frias, coração quente (amor ardente| amor para sempre).
+Mate dois coelhos com uma cajadada só.
+Misturar alhos com bugalhos.
+Muito come o tolo mas mais tolo é quem lhe dá
+Muito custa a um pobre viver e a um rico morrer. 
+Não há fome que não (traga|dê em) fartura
+Não há fome sem fartura.
+Não há galinha gorda por pouco dinheiro
+Não há rosas sem espinhos
+Ninguém melhor ajuda o pobre, que o pobre. 
+Ninguém quer ser velho nem morrer novo
+No melhor pano cai a nódoa.
+Nuvem baixa, sol que racha.
+O bom filho à casa torna
+O casamento e a mortalha no céu se talha
+O olho do dono engorda o cavalo
+O poder mostra o que o homem é
+O que é bom acaba depressa
+O saber não ocupa lugar
+O seguro morreu de velho e o desconfiado ainda está vivo.
+Onde ha fumaça, há fogo.
+Os extremos tocam-se
+Os últimos serão os primeiros.
+Pai rico, filho nobre, neto pobre.
+Panela velha é que faz boa comida.
+Para morrer basta estar vivo
+Passarinhos e pardais, não são todos iguais.
+Pedra que rola não cria limo.
+Pela boca morre o peixe.
+Presunção e água benta, cada qual toma a que quer.
+Quando a cabeça não pensa o corpo padece.
+Quando a esmola é grande até o santo desconfia.
+Quando pobre come frango, um dos dois está doente.
+Quando um não quer dois não brigam.
+Quanto maior é o coqueiro maior o tombo do coco.
+Quem a alto sobe de alto cai quem acha guarda
+Quem cala consente.
+Quem comeu a carne que roa os ossos
+Quem está na chuva é pra se molhar
+Quem foi pra Portugal perdeu lugar
+Quem não tem pano não arma tendas
+Quem não tem vergonha, todo o mundo é seu.
+Quem parte velho paga novo
+Quem quebra o galho é macaco gordo.
+Quem quer festa, sua-lhe a testa.
+Quem sabe sorrir, sabe viver.
+Quem tudo quer nada tem
+Quem tudo quer tudo perde
+Quem vai à guerra dá e leva.
+Quem vai ao mar perde o lugar
+Quem vê cara não vê coração
+Rapadura é doce, mas não é mole não.
+Recordar é viver
+Religião, Cor e Política, não se discute.
+Ri melhor quem ri por último
+Saco cheio não verga
+São mais as vozes que as nozes
+Sentir-se como peixe fora d’água.
+Sou homem e tudo o que é humano me diz respeito
+Um homem prevenido vale por dois.
+Vai muito do dizer ao fazer 
+Zangam-se as comadres, descobrem-se as verdades.
+Só trabalha quem não sabe fazer mais nada
+Nem tudo o que reluz é ouro.
+Semeia e cria, (viverás com|terás) alegria.
+Quando o gato sai, os ratos fazem a festa.
+Tudo vale a pena quando a alma não é pequena
+Palavra puxa palavra
+Quem pode manda, quem não pode faz.
+Cão que ladra não morde.
+Quem tem padrinho rico não morre pagão
+O que o berço dá só a tumba tira
+Cavalo dado não se olha os dentes.
+A ignorância é a mãe de todas as doenças.
+Se não tens o que gostas, gosta do que tens.
+O que arma a esparrela muitas vezes cai nela
+Roma e Pavia não se fizeram em um dia.
+As cadelas apressadas parem cães tortos
+Com vinagre não se apanha mosquitos.
+A alegria atrai simpatia.
+Quem pariu Matheus que o balance
+É mais fácil um camelo entrar num buraco de agulha, que um rico entrar no reino do céu.
+Não há sábado sem sol, domingo sem missa nem segunda sem preguiça.
+Ovelha que berra, bocado que perde.
+Quem desconfia de tudo, adivinha metade.
+A palavra é de prata e o silêncio é de ouro
+Quem dá aos pobres, empresta a Deus.
+Quem porfia, mata caça.
+Homem prevenido vale por dois.
+Quem tem capa sempre escapa
+Se o trabalho dá saúde, que trabalhem os doentes.
+Quem parte e reparte e não fica com a melhor parte, ou é tolo ou não sabe da arte. 
+Mãos quentes, coração frio amor vadio.
+Tristezas não pagam dívidas
+Quem quer agradar a todo o mundo, no fim não agrada a ninguém.
+Falem mal, mas falem de mim.
+Lua deitada, marinheiro de pé.
+Amigos dos meus amigos, meus amigos são.
+Animal que urina para trás, coloca o dono para frente.
+Na cama que farás, nela te deitarás.
+Uma andorinha só não faz verão
+Voz do povo é voz de Deus
+Fidalguia sem comodoria é gaita que não assobia. 
+Quem não arrisca não petisca. 
+Gostos não se discutem
+Quem com ferro fere, com ferro será ferido.
+Um gambá cheira o outro.
+Muita gente junta não se safa
+Muita parra pouca uva
+Amigo não empata amigo
+Mal por mal, venha o Diabo e escolha.
+Quem não tem dinheiro não tem vícios
+Longe dos olhos, longe do coração.
+Hoje por mim, amanhã por ti.
+Se sabes o que eu sei, cala-te que eu me calarei.
+Trabalhando só pelos bens materiais construímos nós mesmos nossa prisão.
+Antes só que mal acompanhado.
+Mais depressa se apanha um mentiroso que um coxo.
+Quem não come por ter comido, o mal não é de perigo.
+Todo o homem tem o seu preço
+Ladrão não rouba a ladrão.
+Quem diz as verdades, perde as amizades.
+Quem (torto nasce|nasce torto), tarde ou nunca se endireita.
+Os homens não se medem aos palmos
+Quando o mar bate na rocha quem se lixa é o mexilhão
+Quando um cai todos o pisam
+Desculpa de aleijado é muleta.
+

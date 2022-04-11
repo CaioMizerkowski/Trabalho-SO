@@ -5,7 +5,7 @@
 // Alunos:
 // Caio
 // Sara
-// Luigi 
+// Luigi
 #include <pthread.h>
 #include <sys/types.h>
 #include <sys/socket.h>
@@ -81,8 +81,9 @@ char uppercase(char *input) {
 void remove_element(int index)
 {
     int i;
-    if(msg[index][0] == '\0')
+    if(msg[index][0]=='\0'){
         return;
+    }
     for(i = index; i < ARRAY_LEN - 1; i++){
         strcpy(msg[i], msg[i + 1]);
     }
@@ -218,7 +219,7 @@ void *atendeConexao( void *sd2 )
             remove_element(val);
             alteracoes++;
             alt_values++;
-            //ditados--;
+            // ditados--;
             sem_post(&m);
             memset(str1, 0, STR_LEN);
             sprintf(str1,"OK\n");
@@ -465,4 +466,3 @@ int main(int argc, char **argv)
         pthread_create(&t, NULL,  atendeConexao, &sd2 );
     }
 }
-

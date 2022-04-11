@@ -2,7 +2,7 @@
 // Alunos:
 // Caio
 // Sara
-// Luigi 
+// Luigi
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
@@ -75,7 +75,6 @@ void *recebeDados( void *sd2 ){
 void *enviaDados( void *sd2 ){
     int *temp=sd2;
     int sd=*temp;
-    int n;
     char buf[1024];
 
     while (1){
@@ -92,7 +91,6 @@ void *enviaDados( void *sd2 ){
 void *delEnviaDados( void *sd2 ){
     int *temp=sd2;
     int sd=*temp;
-    int n;
     char buf[1024];
 
     int contador=0;
@@ -103,9 +101,30 @@ void *delEnviaDados( void *sd2 ){
         send(sd, buf, sizeof(buf), 0);
 
         memset(buf, 0, sizeof(buf));
-        strcpy(buf, "30\n");
+        strcpy(buf, "500\n");
         send(sd, buf, sizeof(buf), 0);
 
+        contador++;
+    }
+
+    sleep(1);
+    memset(buf, 0, sizeof(buf));
+    strcpy(buf ,"FIM");
+    send(sd, buf, sizeof(buf), 0);
+}
+
+void *leitorEnviaDados( void *sd2 ){
+    int *temp=sd2;
+    int sd=*temp;
+    char buf[1024];
+
+    int contador=0;
+    while (contador<500){
+        sem_wait(&m);
+        memset(buf, 0, sizeof(buf));
+        strcpy(buf, "GETR\n");
+        send(sd, buf, sizeof(buf), 0);
+        memset(buf, 0, sizeof(buf));
         contador++;
     }
 
@@ -118,22 +137,21 @@ void *delEnviaDados( void *sd2 ){
 void *rotateEnviaDados( void *sd2 ){
     int *temp=sd2;
     int sd=*temp;
-    int n;
     char buf[1024];
 
     int contador=0;
-    while (contador<100){
+    while (contador<500){
         sem_wait(&m);
         memset(buf, 0, sizeof(buf));
         strcpy(buf, "ROTATE\n");
         send(sd, buf, sizeof(buf), 0);
 
         memset(buf, 0, sizeof(buf));
-        strcpy(buf, "1\n");
+        sprintf(buf, "%i\n", contador);
         send(sd, buf, sizeof(buf), 0);
 
         memset(buf, 0, sizeof(buf));
-        strcpy(buf, "10\n");
+        sprintf(buf, "%i\n", contador+10);
         send(sd, buf, sizeof(buf), 0);
 
         contador++;
@@ -147,26 +165,45 @@ void *rotateEnviaDados( void *sd2 ){
 void *replaceEnviaDados( void *sd2 ){
     int *temp=sd2;
     int sd=*temp;
-    int n;
     char buf[1024];
 
     int contador=0;
-    while (contador<100){
+    while (contador<500){
         sem_wait(&m);
         memset(buf, 0, sizeof(buf));
         strcpy(buf, "REPLACE\n");
         send(sd, buf, sizeof(buf), 0);
 
         memset(buf, 0, sizeof(buf));
-        strcpy(buf, "10\n");
+        sprintf(buf, "%i\n", contador);
         send(sd, buf, sizeof(buf), 0);
 
         memset(buf, 0, sizeof(buf));
-        strcpy(buf, "stringAleatóriaAqui\n");
+        sprintf(buf, "Contador número %i do socket %i\n", contador, sd);
         send(sd, buf, sizeof(buf), 0);
 
         contador++;
     }
+    sleep(1);
+    memset(buf, 0, sizeof(buf));
+    strcpy(buf ,"FIM");
+    send(sd, buf, sizeof(buf), 0);
+}
+
+void *finalEnviaDados( void *sd2 ){
+    int *temp=sd2;
+    int sd=*temp;
+    char buf[1024];
+
+    sem_wait(&m);
+    memset(buf, 0, sizeof(buf));
+    strcpy(buf, "GRAVAR\n");
+    send(sd, buf, sizeof(buf), 0);
+
+    memset(buf, 0, sizeof(buf));
+    sprintf(buf, "obtido_socket_%i.txt\n", sd);
+    send(sd, buf, sizeof(buf), 0);
+
     sleep(1);
     memset(buf, 0, sizeof(buf));
     strcpy(buf ,"FIM");
@@ -264,7 +301,13 @@ int main(int argc, char **argv)
     }else if (tipo_client==3){
         printf("Tipo replace\n");
         pthread_create(&t[1], NULL,  replaceEnviaDados, &sd );
-    }else{
+    }else if (tipo_client==4){
+        printf("Tipo leitor\n");
+        pthread_create(&t[1], NULL,  leitorEnviaDados, &sd );
+    }else if (tipo_client==5){
+        printf("Tipo final\n");
+        pthread_create(&t[1], NULL,  finalEnviaDados, &sd );
+    }    else{
         printf("Tipo padrão\n");
         lock = false;
         pthread_create(&t[1], NULL,  enviaDados, &sd );

@@ -5,7 +5,7 @@
 // Alunos:
 // Caio
 // Sara
-// Luigi 
+// Luigi
 #include <pthread.h>
 #include <sys/types.h>
 #include <sys/socket.h>
@@ -29,7 +29,7 @@ int     alteracoes=0;
 char    msg [ARRAY_LEN][ARRAY_LEN];
 int     ditados=0;
 //sem_t m, m2;
-
+clock_t start;
 void LeDitado(const char *str1)
 {
     FILE *arq;
@@ -54,6 +54,8 @@ void GravaDitado(const char *str1)
 {
     FILE *arq;
     int n = ditados;
+    clock_t end = clock();
+    double time_in_seconds = (double)(end - start);
     if ( (arq=fopen(str1,"w")) == NULL ) {
         printf("Erro lendo arquivo ...\n");
         exit(0);
@@ -66,7 +68,7 @@ void GravaDitado(const char *str1)
         //printf("%d %s\n",i,msg[i]);
     }
     fclose(arq);
-    printf("Salvou %d ditados\n",ditados-n);
+    printf("Salvou %d ditados\n tempo de execução: %f \n",ditados-n,time_in_seconds);
 
 }
 
@@ -81,9 +83,13 @@ char uppercase(char *input) {
 void remove_element(int index)
 {
     int i;
+    if(msg[index][0]=='\0'){
+        return;
+    }
     for(i = index; i < ARRAY_LEN - 1; i++){
         strcpy(msg[i], msg[i + 1]);
     }
+    ditados--;
 }
 
 void busca(int sd, char *input){
@@ -215,7 +221,7 @@ void *atendeConexao( void *sd2 )
             remove_element(val);
             alteracoes++;
             alt_values++;
-            ditados--;
+            //ditados--;
             //sem_post(&m);
             memset(str1, 0, STR_LEN);
             sprintf(str1,"OK\n");
@@ -448,7 +454,7 @@ int main(int argc, char **argv)
     }
 
     /* Main server loop - accept and handle requests */
-
+    start = clock();
     while (1) {
         //sem_wait(&m2);
         alen = sizeof(cad);
