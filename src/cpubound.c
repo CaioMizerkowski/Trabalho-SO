@@ -17,5 +17,4 @@ int main(int argc, char *argv[])
       for (j=0;j<max;j++)
           for (k=0;k<max;k++)
               vet [ (i + j + k) % 100] = i*j*k;
-
 }
