@@ -43,8 +43,39 @@ A função *palavras-d* é usada tanto na contagem de palavras individuais dos d
 
 A função GravaDitado é uma adaptação da função LeDitado, disponibilizada pelo professor, no qual ao invés de se fazer a leitura, é feita a escrita em um arquivo especificado. A função LeDitado foi alterada para receber como parâmetro o nome do arquivo que possui os ditados, funcionalidade também presente na função GravaDitado, que recebe como parâmetro o nome do arquivo.
 
+Para avisar ao cliente que a função foi corretamente executada, o servidor enviar um sinal de *ACK* ao final de cada execução com sucesso.
+
 ## Cliente
 
+O cliente foi implementado através da expansão do código recebido como base, com a adição de duas threads, uma para receber os dados do servidor e outra para enviar os dados ao servidor, estando elas sincronizadas através do uso de um semáforo e com a opção de executar elas de modo interativa e não iterativo, enviando finitas vezes um comando para o servidor dentro de um loop sincronizado com a recepção das respostas.
+
+### Main m
+
+A função main do servidor é responsável pela conexão do programa através do socket, cujo código para o funcionamento foi disponibilizado no modelo. O semáforo para sincronização também é iniciado na mesma e um argumento extra foi adicionado a chamada da main. Este argumento é responsável por definir o modo de operação da cliente, se será interativo (0 ou vazio), executará deleções (1), rotações (2), substituições (3), leituras aleatórias (4) ou gravará os resultados (5).
+
+### Envia Dados
+
+A função enviaDados é responsável pelo envio de mensagens ao servidor, estando a thread da mesma sincronizada com a thread da função responsável por receber a resposta do servidor, essa sincronização ocorrendo por meio de um semáforo compartilhado. Esse semáforo só é usado nos casos de automação e seu funcionamento é ativado por meio de uma variável lock de escopo global, estando desabilitado o semáforo no modo interativo.
+
+Ela fica desativada no modo interativo, pois a velocidade de envio dos comandos é menor e a sequência dos mesmos não determinística. Enquanto que nos casos automatizados, a velocidade de envio de comandos é muito rápida e a sequência totalmente determinada previamente.
+
+Nos casos não interativos, o travamento ocorre pela operação **Down** aplicada ao semáforo compartilhado entre as threads, esta operação acontece a cada iteração do loop. Ficando a thread responsável por enviar os dados em espera até que servidor retorne um sinal de *ACK*.
+
+No primeiro caso de execução automatizada de comandos, o caso da deleção, esta operação é repetida 100 vezes nas últimas posições do array de ditados.
+
+No caso seguinte, o de rotação, esta operação é realizada 500 vezes, incrementando sempre o índice do ditado que será afetado.
+
+No caso da execução das operações de *replace*, esse comando também está setado para ser executado 500 vezes, alterando o ditado afetado e jogando um texto informativo no lugar.
+
+No quarto caso, leituras aleatórias são executadas 500 vezes pela thread através do comando *GETR*, usado principalmente para ocupar o servidor, já que está operação não faz alterações nos ditados.
+
+A última função, é responsável por salvar os ditados daquela thread utilizando o número do socket como parte do nome do arquivo.
+
+### Recebe Dados
+
+Estando responsável por receber os dados do servidor ao cliente, a função recebeDados é sincronizada a thread de enviar dados, nos casos automatizados, através de um semáforo. Sendo nestes casos ela a responsável por executar a operação **Up** no semáforo de tamanho um.
+
+Para acomodar os casos interativos e não interativos, um lock global foi aplicado. Sendo o mesmo responsável por definir se a operação **Up** será ou não executada a cada vez que o cliente receber o sinal de *ACK* do servidor.
 
 ## Metodologia
 
