@@ -13,6 +13,9 @@
 			"netdb.h": "c",
 			"types.h": "c",
 			"unistd.h": "c"
-		}
+		},
+		"cSpell.words": [
+			"getr"
+		]
 	}
 }
