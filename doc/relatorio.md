@@ -6,40 +6,40 @@ O cliente também teve que ser finalizado, com a implementação de funções es
 
 ## Introdução
 
-Devido as dificuldades de se compartilhar recursos entre processos, a estratégia da utilização de threads foi implementada tanto no ambiente windows como nos ambientes unix-like (Linux, Mac, etc). O uso de threads permite com que recursos definidos como globais no escopo do programa sejam compartilhados, permitindo com que várias tarefas acessem os mesmos recursos. No entanto, essa estratégia cria a necessidade de um processo de sincronização entre as threads de forma a que duas ou mais tarefas não utilizem o mesmo recurso simultaneamente.
+Devido as dificuldades de se compartilhar recursos entre processos, a estratégia da utilização de threads foi implementada tanto no ambiente Windows como nos ambientes Unix-like (Linux, Mac etc.). O uso de threads permite com que recursos definidos como globais no escopo do programa sejam compartilhados, permitindo com que várias tarefas acessem os mesmos recursos. No entanto, essa estratégia cria a necessidade de um processo de sincronização entre as threads de forma a que duas ou mais tarefas não utilizem o mesmo recurso simultaneamente.
 
 Para resolver esse problema foi implementado o uso de semáforos, que são estruturas de controle que permitem que duas ou mais threads possam acessar recursos compartilhados de forma a evitar que este recurso seja utilizado por duas ou mais threads simultaneamente. Os semáforos, ao contrário de outras tentativas de sincronizar as threads como por meio de flags e de esperas ocupadas, se utilizam de recursos disponibilizados pelo hardware e pelo sistema operacional para bloquearem a execução de uma thread, que solicita um recurso ocupado, até que o recurso seja liberado pela thread que o solicitou.
 
 Isso é extremamente relevante em sistemas do tipo cliente-servidor, no qual um servidor deve atender diversos clientes e cuja uma das estratégias para seu funcionamento é subir uma thread para cada cliente, de forma que os recursos utilizados por todas estas threads devem ser protegidos de forma a evitar que estes sejam utilizados por duas ou mais threads simultaneamente. Um exemplo prático disso é a proteção do array de ditados do problema proposto, que deve ser protegido de escritas e deleções simultâneas de forma a não existirem furos em seu conteúdo, como espaços vazios que não deveriam estar, duplicação de informações ou uma diferença entre o número de ditados realmente presente no arquivo e o número presente na variável que controla o número de ditados a serem gravados ao final do processo.
 
-A comunicação entre o cliente e o servidor também trás outras dificuldades de sincronização que também necessitam do uso de semáforos para a correção através da proteção de regiões críticas do código. Neste caso, é a proteção do identificador do socket que deve ser passado para dentro da thread correspondente ao atendimento daquela conexão. Como o valor da thread é passado como um ponteiro para o valor, que então deve ser enviado para dentro da thread e salvo em uma variável do tipo int de escopo local. Durante todo este processo, existe a possibilidade da execução da thread ser preempetadas e outra thread assumir o local, modificando indevidamente o valor do socket e causando uma falha de comunicação entre o servidor e o cliente. Sendo que enquanto um cliente fica esperando por respostas e envios de uma thread que não existe, outro cliente passa a enviar para duas ou mais threads sem nenhuma garantia sobre qual thread vai atender os seus envios e em qual momento.
+A comunicação entre o cliente e o servidor também traz outras dificuldades de sincronização que também necessitam do uso de semáforos para a correção através da proteção de regiões críticas do código. Neste caso, é a proteção do identificador do socket que deve ser passado para dentro da thread correspondente ao atendimento daquela conexão. Como o valor da thread é passado como um ponteiro para o valor, que então deve ser enviado para dentro da thread e salvo em uma variável do tipo int de escopo local. Durante todo este processo, existe a possibilidade da execução da thread ser preempetadas e outra thread assumir o local, modificando indevidamente o valor do socket e causando uma falha de comunicação entre o servidor e o cliente. Sendo que enquanto um cliente fica esperando por respostas e envios de uma thread que não existe, outro cliente passa a enviar para duas ou mais threads sem nenhuma garantia sobre qual thread vai atender os seus envios e em qual momento.
 
 ## Servidor
 
-O código do servidor recebido foi expandido de forma a adicionar uma serie de funções, com algumas modificações na main tendo sido realizadas e diversas modificações na função responsável por atender a conexão de cada cliente, através da criação de uma thread que inicia esta função.
+O código do servidor recebido foi expandido de forma a adicionar uma série de funções, com algumas modificações na main tendo sido realizadas e diversas modificações na função responsável por atender a conexão de cada cliente, através da criação de uma thread que inicia esta função.
 
 ### Main
 
-Dois semáforos são iniciados na main, chamados de *m* e *m2*, os dois iniciados com o valor de 1 e devendo ser usados somente para a criação de regiões de exclusão mutua, sendo estes semáforos também são chamados de mutex. A principal modificação na main se deu através do uso do segundo destes dois semáforos (*m2*) para proteger a região crítica dentro do loop que recebe as requisições dos clientes para se conectarem com o servidor através do socket disponibilizado. Neste trecho de código, o semáforo somente é submetido a operação **Down**, pois o fim de sua região crítica só ocorre dentro da thread após o valor do socket ter sido finalmente fixado na variável de escopo local. No código do servidor apresentado em anexo, essa região crítica se inicia na linha 455 dentro da função main e termina na linha 125, dentro da função atenderConexão, com a operação **Up** sendo realizada no semáforo.
+Dois semáforos são iniciados na main, chamados de *m* e *m2*, os dois iniciados com o valor de 1 e devendo ser usados somente para a criação de regiões de exclusão mútua, sendo estes semáforos também são chamados de mutex. A principal modificação na main se deu através do uso do segundo destes dois semáforos (*m2*) para proteger a região crítica dentro do loop que recebe as requisições dos clientes para se conectarem com o servidor através do socket disponibilizado. Neste trecho de código, o semáforo somente é submetido a operação **Down**, pois o fim de sua região crítica só ocorre dentro da thread após o valor do socket ter sido finalmente fixado na variável de escopo local. No código do servidor apresentado em anexo, essa região crítica se inicia na linha 455 dentro da função main e termina na linha 125, dentro da função atenderConexão, com a operação **Up** sendo realizada no semáforo.
 
-Em pseudo código, podemos representar essa proteção de exclusão mútua da seguinte maneira:
+Em pseudocódigo, podemos representar essa proteção de exclusão mútua da seguinte maneira:
 PSEUDOCÓDIGO AQUI
 
 ### Atende Conexão
 
 Na função atendeConexão, que deve existir idealmente numa thread separada para cada cliente que esteja se comunicando com o servidor, foram conferidas as regiões de exclusão mútua das funcionalidades já existentes e adicionadas novas funcionalidades, sempre observando quais são as regiões de exclusão mútua presentes nas mesmas.
 
-Todas as funcionalidades esperadas foram implementadas com sucesso, adicionalmente uma funcionalidade de *HELP* foi também inserida para facilitar o debug na comunicação interativa com o servidor através do cliente. As funcionalidades e suas regiões de exclusão mutuas são as seguintes:
+Todas as funcionalidades esperadas foram implementadas com sucesso, adicionalmente uma funcionalidade de *HELP* foi também inserida para facilitar o debug na comunicação interativa com o servidor através do cliente. As funcionalidades e suas regiões de exclusão mútuas são as seguintes:
 
 --Adicionar tabela de funcionalidades e regiões, com observações.
 
-Dando-se enfase as funções de auxilio criadas para as funcionalidades mais complexas.
+Dando-se ênfase as funções de auxílio criadas para as funcionalidades mais complexas.
 
 A função *remove_element* lida com a remoção do elemento e a eliminação de elementos vazios no meio do array de ditados, movendo todos os ditados com um índice maior do que o ditado excluído uma posição para trás e decrementando o contador de ditados. Toda essa operação ocorrendo dentro de uma região crítica.
 
 A função de *busca* itera sobre todos os ditados, buscando aquele que possui como uma substring o termo buscado. Também estando inteiramente dentro da região crítica, pois itera sobre o array de ditados (msg).
 
-A função *palavras-d* é usada tanto na contagem de palavras individuais dos ditados, como na contagem de palavras de todos os ditados, em ambos os casos dentro das regiões demarcadas para exclusão mútua. A diferença entre ambos os casos é que no segundo uma variável acumula os resultados retornados pela função, que é iterada sobre todos os ditados em um laço for. Enquanto que no primeiro caso não existe está iteração e somente um índice é consultado.
+A função *palavras-d* é usada tanto na contagem de palavras individuais dos ditados, como na contagem de palavras de todos os ditados, em ambos os casos dentro das regiões demarcadas para exclusão mútua. A diferença entre ambos os casos é que no segundo uma variável acumula os resultados retornados pela função, que é iterada sobre todos os ditados em um laço for. Enquanto no primeiro caso não existe está iteração e somente um índice é consultado.
 
 A função GravaDitado é uma adaptação da função LeDitado, disponibilizada pelo professor, no qual ao invés de se fazer a leitura, é feita a escrita em um arquivo especificado. A função LeDitado foi alterada para receber como parâmetro o nome do arquivo que possui os ditados, funcionalidade também presente na função GravaDitado, que recebe como parâmetro o nome do arquivo.
 
@@ -55,9 +55,9 @@ A função main do servidor é responsável pela conexão do programa através d
 
 ### Envia Dados
 
-A função enviaDados é responsável pelo envio de mensagens ao servidor, estando a thread da mesma sincronizada com a thread da função responsável por receber a resposta do servidor, essa sincronização ocorrendo por meio de um semáforo compartilhado. Esse semáforo só é usado nos casos de automação e seu funcionamento é ativado por meio de uma variável lock de escopo global, estando desabilitado o semáforo no modo interativo.
+A função enviaDados é responsável pelo envio de mensagens ao servidor, estando a thread dela sincronizada com a thread da função responsável por receber a resposta do servidor, essa sincronização ocorrendo por meio de um semáforo compartilhado. Esse semáforo só é usado nos casos de automação e seu funcionamento é ativado por meio de uma variável lock de escopo global, estando desabilitado o semáforo no modo interativo.
 
-Ela fica desativada no modo interativo, pois a velocidade de envio dos comandos é menor e a sequência dos mesmos não determinística. Enquanto que nos casos automatizados, a velocidade de envio de comandos é muito rápida e a sequência totalmente determinada previamente.
+Ela fica desativada no modo interativo, pois a velocidade de envio dos comandos é menor e a sequência dos mesmos não determinística. Enquanto nos casos automatizados, a velocidade de envio de comandos é muito rápida e a sequência totalmente determinada previamente.
 
 Nos casos não interativos, o travamento ocorre pela operação **Down** aplicada ao semáforo compartilhado entre as threads, esta operação acontece a cada iteração do loop. Ficando a thread responsável por enviar os dados em espera até que servidor retorne um sinal de *ACK*.
 
@@ -81,9 +81,9 @@ Para acomodar os casos interativos e não interativos, um lock global foi aplica
 
 ### Primeira tarefa
 
-Para a comprovação da eficiência do uso de semáforos como solução para o problema de regiões de mútua exclusão e de sincronização, sejam de threads ou do cliente com o servidor, foram feitos dois caso de teste.
+Para a comprovação da eficiência do uso de semáforos como solução para o problema de regiões de mútua exclusão e de sincronização, sejam de threads ou do cliente com o servidor, foram feitos dois casos de teste.
 
-O primeiro caso foi o uso de um servidor com todos os semáforos comentados em código, no qual não existe portanto a sincronização entre os as threads que atendem os clientes e no qual não existem regiões protegidas do código. Se esperando que neste caso exista uma perda de sincronização entre os clientes e as threads, assim como a mudança durante os momentos de leitura e escrita das várias globais, causando os mais diversos problemas.
+O primeiro caso foi o uso de um servidor com todos os semáforos comentados em código, no qual não existe, portanto, a sincronização entre os as threads que atendem os clientes e no qual não existem regiões protegidas do código. Se esperando que neste caso exista uma perda de sincronização entre os clientes e as threads, assim como a mudança durante os momentos de leitura e escrita das várias globais, causando os mais diversos problemas.
 
 O segundo caso é de um servidor com os semáforos colocados em duas regiões corretas, tanto para a sincronização das threads com os clientes, como para a proteção das regiões críticas, nas quais se alteram as variáveis de escopo global.
 
@@ -91,7 +91,7 @@ Em ambos os casos, 3 diferentes conjuntos de operações foram realizadas de for
 
 ### Segunda tarefa
 
-Para o segundo item pedido ao relatório, foi separado a execução do servidor e do cliente em máquinas diferentes e sobrecarregado o CPU da máquina do servidor. Sendo feita a mudança em várias configurações do sistema operacional, para testar o efeitos destas configurações na velocidade de execução. Estes testes foram realizados primeiramente no modo padrão de compartilhamento de tempo do sistema linux (SCHED_OTHER) e após isso no modo de execução em tempo real (SCHED_RR) do mesmo sistema.
+Para o segundo item pedido ao relatório, foi separado a execução do servidor e do cliente em máquinas diferentes e sobrecarregado o CPU da máquina do servidor. Sendo feita a mudança em várias configurações do sistema operacional, para testar os efeitos destas configurações na velocidade de execução. Estes testes foram realizados primeiramente no modo padrão de compartilhamento de tempo do sistema Linux (SCHED_OTHER) e após isso no modo de execução em tempo real (SCHED_RR) do mesmo sistema.
 
 ## Resultados
 
@@ -103,7 +103,7 @@ No caso do servidor sem os semáforos foram encontrados resultados dispares em r
 
 O mais visível destes foi a execução de forma incompleta do total de alterações esperadas. No primeiro caso analisado, somente 29275 dentre 51000 operações (57%) foram executadas, no segundo foram 2831 de 5000 (56%) e no terceiro apenas 2454 de 6600 operações (37%).
 
-Também foram observados dois efeitos correlacionados, o de clientes que ficaram presos ao final da execução do programa, nunca terminando a sua execução, e o de sockets que acabaram sendo compartilhados por múltiplas threads. Indicando que certos clientes ficaram *órfãos*, não estando conectados diretamente com nenhuma das threads, enquanto que outros se comunicavam com diversas, perdendo-se a garantia das mensagens enviadas chegarem corretamente.
+Também foram observados dois efeitos correlacionados, o de clientes que ficaram presos ao final da execução do programa, nunca terminando a sua execução, e o de sockets que acabaram sendo compartilhados por múltiplas threads. Indicando que certos clientes ficaram *órfãos*, não estando conectados diretamente com nenhuma das threads, enquanto outros se comunicavam com diversas, perdendo-se a garantia das mensagens enviadas chegarem corretamente.
 
 Os clientes presos foram 44 de 102 (43%) para o caso do rotate, 4 de 10 (40%) para o caso do replace e 12 de 24 (50%) para o misto.
 
@@ -123,6 +123,6 @@ No caso do semáforo nenhum dos problemas reportados foi encontrando. Nenhum cli
 
 ### Primeira tarefa
 
-O uso correto dos semáforos permitiu o bom funcionamento do servidor ao atender as requisições de múltiplos clientes de forma simultânea. Enquanto que na falta de semáforos, diversos problemas, alguns já esperados anteriormente e outros não, ocorreram. Impossibilitando o uso do servidor sem os semáforos de forma consistente, em especial durante ocasiões de estresse com alta demanda por parte de uma infinitude de clientes.
+O uso correto dos semáforos permitiu o bom funcionamento do servidor ao atender as requisições de múltiplos clientes de forma simultânea. Enquanto na falta de semáforos, diversos problemas, alguns já esperados anteriormente e outros não, ocorreram. Impossibilitando o uso do servidor sem os semáforos de forma consistente, em especial durante ocasiões de estresse com alta demanda por parte de uma infinitude de clientes.
 
 ### Segunda tarefa
