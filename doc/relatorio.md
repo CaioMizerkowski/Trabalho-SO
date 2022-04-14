@@ -87,6 +87,8 @@ O primeiro caso foi o uso de um servidor com todos os semáforos comentados em c
 
 O segundo caso é de um servidor com os semáforos colocados em duas regiões corretas, tanto para a sincronização das threads com os clientes, como para a proteção das regiões críticas, nas quais se alteram as variáveis de escopo global.
 
+Em ambos os casos, 3 diferentes conjuntos de operações foram realizadas de forma a coletar os problemas realizados e a situação esperada. No primeiro (caso rotate) deles foi executado 102 clientes com operações de rotate (500 alterações por cliente), esperando-se 51000 operações. No segundo (caso replace) foram executados 10 clientes executando cada um 500 operações de replace, esperando-se a contagem de 5000 alterações. No terceiro (caso misto) foram realizadas 6 operações de cada um dos tipos: getr, replace, rotate e del, totalizando 24 clientes distintos e esperando-se um total de 6600 alterações e 3000 leituras.
+
 ### Segunda tarefa
 
 Para o segundo item pedido ao relatório, foi separado a execução do servidor e do cliente em máquinas diferentes e sobrecarregado o CPU da máquina do servidor. Sendo feita a mudança em várias configurações do sistema operacional, para testar o efeitos destas configurações na velocidade de execução. Estes testes foram realizados primeiramente no modo padrão de compartilhamento de tempo do sistema linux (SCHED_OTHER) e após isso no modo de execução em tempo real (SCHED_RR) do mesmo sistema.
@@ -97,12 +99,30 @@ Para o segundo item pedido ao relatório, foi separado a execução do servidor 
 
 #### Servidor sem semáforos
 
+No caso do servidor sem os semáforos foram encontrados resultados dispares em relação aos resultados esperados numa situação exitosa.
+
+O mais visível destes foi a execução de forma incompleta do total de alterações esperadas. No primeiro caso analisado, somente 29275 dentre 51000 operações (57%) foram executadas, no segundo foram 2831 de 5000 (56%) e no terceiro apenas 2454 de 6600 operações (37%).
+
+Também foram observados dois efeitos correlacionados, o de clientes que ficaram presos ao final da execução do programa, nunca terminando a sua execução, e o de sockets que acabaram sendo compartilhados por múltiplas threads. Indicando que certos clientes ficaram *órfãos*, não estando conectados diretamente com nenhuma das threads, enquanto que outros se comunicavam com diversas, perdendo-se a garantia das mensagens enviadas chegarem corretamente.
+
+Os clientes presos foram 44 de 102 (43%) para o caso do rotate, 4 de 10 (40%) para o caso do replace e 12 de 24 (50%) para o misto.
+
+Em todos os casos, diversos erros de protocolos ocorreram pela falta de sincronismo entre o cliente e o servidor. No qual o parâmetro era interpretado como o comando ao servidor, tendo outros casos no qual o comando do servidor era interpretado como um parâmetro.
+
+Neste segundo caso, pode-se ver claramente isso ocorrer no arquivo com os ditados salvos após as operações, especialmente no caso do replace e no caso misto. No qual os ditados foram substituir algumas vezes pela palavra "REPLACE".
+
+No caso do rotate e no caso misto, também foi visto o fenômeno de duplicação de linhas. Ocorrendo 17 duplicações no caso misto e 5 duplicações no caso do rotate.
+
 #### Servidor com semáforos
+
+No caso do semáforo nenhum dos problemas reportados foi encontrando. Nenhum cliente ficou preso, não ocorreu duplicação de linhas e todas as operações esperadas foram realizadas. Confirmando a solução dos semáforos como um método eficaz de sincronizar threads e de fazer a proteção de regiões de múltipla exclusão no código.
 
 ### Segunda tarefa
 
 ## Conclusão
 
 ### Primeira tarefa
+
+O uso correto dos semáforos permitiu o bom funcionamento do servidor ao atender as requisições de múltiplos clientes de forma simultânea. Enquanto que na falta de semáforos, diversos problemas, alguns já esperados anteriormente e outros não, ocorreram. Impossibilitando o uso do servidor sem os semáforos de forma consistente, em especial durante ocasiões de estresse com alta demanda por parte de uma infinitude de clientes.
 
 ### Segunda tarefa
