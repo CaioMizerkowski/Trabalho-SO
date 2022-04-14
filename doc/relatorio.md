@@ -79,13 +79,30 @@ Para acomodar os casos interativos e não interativos, um lock global foi aplica
 
 ## Metodologia
 
+### Primeira tarefa
+
 Para a comprovação da eficiência do uso de semáforos como solução para o problema de regiões de mútua exclusão e de sincronização, sejam de threads ou do cliente com o servidor, foram feitos dois caso de teste.
 
 O primeiro caso foi o uso de um servidor com todos os semáforos comentados em código, no qual não existe portanto a sincronização entre os as threads que atendem os clientes e no qual não existem regiões protegidas do código. Se esperando que neste caso exista uma perda de sincronização entre os clientes e as threads, assim como a mudança durante os momentos de leitura e escrita das várias globais, causando os mais diversos problemas.
 
 O segundo caso é de um servidor com os semáforos colocados em duas regiões corretas, tanto para a sincronização das threads com os clientes, como para a proteção das regiões críticas, nas quais se alteram as variáveis de escopo global.
 
+### Segunda tarefa
+
 Para o segundo item pedido ao relatório, foi separado a execução do servidor e do cliente em máquinas diferentes e sobrecarregado o CPU da máquina do servidor. Sendo feita a mudança em várias configurações do sistema operacional, para testar o efeitos destas configurações na velocidade de execução. Estes testes foram realizados primeiramente no modo padrão de compartilhamento de tempo do sistema linux (SCHED_OTHER) e após isso no modo de execução em tempo real (SCHED_RR) do mesmo sistema.
 
 ## Resultados
 
+### Primeira tarefa
+
+#### Servidor sem semáforos
+
+#### Servidor com semáforos
+
+### Segunda tarefa
+
+## Conclusão
+
+### Primeira tarefa
+
+### Segunda tarefa
